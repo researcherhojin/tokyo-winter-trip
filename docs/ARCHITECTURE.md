@@ -113,3 +113,10 @@ Vite 개발 서버는 node_modules/.vite-dev를 사용하고 의존성 탐색 �
 - **테마 순서.** `ThemeExplorer.tsx`의 `themeGroups`가 사이드바 묶음과 기본 선택(첫 묶음의 첫 테마)을 정하고, `data/spots/index.json`의 `order`도 같은 순서입니다.
 - **준비 체크 탭.** `Checklist.tsx`는 한 번에 한 그룹만 렌더링합니다. 첫 미완료 그룹을 기본 탭으로 열고, 우선 확인 항목을 누르면 해당 탭으로 이동합니다.
 - **휴대폰 지도 맞춤.** `TravelMap.tsx`의 `fitMap`이 `.date-bar`·`.map-toolbar`·`.itinerary-panel` 위치를 재서 남는 영역에 마커를 맞춥니다(남는 높이 80px 미만이면 하단 여백을 줄임). 데스크톱 여백은 `mapViewport.ts`의 72/72/80/56px.
+
+## 사진 검수 도구 (2026-10-18)
+
+- `.claude/skills/tokyo-photo-vetting/SKILL.md`: 사진을 찾거나 바꿀 때의 순서(카드 주인공 정하기 → 자유 라이선스 → 접촉 시트 검수 → 사용자 승인 → 반영·배포).
+- `scripts/contact-sheet.mjs`: 후보 사진을 4:3 칸에 자르지 않고 모아 보는 HTML을 만들고 Playwright로 캡처해 검수합니다.
+- `lib/themePhoto.ts`의 `cardPhotoOrder(ids, nightOnly)`: 야경 테마에서만 밤 사진을 앞에 고정하고, 그 외 테마는 4:3 틀을 잘 채우는 정확한 사진을 앞에 둡니다.
+- 테마 머리의 커버 사진 출처는 `ThemeExplorer.tsx`가 설명 아래 한 줄(`.theme-cover-credit`)로 표시해 13개 테마 머리 높이를 같게 유지합니다.

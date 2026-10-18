@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T06:56:26.849Z",
+  "generatedAt": "2026-10-18T07:09:52.419Z",
   "complete": false,
   "summary": {
     "themes": 13,
@@ -524,12 +524,12 @@
       "blocker": null,
       "referencePhotoId": null,
       "photoIds": [
+        "more-oiwake-dango-2",
         "spot-oiwake",
-        "more-oiwake-dango-1",
-        "more-oiwake-dango-2"
+        "more-oiwake-dango-1"
       ],
       "sourcePage": "https://oiwakedango.co.jp/dango/mitarashi/",
-      "scope": "원본은 오이와케 당고 혼포입니다. 직접 이미지에서 오이와케 당고 상호 노렌·판매대·매장 입구 확인. 현재 상품 재고를 보장하지 않습니다."
+      "scope": "설명 '追分だんご本舗', 분류 'Oiwake Dango'. 같은 업로더의 Dango4(매장 내부)와 같은 날 촬영. 폭 800px로 하한선. 메뉴 구성은 현재와 다를 수 있음. CC BY-SA 4.0, 江戸村のとくぞう"
     },
     {
       "themeId": "desserts",
