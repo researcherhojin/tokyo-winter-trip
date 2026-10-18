@@ -81,6 +81,7 @@ export default function ThemeExplorer({onPlace}:{onPlace:(id:string)=>void}) {
   <dl className="theme-footnote">
    <div><dt>저장</dt><dd>저장한 후보는 이 기기에만 보관하며 여행 일정에 자동으로 추가하지 않습니다.{message&&<span role="status"> {message}</span>}</dd></div>
    <div><dt>자료</dt><dd>{status==='remote'?'서버에서 받은 최신 여행 자료입니다.':status==='fallback'?'서버 자료를 받지 못해 앱에 포함된 기본 자료를 보여줍니다.':'여행 자료를 확인하는 중입니다.'} 영업·행사 정보는 카드의 공식 출처와 확인 날짜를 기준으로 합니다.</dd></div>
+   <div className="theme-footnote-code"><dt>코드</dt><dd><a href="https://github.com/researcherhojin/tokyo-winter-trip" target="_blank" rel="noreferrer">GitHub 저장소<ArrowUpRight size={13} aria-hidden="true"/></a> · 만든 과정과 요청 기록 포함</dd></div>
   </dl>
   </div></div></div>
  </section>

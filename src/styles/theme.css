@@ -301,3 +301,6 @@
 .gallery-nav svg { position:relative; }
 .gallery-prev { left:4px; } .gallery-next { right:4px; }
 @media (max-width: 800px) { .theme-intro-text p { min-height: calc(1.75em * 5); } }
+.theme-footnote-code { display:none !important; }
+.theme-footnote-code a { display:inline-flex; align-items:center; gap:3px; min-height:44px; margin:-12px 0; color:var(--ink); text-decoration:underline; text-underline-offset:3px; }
+@media (max-width: 800px) { .theme-footnote-code { display:grid !important; } }
