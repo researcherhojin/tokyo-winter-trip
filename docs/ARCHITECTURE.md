@@ -120,3 +120,45 @@ Vite 개발 서버는 node_modules/.vite-dev를 사용하고 의존성 탐색 �
 - `scripts/contact-sheet.mjs`: 후보 사진을 4:3 칸에 자르지 않고 모아 보는 HTML을 만들고 Playwright로 캡처해 검수합니다.
 - `lib/themePhoto.ts`의 `cardPhotoOrder(ids, nightOnly)`: 야경 테마에서만 밤 사진을 앞에 고정하고, 그 외 테마는 4:3 틀을 잘 채우는 정확한 사진을 앞에 둡니다.
 - 테마 머리의 커버 사진 출처는 `ThemeExplorer.tsx`가 설명 아래 한 줄(`.theme-cover-credit`)로 표시해 13개 테마 머리 높이를 같게 유지합니다.
+
+## 데이터 흐름
+
+```mermaid
+flowchart LR
+  subgraph 기본자료["기본 자료 (번들)"]
+    D1[trip.ts · places.json<br/>일정·장소]
+    D2[spots/테마.json<br/>후보 1곳 = 1레코드]
+    D3[photos.json<br/>출처·라이선스]
+  end
+  subgraph 서버["서버 (선택)"]
+    S1["/api/catalog/*<br/>trip · themes · preparation"]
+    S2["/api/trip<br/>Notion 시간표"]
+  end
+  subgraph 화면
+    V1[여행 지도]
+    V2[테마 탐색]
+    V3[준비 체크]
+  end
+  G[(Google Maps<br/>JavaScript API)]
+  L[(이 기기<br/>localStorage)]
+  기본자료 -->|즉시 표시| 화면
+  S1 -->|검증 통과 시 덮어씀| 화면
+  S2 -->|검증 통과 시| V1
+  G -.->|실패해도 일정·길찾기 유지| V1
+  V2 <-->|저장한 후보| L
+  V3 <-->|체크·백업| L
+```
+
+## 배포 구조
+
+```mermaid
+flowchart LR
+  Dev["로컬 개발<br/>vite dev 127.0.0.1:5173"] -->|npm run build| Dist[dist/ 정적 파일]
+  Dist -->|wrangler pages deploy| CF["Cloudflare Pages<br/>tokyo-winter-trip.pages.dev"]
+  Fn["functions/api<br/>Pages Functions"] --> CF
+  Srv["server/*.ts<br/>런타임 중립 로직"] --> Fn
+  Srv --> Vite["vite.config.ts<br/>개발 미들웨어"]
+  Srv --> Vercel["api/<br/>Vercel 어댑터"]
+  Key["Google 지도 키<br/>웹사이트 제한 · 하루 300회 · 예산 알림"] -.-> CF
+```
+
