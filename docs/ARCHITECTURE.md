@@ -114,6 +114,10 @@ Vite 개발 서버는 node_modules/.vite-dev를 사용하고 의존성 탐색 �
 - **준비 체크 탭.** `Checklist.tsx`는 한 번에 한 그룹만 렌더링합니다. 첫 미완료 그룹을 기본 탭으로 열고, 우선 확인 항목을 누르면 해당 탭으로 이동합니다.
 - **휴대폰 지도 맞춤.** `TravelMap.tsx`의 `fitMap`이 `.date-bar`·`.map-toolbar`·`.itinerary-panel` 위치를 재서 남는 영역에 마커를 맞춥니다(남는 높이 80px 미만이면 하단 여백을 줄임). 데스크톱 여백은 `mapViewport.ts`의 72/72/80/56px.
 
+## 외부 링크 (2026-10-18)
+
+`App.tsx` 상단에 Notion 여행 본문과 GitHub 저장소(아이콘) 링크가 있고, 800px 이하에서는 둘 다 숨깁니다. 휴대폰에서는 `ThemeExplorer.tsx` 하단 안내의 「코드」 줄(`.theme-footnote-code`)이 GitHub 링크를 대신합니다.
+
 ## 사진 검수 도구 (2026-10-18)
 
 - `.claude/skills/tokyo-photo-vetting/SKILL.md`: 사진을 찾거나 바꿀 때의 순서(카드 주인공 정하기 → 자유 라이선스 → 접촉 시트 검수 → 사용자 승인 → 반영·배포).

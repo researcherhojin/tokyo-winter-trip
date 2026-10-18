@@ -19,7 +19,8 @@
 
 - **사진 재검수:** 사용자 지적(「약사진에 건물 사진 이게 맞습니까?」)으로 제조사 건물·매장 외관·거리 사진 13장을 모두 뺐습니다. 참고 사진은 카드와 같은 종류(음식·상품)만 쓰도록 [사진 검수 스킬](../.claude/skills/tokyo-photo-vetting/SKILL.md)과 접촉 시트 도구(`scripts/contact-sheet.mjs`)를 만들었습니다. 사용자 승인 후 12곳 반영(웨스트 슈크림·유하임 바움쿠헨은 브랜드 실제 음식, 10곳은 비슷한 참고 사진). 79개 카드의 첫 사진을 모아 검수해 오이와케 당고의 첫 사진을 가게 건물에서 당고·차 세트로 바꿨습니다.
 - **약 7곳:** 자유 라이선스 실제 제품 사진이 없고 각 사 약관상 공식 사진을 게재할 수 없어, 사용자 선택에 따라 이름 타일과 「공식 사진」 버튼을 유지합니다. 여행 중 직접 찍은 사진으로 채울 예정입니다.
-- **공개:** Cloudflare Pages(https://tokyo-winter-trip.pages.dev)에 지도 키를 사이트 제한 후 포함해 배포, 공개 저장소 https://github.com/researcherhojin/tokyo-winter-trip 생성. README에 작업 흐름·데이터 흐름·배포 구조 그림, [만든 과정](PROMPTS.md) 문서.
+- **공개:** Cloudflare Pages(https://tokyo-winter-trip.pages.dev)에 지도 키를 사이트 제한 후 포함해 배포, 공개 저장소 https://github.com/researcherhojin/tokyo-winter-trip 생성(MIT). README는 화면 캡처와 짧은 표로 간결하게, 자세한 그림은 [ARCHITECTURE](ARCHITECTURE.md), 과정은 [만든 과정](PROMPTS.md). 화면 상단 Notion 옆 GitHub 아이콘, 휴대폰은 테마 탐색 하단 안내에 링크.
+- **Notion:** 여행 본문·개발 기록 페이지가 Claude Notion 연결에 공유되지 않아 조회 404. 사용자가 페이지 「연결」에 Claude를 추가하면 읽기부터 확인합니다(원본 일정·예약·첨부는 수정하지 않음).
 
 ## 5회차·카드 간결화·탭·사진 · 2026-10-18
 

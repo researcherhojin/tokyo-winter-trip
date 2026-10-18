@@ -80,4 +80,5 @@
 | 65 | 배포·GitHub 공개 | 완료 | Cloudflare 재배포(라이브 확인: 사진 깨짐 0·오류 0·지도 마커·준비 탭), 공개 저장소 https://github.com/researcherhojin/tokyo-winter-trip 생성·푸시(.env·dist·output 제외 확인) |
 | 66 | 상단에 GitHub 링크 | 완료 | Notion 옆 44px 아이콘 버튼(aria-label·title 「GitHub 저장소」), 1440·1024 표시·390은 Notion과 같이 숨김, 가로 넘침 0. 배포 반영 |
 | 67 | 휴대폰에서도 GitHub 링크 | 완료 | 테마 탐색 하단 안내에 「코드 · GitHub 저장소」 줄(800px 이하만, 넓은 화면은 상단 아이콘), 390·320 링크 높이 44px·가로 넘침 0. 배포 반영 |
-| 68 | Notion 편집 권한 확인 | 결정 필요(사용자) | 여행 본문 페이지 조회 시 404(object_not_found): Claude Notion 연결에 페이지가 공유되지 않음. 사용자 공유 필요 |
+| 68 | Notion 편집 권한 확인 | 대기(사용자 공유) | 여행 본문 페이지 조회 시 404(object_not_found): Claude Notion 연결에 페이지가 공유되지 않음. 사용자 공유 필요 |
+| 69 | 문서·개발 흐름·프롬프트 최신화 확인 | 완료 | PROMPTS(10단계 추가), PROJECT_STATUS(공개·Notion), VERIFICATION(6회차 후속), ARCHITECTURE(외부 링크) 갱신, 철자 검사 0 |
