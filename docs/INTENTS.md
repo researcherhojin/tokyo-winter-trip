@@ -77,3 +77,4 @@
 | 62 | GitHub 저장소·README·프롬프트 문서 | 완료 | 공개 저장소(사용자 선택), README 새로 작성(상세는 docs/SETUP.md), docs/PROMPTS.md, .gitignore 정리(.env·dist·output·.wrangler·.playwright-cli·Claude 로컬 상태 제외) |
 | 63 | 사진 재검수(건물·거리 사진 제거, 같은 종류 사진) | 완료 | 제조사 건물·매장 외관·거리 사진 13장 제거. 사진 검수 스킬(.claude/skills/tokyo-photo-vetting)과 접촉 시트(scripts/contact-sheet.mjs) 추가. 사용자 승인 12곳 반영(웨스트·유하임은 브랜드 실제 음식, 10곳 비슷한 참고 사진), Commons·Flickr 원본에서 작가·라이선스·촬영일 재확인. 79개 카드 첫 사진 접촉 시트 검수, 오이와케 당고 첫 사진을 음식으로 |
 | 64 | 약 사진 | 완료(이름 타일 유지) | 7개 제품의 자유 라이선스 실제 제품 사진 없음, 각 사 약관상 공식 사진 게재 불가. 사용자 선택 ④: 이름 타일과 공식 사진 버튼 유지, 여행 중 직접 촬영으로 보완 |
+| 65 | 배포·GitHub 공개 | 완료 | Cloudflare 재배포(라이브 확인: 사진 깨짐 0·오류 0·지도 마커·준비 탭), 공개 저장소 https://github.com/researcherhojin/tokyo-winter-trip 생성·푸시(.env·dist·output 제외 확인) |

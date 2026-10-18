@@ -2,7 +2,7 @@
 
 2026년 12월 11~15일(4박 5일) 3인 도쿄 여행을 위한 웹앱입니다. 날짜별 일정과 지도, 13개 테마의 가볼 만한 곳, 출발 전 준비 체크를 한곳에 모았습니다.
 
-**배포:** https://tokyo-winter-trip.pages.dev
+**배포:** https://tokyo-winter-trip.pages.dev · **저장소:** https://github.com/researcherhojin/tokyo-winter-trip
 
 이 저장소는 앱 코드와 함께, Claude Code와 대화하며 앱을 만든 과정(요청·프롬프트·검증 흐름)을 문서로 남긴 기록이기도 합니다. → [만든 과정](docs/PROMPTS.md)
 
