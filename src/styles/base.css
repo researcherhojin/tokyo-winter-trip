@@ -39,6 +39,8 @@ button:active { filter: brightness(.96); }
 .site-header nav button:hover, .notion-link:hover { background: var(--surface); }
 .site-header nav .nav-active { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
 .notion-link { margin-left: 12px; }
+.github-link { display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 8px; color: var(--muted); }
+.github-link:hover { background: var(--surface); color: var(--ink); }
 .month-label { font-size: 14px; font-weight: 650; }
 .all-days { display: inline-flex; justify-content: center; align-items: center; min-height: 44px; padding: 8px 12px; font-size: 14px; color: var(--muted); border-radius: 8px; }
 .all-days:hover, .all-days.selected { background: var(--accent-soft); color: var(--accent); }
@@ -103,7 +105,7 @@ main:focus { outline: none; }
 @media (max-width: 800px) {
  .site-header { height: 64px; padding: 0 18px; gap: 12px; }
  .brand-word { font-size: 29px; }
- .brand > small, .notion-link { display: none; }
+ .brand > small, .notion-link, .github-link { display: none; }
  .site-header nav { gap: 4px; }
  .site-header nav button { padding: 10px; font-size: 14px; gap: 5px; }
  .month-label { font-size: 14px; }
