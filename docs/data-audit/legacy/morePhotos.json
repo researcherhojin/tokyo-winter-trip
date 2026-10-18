@@ -1,0 +1,72 @@
+{
+  "checkedAt": "2026-10-18",
+  "note": "장소당 3장 이상을 위한 추가 사진(외관·내부·야경·디테일·계절). 각 사진의 출처·라이선스는 photos.json.",
+  "spotPhotoIds": {
+    "architecture-nmwa": [
+      "more-architecture-nmwa-1",
+      "more-architecture-nmwa-2"
+    ],
+    "architecture-nact": [
+      "more-architecture-nact-1",
+      "more-architecture-nact-2"
+    ],
+    "architecture-forum": [
+      "more-architecture-forum-1",
+      "more-architecture-forum-2"
+    ],
+    "architecture-tnm": [
+      "more-architecture-tnm-1",
+      "more-architecture-tnm-2"
+    ],
+    "architecture-horyuji": [
+      "more-architecture-horyuji-1",
+      "more-architecture-horyuji-2"
+    ],
+    "architecture-azabudai": [
+      "more-architecture-azabudai-1",
+      "more-architecture-azabudai-2"
+    ],
+    "architecture-mon": [
+      "more-architecture-mon-1",
+      "more-architecture-mon-2"
+    ],
+    "subculture-nintendo": [
+      "more-subculture-nintendo-1",
+      "more-subculture-nintendo-2"
+    ],
+    "subculture-shibuya-pokemon": [
+      "more-subculture-shibuya-pokemon-1",
+      "more-subculture-shibuya-pokemon-2"
+    ],
+    "subculture-mega": [
+      "more-subculture-mega-1"
+    ],
+    "subculture-radiokaikan": [
+      "more-subculture-radiokaikan-1"
+    ],
+    "subculture-animate": [
+      "more-subculture-animate-1",
+      "more-subculture-animate-2"
+    ],
+    "character-yomiuri": [
+      "more-character-yomiuri-1",
+      "more-character-yomiuri-2"
+    ],
+    "character-harry": [
+      "more-character-harry-1",
+      "more-character-harry-2"
+    ],
+    "starbucks-roastery": [
+      "more-starbucks-roastery-1",
+      "more-starbucks-roastery-2"
+    ],
+    "ladrio": [
+      "more-ladrio-1",
+      "more-ladrio-2"
+    ],
+    "bondy": [
+      "more-bondy-1",
+      "more-bondy-2"
+    ]
+  }
+}

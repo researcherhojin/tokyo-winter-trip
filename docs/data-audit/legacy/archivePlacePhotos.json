@@ -1,0 +1,84 @@
+{
+  "photos": {
+    "archive-place-safu-museum": {
+      "src": "/photos/archive-place-safu-museum.jpg",
+      "alt": "카페 실내 아님 · 차후가 있는 도모 미술관 입구 · 2015년 사진",
+      "caption": "카페 실내 아님 · 차후가 있는 도모 미술관 입구 · 2015년 사진",
+      "author": "Daderot",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Musée_Tomo_entrance_-_Tokyo,_Japan_-_DSC06677.JPG",
+      "capturedAt": "2015-02-17",
+      "checkedAt": "2026-10-18",
+      "width": 1280,
+      "height": 853,
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "modifications": "원문 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Commons 저자의 시설명·주소 도라노몬4-1-35와 카페 공식 주소가 일치합니다. 내려받은 이미지의 Musée Tomo 입구 명판과 외관을 직접 확인했습니다. 카페 개점 전 사진으로 현재 카페의 실내·음식·입구 상태를 보여주지 않습니다."
+    },
+    "archive-place-loops-garden": {
+      "src": "/photos/archive-place-loops-garden.jpg",
+      "alt": "LOOPS 매장 내부 아님 · 같은 LUFTBAUM 공용 실내정원 · 2025년 사진",
+      "caption": "LOOPS 매장 내부 아님 · 같은 LUFTBAUM 공용 실내정원 · 2025년 사진",
+      "author": "エコ殿様",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:LUFTBAUM_04.jpg",
+      "capturedAt": "2025-09-12",
+      "checkedAt": "2026-10-18",
+      "width": 640,
+      "height": 480,
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "modifications": "원문 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Openverse에서 발견 후 Commons 원문 저자·촬영일·CC0를 확인했습니다. 사진에서 유리 외벽과 수목이 있는 LUFTBAUM 공용 공간을 직접 시각 검토했습니다. NEWoMan 공식 안내의 LOOPS 소재 시설과 같으나 LOOPS 좌석·음식·매장 실내를 보여주는 사진은 아닙니다."
+    },
+    "archive-place-loops-panorama": {
+      "src": "/photos/archive-place-loops-panorama.jpg",
+      "alt": "LOOPS 매장 내부 아님 · LUFTBAUM 공용 공간 파노라마 · 2026년 사진",
+      "caption": "LOOPS 매장 내부 아님 · LUFTBAUM 공용 공간 파노라마 · 2026년 사진",
+      "author": "Souka Kinmei",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:NEWoMan_TAKANAWA_LUFTBAUM.jpg",
+      "capturedAt": "2026-05-19",
+      "checkedAt": "2026-10-18",
+      "width": 1280,
+      "height": 221,
+      "fit": "contain",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "modifications": "원문 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Commons 저자의 LUFTBAUM 보태니컬 공간 설명·촬영일·CC BY4.0을 확인하고 원본과 축소본을 직접 시각 검토했습니다. 수목과 전시용 목조 구조물이 보이는 공용 공간으로 LOOPS 자체 내부로 사용하지 않습니다. 초광각 원본 구도를 유지합니다."
+    }
+  },
+  "spotPhotoIds": {
+    "architecture-safu": "archive-place-safu-museum",
+    "architecture-loops": "archive-place-loops-garden"
+  },
+  "additionalSpotPhotoIds": {
+    "architecture-loops": [
+      "archive-place-loops-panorama"
+    ]
+  },
+  "unavailable": {
+    "architecture-safu": "미술관 입구 참고 사진만 확보 · 카페 실내의 공개 재사용 사진 미확보",
+    "architecture-loops": "소재 시설 LUFTBAUM 공용 공간만 확보 · LOOPS 매장 자체 실내 사진 미확보",
+    "subculture-chiikawa-tokyo": "Openverse·Flickr까지 확대했으나 도쿄역 해당 점포와 일치하고 웹앱 공개 재사용 조건을 확인한 사진 미확보. 도쿄미야게 등 다른 점포·다른 캐릭터 매장 사진 제외",
+    "roppongi-seven-photo": "Openverse·Flickr에서 발견한 롯폰기 편의점 사진은 비상업적 조건 또는 지점 불일치로 연결하지 않음",
+    "hamamatsu-parking-photo": "공유 좌표의 정확한 주차시설 미식별. 도쿄타워 지하주차장 계단 등 다른 위치 제외",
+    "yoyogi-rail-photo": "센다가야4초메의 정확 SNS 구도와 촬영 위치를 확인할 수 있는 공개 라이선스 사진 미확보. 기존 요요기 철교 지역 참고 사진만 유지"
+  }
+}

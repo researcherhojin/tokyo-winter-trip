@@ -1,0 +1,258 @@
+{
+  "photos": {
+    "mega": {
+      "src": "/photos/audit-place-mega-entrance.jpg",
+      "alt": "포켓몬센터 MEGA TOKYO 실제 매장 입구 · 2016년 사진",
+      "caption": "포켓몬센터 MEGA TOKYO 실제 매장 입구 · 2016년 사진",
+      "author": "Maplestrip",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Mega_Tokyo_Pokémon_Center_1.jpg",
+      "capturedAt": "2016-07-13",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 1280,
+      "height": 960,
+      "modifications": "Commons 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Commons 저자가 Sunshine City, Ikebukuro의 Mega Tokyo Pokémon Center로 명시했습니다. 직접 시각 검토해 포켓몬 간판·매장 입구와 당시 설치물을 확인했습니다. 선샤인시티 일반 외관이 아닌 실제 매장 사진입니다. 2016년 모습이므로 현재 입구 장식·설치물·상품 재고와 다를 수 있습니다."
+    },
+    "mega-interior": {
+      "src": "/photos/audit-place-mega-interior.jpg",
+      "alt": "포켓몬센터 MEGA TOKYO 실제 매장 내부 · 2016년 사진",
+      "caption": "포켓몬센터 MEGA TOKYO 실제 매장 내부 · 2016년 사진",
+      "author": "Maplestrip",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Mega_Tokyo_Pokémon_Center_2.jpg",
+      "capturedAt": "2016-07-13",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 1280,
+      "height": 960,
+      "modifications": "Commons 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Commons 저자의 Sunshine City, Ikebukuro 명시와 동일 촬영 묶음을 확인했습니다. 직접 시각 검토해 당시 매장 계산대·리자몽 전시물을 확인했습니다. 2016년 전시와 혼잡 상황으로 2026년 현재 상품·조형물을 보장하지 않습니다."
+    },
+    "subculture-chiikawa-harajuku-exact": {
+      "src": "/photos/audit-place-chiikawa-harajuku.png",
+      "alt": "치이카와랜드 하라주쿠가 보이는 키디랜드 실제 입구 · 2023년 사진",
+      "caption": "치이카와랜드 하라주쿠가 보이는 키디랜드 실제 입구 · 2023년 사진",
+      "author": "LKMK64",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:原宿店.png",
+      "capturedAt": "2023-04-04",
+      "checkedAt": "2026-10-18",
+      "fit": "contain",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 908,
+      "height": 1210,
+      "modifications": "Commons 제공 이미지 · 사진 자체 재편집 없음",
+      "viewEvidence": "Commons는 보도에서 촬영한 입구로 설명하며 Kiddy Land Harajuku Store·2023-04-04 도쿄 촬영 분류를 명시합니다. 직접 시각 검토해 KIDDY LAND 간판, 창문의 ちいかわらんど 로고와 입구 치이카와 전면 디스플레이를 확인했습니다. 2013년 건물 일반 외관과 달리 해당 캐릭터 점포의 실재가 사진에 나타납니다. 매장 깊숙한 내부·2026년 현재 디스플레이·도쿄역점 사진은 아닙니다."
+    },
+    "audit-place-pokepark-lab": {
+      "src": "/photos/audit-place-pokepark-lab.jpg",
+      "alt": "PokéPark KANTO 포켓몬 포레스트 입장구 쪽 セッコク 연구소 실내 전시 · 개장일 2026-02-05 사진",
+      "caption": "PokéPark KANTO 포켓몬 포레스트 입장구 쪽 연구소 전시 · 2026-02-05 개장일 사진",
+      "author": "ぶい133",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:ProfSekkokuLab_20260205.jpg",
+      "capturedAt": "2026-02-05",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 1280,
+      "height": 853,
+      "modifications": "Commons 제공 1280px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 촬영자 본인 업로드(Self-published work)이며 PokéPark Kanto 분류와 설명 「ポケモンフォレスト側入場口のセッコク研究所の室内」를 확인했습니다. 직접 시각 검토해 몬스터볼 3개 전시대·포켓몬 알·연구소 책상과 게시판을 확인했습니다. 요미우리랜드 일반 사진이 아니라 개장 후 포케파크 실내 전시 사진입니다. 2026-02-05 개장일 모습이므로 12월 전시 구성·혼잡·입장 동선을 보장하지 않으며 포레스트 전체나 카야츠리 타운 사진은 아닙니다."
+    },
+    "audit-food-nanaya-aoyama-gelato": {
+      "src": "/photos/audit-food-nanaya-aoyama-gelato.jpg",
+      "alt": "나나야 아오야마점 앞에서 든 말차 젤라토 한 컵 · 2024-01-05 사진",
+      "caption": "나나야 아오야마점 앞 말차 젤라토 · 2024-01-05 · 매장 외관 아님, 농도 단계 미확인",
+      "author": "Kanesue",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/kanesue/53639921581/",
+      "capturedAt": "2024-01-05",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 60
+      },
+      "objectPosition": "50% 60%",
+      "width": 768,
+      "height": 1024,
+      "latitude": 35.660355,
+      "longitude": 139.707523,
+      "modifications": "Flickr 제공 1024px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Flickr 원문 제목 「Nanaya」, CC BY 2.0, 촬영 2024-01-05를 확인했습니다. 촬영 좌표 35.660355,139.707523은 OpenStreetMap의 Gelato Nanaya(渋谷2丁目 青山通り, 35.66035,139.70756)에서 약4m입니다. 직접 시각 검토해 검은 컵의 말차 젤라토와 매장 앞 보도를 확인했습니다. 같은 촬영자의 2015·2022년 나나야 사진은 지점 근거가 없어 제외한 상태를 유지합니다. 매장 외관·현재 메뉴·농도 단계는 보여주지 않습니다."
+    }
+  },
+  "spotPhotoIds": {
+    "subculture-mega": "mega",
+    "subculture-chiikawa-harajuku": "subculture-chiikawa-harajuku-exact",
+    "character-yomiuri": "audit-place-pokepark-lab",
+    "nanaya-aoyama": "audit-food-nanaya-aoyama-gelato"
+  },
+  "spotPhotos": {
+    "subculture-mega": [
+      "mega",
+      "mega-interior"
+    ],
+    "subculture-chiikawa-harajuku": [
+      "subculture-chiikawa-harajuku-exact"
+    ],
+    "character-yomiuri": [
+      "audit-place-pokepark-lab"
+    ],
+    "nanaya-aoyama": [
+      "audit-food-nanaya-aoyama-gelato"
+    ]
+  },
+  "audit": {
+    "subculture-mega": {
+      "verdict": "replace",
+      "previousPhotoId": "mega",
+      "replacementPhotoId": "mega",
+      "reason": "기존 선샤인시티 외관을 실제 MEGA TOKYO 매장 입구로 교체"
+    },
+    "subculture-chiikawa-harajuku": {
+      "verdict": "replace",
+      "previousPhotoId": "subculture-kiddy-building",
+      "replacementPhotoId": "subculture-chiikawa-harajuku-exact",
+      "reason": "2013년 일반 외관 대신 치이카와랜드 간판·전면 디스플레이가 확인되는2023년 입구"
+    },
+    "subculture-starwars": {
+      "verdict": "remove-contextual",
+      "previousPhotoId": "starwars",
+      "reason": "2017년 PARCO 외관은 2026년 스타워즈 점포를 보여주지 않음"
+    },
+    "architecture-safu": {
+      "verdict": "remove-contextual",
+      "previousPhotoId": "archive-place-safu-museum",
+      "reason": "2015년 미술관 입구로 현재 카페 자체가 보이지 않음"
+    },
+    "architecture-loops": {
+      "verdict": "remove-contextual",
+      "previousPhotoId": "archive-place-loops-garden",
+      "reason": "LUFTBAUM 공용정원은 LOOPS 매장 자체가 아님. 파노라마도 동일"
+    },
+    "shiba-seven-photo": {
+      "verdict": "remove-unconfirmed",
+      "previousPhotoId": "views-shiba-seven",
+      "reason": "원문 점포명·GPS가 없고 외관 대조만으로 정확 지점확정불가"
+    },
+    "fudanotsuji-photo": {
+      "verdict": "remove-unconfirmed",
+      "previousPhotoId": "spot-fudanotsuji",
+      "reason": "GPS가 지정육교 좌표보다 약130m남쪽. 지정촬영지로불일치"
+    },
+    "hamamatsu-deck-photo": {
+      "verdict": "remove-unconfirmed",
+      "previousPhotoId": "spot-hamamatsu-area",
+      "reason": "인근GPS만으로 지정덱3층 확인불가"
+    },
+    "yoyogi-rail-photo": {
+      "verdict": "keep-unavailable",
+      "reason": "인근CC0철교는정확SNS포토스폿과동일지점미확인. 개별매핑없음유지"
+    },
+    "akabanebashi-photo": {
+      "verdict": "keep-exact-historical",
+      "previousPhotoId": "views-akabanebashi",
+      "reason": "저자가아카바네바시교차점조망명시. 2015년사진시점표시유지"
+    },
+    "azabudai-photo": {
+      "verdict": "keep-exact-historical",
+      "previousPhotoId": "views-azabudai",
+      "reason": "저자가JP타워33층명시. 당시사진과현재출입가능성분리필요"
+    },
+    "character-yomiuri": {
+      "verdict": "add-exact-recent",
+      "previousPhotoId": "yomiuri",
+      "replacementPhotoId": "audit-place-pokepark-lab",
+      "reason": "개장 전 2010년 요미우리랜드 사진 대신 개장일 촬영된 포케파크 실내 전시 사진"
+    },
+    "nanaya-aoyama": {
+      "verdict": "add-exact-located",
+      "replacementPhotoId": "audit-food-nanaya-aoyama-gelato",
+      "reason": "촬영 좌표가 아오야마점에서 약4m인 2024년 나나야 젤라토 사진"
+    }
+  },
+  "checkedAt": "2026-10-18",
+  "placePhotoIds": {
+    "yomiuri": "audit-place-pokepark-lab",
+    "shinbashi": "audit-shinbashi-sl-square",
+    "lodging": "reference-lodging-area",
+    "starwars": "reference-subculture-starwars"
+  },
+  "placeExtraPhotoIds": {
+    "narita": [
+      "more-place-narita-1",
+      "more-place-narita-2"
+    ],
+    "shinbashi": [
+      "more-place-shinbashi-1",
+      "more-place-shinbashi-2"
+    ],
+    "odaiba": [
+      "more-place-odaiba-1",
+      "more-place-odaiba-2"
+    ],
+    "tower": [
+      "more-place-tower-1",
+      "more-place-tower-2"
+    ],
+    "yomiuri": [
+      "stop-yomiuri-jewellumination",
+      "more-place-yomiuri-2"
+    ],
+    "harry": [
+      "more-character-harry-2",
+      "more-character-harry-1"
+    ],
+    "mega": [
+      "more-subculture-mega-1",
+      "more-place-mega-2"
+    ],
+    "sensoji": [
+      "more-place-sensoji-1",
+      "more-place-sensoji-2"
+    ],
+    "skytree": [
+      "winter-skytree-champagne-2014",
+      "more-place-skytree-2"
+    ],
+    "akihabara": [
+      "more-place-akihabara-1",
+      "more-place-akihabara-2"
+    ],
+    "tsukiji": [
+      "more-place-tsukiji-1",
+      "more-place-tsukiji-2"
+    ],
+    "ginza": [
+      "more-place-ginza-1",
+      "more-place-ginza-2"
+    ]
+  }
+}

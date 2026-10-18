@@ -1,0 +1,436 @@
+{
+  "checkedAt": "2026-10-18",
+  "spotReferenceIds": {
+    "roppongi-seven-photo": "reference-roppongi-seven",
+    "shiba-seven-photo": "reference-shiba-seven",
+    "hamamatsu-parking-photo": "reference-hamamatsu-parking",
+    "yoyogi-rail-photo": "reference-yoyogi-rail",
+    "betanagi": "reference-betanagi",
+    "mcdonalds-burger": "reference-mcdonalds-gracoro",
+    "architecture-safu": "reference-architecture-safu",
+    "architecture-loops": "reference-architecture-loops",
+    "subculture-starwars": "reference-subculture-starwars",
+    "subculture-chiikawa-tokyo": "reference-subculture-chiikawa-tokyo"
+  },
+  "photos": {
+    "reference-roppongi-seven": {
+      "src": "/photos/reference-roppongi-seven.jpg",
+      "alt": "롯폰기 거리 정면의 도쿄타워 야경 · 2012년 · 비슷한 참고 사진",
+      "caption": "롯폰기 거리 정면의 도쿄타워 야경 · 2012년",
+      "author": "Aimaimyi",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_08.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Tokyo_Tower_08.jpg/960px-Tokyo_Tower_08.jpg",
+      "capturedAt": "2012-01-03",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 720,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "롯폰기 도로에서 본 도쿄타워입니다. 공유된 롯폰기5-2-1 편의점 앞 촬영 지점이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명의 롯폰기 도도319호선 촬영지와 도쿄타워 정면 구도를 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-shiba-seven": {
+      "src": "/photos/reference-shiba-seven.jpg",
+      "alt": "시바공원에서 본 도쿄타워 · 2018년 · 비슷한 참고 사진",
+      "caption": "시바공원에서 본 도쿄타워 · 2018년",
+      "author": "Ymblanter",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_seen_from_Shiba_Park.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Tokyo_Tower_seen_from_Shiba_Park.jpg/960px-Tokyo_Tower_seen_from_Shiba_Park.jpg",
+      "capturedAt": "2018-01-09",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 1280,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "시바공원 쪽에서 본 도쿄타워입니다. 공유된 시바3초메 편의점 앞 지점이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Tokyo Tower seen from Shiba Park와 사진의 타워·공원 수목을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-hamamatsu-parking": {
+      "src": "/photos/reference-hamamatsu-parking.jpg",
+      "alt": "하마마쓰초 보행 데크에서 선로 너머로 본 도쿄타워 · 2024년 낮 · 비슷한 참고 사진",
+      "caption": "하마마쓰초 보행 데크에서 선로 너머로 본 도쿄타워 · 2024년 낮",
+      "author": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Views_from_elevated_pedestrian_way_from_Tokyo_Port_City_Takeshiba_to_Hamamatsucho_station_8.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Views_from_elevated_pedestrian_way_from_Tokyo_Port_City_Takeshiba_to_Hamamatsucho_station_8.jpg/960px-Views_from_elevated_pedestrian_way_from_Tokyo_Port_City_Takeshiba_to_Hamamatsucho_station_8.jpg",
+      "capturedAt": "2024-02-03",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 723,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "공유 좌표 근처 다케시바 데크의 낮 풍경입니다. 공유된 주차타워나 그 촬영 공간이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 원문 제목의 다케시바~하마마쓰초 보행 데크와 사진 속 신칸센·선로 너머 도쿄타워를 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-yoyogi-rail": {
+      "src": "/photos/reference-yoyogi-rail.jpg",
+      "alt": "요요기의 야마노테선 선로변 골목 · 2020년 · 비슷한 참고 사진",
+      "caption": "요요기의 야마노테선 선로변 골목 · 2020년",
+      "author": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Docomo_tower_seen_from_small_street_along_Yamanote_line.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Docomo_tower_seen_from_small_street_along_Yamanote_line.jpg/960px-Docomo_tower_seen_from_small_street_along_Yamanote_line.jpg",
+      "capturedAt": "2020-10-28",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 1280,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "요요기 선로를 따라가는 골목입니다. 공유된 센다가야4초메 촬영 지점과 열차가 겹치는 장면이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명과 좌표35.681267,139.702759, 사진 속 선로 옹벽·가선주·NTT 도코모 빌딩을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-betanagi": {
+      "src": "/photos/reference-betanagi.jpg",
+      "alt": "새우튀김 덮밥(텐동) · 2012년 도쿄 · 비슷한 참고 사진",
+      "caption": "새우튀김 덮밥(텐동) · 2012년 도쿄",
+      "author": "pelican from Tokyo, Japan",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Rice_bowl_topped_with_shrimp_tempura_(8281030764).jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg/960px-Rice_bowl_topped_with_shrimp_tempura_%288281030764%29.jpg",
+      "capturedAt": "2012-12-08",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 720,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "다른 가게의 텐동입니다. 베타나기의 메뉴·지역 맥주가 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Rice bowl topped with shrimp tempura와 사진 속 새우튀김·계란 덮밥을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-seven-sweet-potato": {
+      "src": "/photos/reference-seven-sweet-potato.jpg",
+      "alt": "집에서 만든 고구마맛탕(다이가쿠이모) · 비슷한 참고 사진",
+      "caption": "집에서 만든 고구마맛탕(다이가쿠이모)",
+      "author": "Ocdp",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Daigaku-imo_001.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Daigaku-imo_001.jpg/960px-Daigaku-imo_001.jpg",
+      "capturedAt": "2016-12-06",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 659,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "일반적인 다이가쿠이모 요리 사진입니다. 세븐일레븐 상품·포장이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Typical Daigakuimo와 사진 속 검은깨 고구마맛탕을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-seven-noodle": {
+      "src": "/photos/reference-seven-noodle.jpg",
+      "alt": "몽고탄멘 나카모토 시나가와점의 매장 메뉴 · 2013년 · 비슷한 참고 사진",
+      "caption": "몽고탄멘 나카모토 시나가와점의 매장 메뉴 · 2013년",
+      "author": "くろふね",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%EF%BC%88%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC%E5%93%81%E5%B7%9D%E5%BA%97%EF%BC%89.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%EF%BC%88%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC%E5%93%81%E5%B7%9D%E5%BA%97%EF%BC%89.jpg/960px-%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%EF%BC%88%E8%92%99%E5%8F%A4%E3%82%BF%E3%83%B3%E3%83%A1%E3%83%B3%E4%B8%AD%E6%9C%AC%E5%93%81%E5%B7%9D%E5%BA%97%EF%BC%89.jpg",
+      "capturedAt": "2013-12-18",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 641,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "같은 브랜드 가게에서 먹는 몽고탄멘입니다. 세븐일레븐 컵라면 제품·포장이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명의 蒙古タンメン中本品川店과 그릇의 中本 로고를 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-lawson-pasta": {
+      "src": "/photos/reference-lawson-pasta.jpg",
+      "alt": "날달걀 노른자를 올린 카르보나라 · 비슷한 참고 사진",
+      "caption": "날달걀 노른자를 올린 카르보나라",
+      "author": "Andy Li",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Spaghetti_Carbonara_with_Japanese_Raw_Egg.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Spaghetti_Carbonara_with_Japanese_Raw_Egg.jpg/960px-Spaghetti_Carbonara_with_Japanese_Raw_Egg.jpg",
+      "capturedAt": "2022-07-15",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 1280,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "홍콩 카페의 카르보나라입니다. 로손 냉장 카르보나라 상품이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명과 사진 속 노른자를 올린 카르보나라를 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-rohto-premium": {
+      "src": "/photos/reference-rohto-premium.jpg",
+      "alt": "같은 브랜드의 일반 V·로토 13mL · 2009년 사진 · 비슷한 참고 사진",
+      "caption": "같은 브랜드의 일반 V·로토 13mL · 2009년 사진",
+      "author": "勇者プクリン",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:V-ROHTO.jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/24/V-ROHTO.jpg",
+      "capturedAt": "2009-10-26",
+      "checkedAt": "2026-10-18",
+      "width": 480,
+      "height": 640,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "같은 V·로토 브랜드의 다른 제품입니다. V로토 프리미엄이 아니므로 구매할 때 포장의 「プレミアム」 표기를 확인하세요."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 現在のＶロート와 병의 V·ロート 13mL 표기를 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-architecture-safu": {
+      "src": "/photos/reference-architecture-safu.jpg",
+      "alt": "기쿠치 간지쓰 기념 도모 미술관 입구 · 2017년 · 비슷한 참고 사진",
+      "caption": "기쿠치 간지쓰 기념 도모 미술관 입구 · 2017년",
+      "author": "Chiba ryo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Musee_Tomo.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Musee_Tomo.jpg/960px-Musee_Tomo.jpg",
+      "capturedAt": "2017-09-25",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 720,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "카페 사후(茶楓)가 있는 미술관의 입구입니다. 카페 내부·좌석은 보이지 않고, 카페 개점 전 사진입니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 菊池寛実記念智美術館과 입구 간판을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-architecture-loops": {
+      "src": "/photos/reference-architecture-loops.jpg",
+      "alt": "뉴우먼 다카나와 입구 · 2025년 개업 전 · 비슷한 참고 사진",
+      "caption": "뉴우먼 다카나와 입구 · 2025년 개업 전",
+      "author": "番記者",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:NEWoMan_Takanawa_01.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/NEWoMan_Takanawa_01.jpg/960px-NEWoMan_Takanawa_01.jpg",
+      "capturedAt": "2025-03-27",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 640,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "LOOPS가 입점한 상업시설 입구입니다. LOOPS 매장 공간이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 TAKANAWA GATEWAY CITYに出店するルミネのNEWoMan Takanawa와 입구 간판을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-subculture-starwars": {
+      "src": "/photos/reference-subculture-starwars.jpg",
+      "alt": "이케부쿠로 PARCO 외관 · 2018년 · 비슷한 참고 사진",
+      "caption": "이케부쿠로 PARCO 외관 · 2018년",
+      "author": "Tokumeigakarinoaoshima",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Ikebukuro_PARCO.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ikebukuro_PARCO.jpg/960px-Ikebukuro_PARCO.jpg",
+      "capturedAt": "2018-11-23",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 575,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "스타워즈 스토어가 있는 건물 외관입니다. 2026년 10월 개장한 매장 내부가 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 池袋パルコを撮影과 PARCO 간판을 직접 확인했습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-subculture-chiikawa-tokyo": {
+      "src": "/photos/reference-subculture-chiikawa-tokyo.jpg",
+      "alt": "도쿄역 일번가 캐릭터 스트리트 입구 · 2017년 업로드 · 비슷한 참고 사진",
+      "caption": "도쿄역 일번가 캐릭터 스트리트 입구 · 2017년 업로드",
+      "author": "Dr.yellow",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_station_%22Ichibangai_-_Character_Street%22.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Tokyo_station_%22Ichibangai_-_Character_Street%22.jpg/960px-Tokyo_station_%22Ichibangai_-_Character_Street%22.jpg",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 720,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "치이카와랜드 도쿄 스테이션이 있는 지하상가 입구입니다. 치이카와랜드 매장이 아니며 2017년 모습입니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 東京駅一番街の東京キャラクターストリート와 입구 간판을 직접 확인했습니다. 업로더가 카메라 날짜 초기화를 안내해 정확한 촬영일은 표시하지 않습니다. 실제 후보의 사진이 없어 사용자가 허용한 비슷한 참고 사진으로만 표시하며, 대표 사진 확보 수에 포함하지 않습니다."
+    },
+    "reference-mochi-cream": {
+      "src": "/photos/reference-mochi-cream.jpg",
+      "alt": "모찌크림 매장 진열 · 2008년",
+      "caption": "모찌크림 매장 진열 · 2008년",
+      "author": "Eliazar Parra Cardenas from Guadalajara, Mexico",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Beautifully_arranged_mochi_cream_(cream-filled_rice_cakes)_(3193959179).jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Beautifully_arranged_mochi_cream_%28cream-filled_rice_cakes%29_%283193959179%29.jpg/960px-Beautifully_arranged_mochi_cream_%28cream-filled_rice_cakes%29_%283193959179%29.jpg",
+      "capturedAt": "2008-12-30",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 720,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "전문점의 크림 찹쌀떡(모찌크림) 진열입니다. 로손 상품·포장이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 mochi cream (cream-filled rice cakes)와 사진 속 진열장·가격표를 직접 확인했습니다."
+    },
+    "reference-cooler-bag": {
+      "src": "/photos/reference-cooler-bag.jpg",
+      "alt": "코스트코 보냉백을 든 행인 · 2022년 우에노",
+      "caption": "코스트코 보냉백을 든 행인 · 2022년 우에노",
+      "author": "DLKR from Tokyo, Japan",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3%E4%BF%9D%E5%86%B7%E3%83%90%E3%83%83%E3%82%B0_(52190395085).jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3%E4%BF%9D%E5%86%B7%E3%83%90%E3%83%83%E3%82%B0_%2852190395085%29.jpg/960px-%E3%82%B3%E3%82%B9%E3%83%88%E3%82%B3%E4%BF%9D%E5%86%B7%E3%83%90%E3%83%83%E3%82%B0_%2852190395085%29.jpg",
+      "capturedAt": "2022-07-03",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 1280,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "오른쪽 사람이 든 파란 가방이 코스트코 보냉백입니다. 게시물의 Standard Products·다이소 보냉백이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 파일명 コストコ保冷バッグ와 사진 오른쪽의 파란·분홍 보냉 토트백을 직접 확인했습니다. 인물은 뒷모습이며 신원을 특정하지 않습니다."
+    },
+    "reference-seven-cafe": {
+      "src": "/photos/reference-seven-cafe.jpg",
+      "alt": "세븐일레븐 세븐카페 커피 머신 · 2013년",
+      "caption": "세븐일레븐 세븐카페 커피 머신 · 2013년",
+      "author": "Nori Norisa",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E3%81%B5%E3%81%A4%E3%81%86%E3%82%B5%E3%82%A4%E3%82%BA_%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA_%E3%81%82%E3%81%9F%E3%81%9F%E3%81%8B%E3%81%84_%E3%81%A4%E3%82%81%E3%81%9F%E3%81%84_(8864451140).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/86/%E3%81%B5%E3%81%A4%E3%81%86%E3%82%B5%E3%82%A4%E3%82%BA_%E5%A4%A7%E3%81%8D%E3%81%84%E3%82%B5%E3%82%A4%E3%82%BA_%E3%81%82%E3%81%9F%E3%81%9F%E3%81%8B%E3%81%84_%E3%81%A4%E3%82%81%E3%81%9F%E3%81%84_%288864451140%29.jpg",
+      "capturedAt": "2013-05-28",
+      "checkedAt": "2026-10-18",
+      "width": 720,
+      "height": 960,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "같은 세븐일레븐 매장의 커피 머신입니다. 카페라테 스무디 상품이 아니며 2013년 기기 모습입니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명의 セブンイレブン 熊谷市役所前店과 사진 속 아이스커피 머신·컵 진열을 직접 확인했습니다."
+    },
+    "reference-taisho-hq": {
+      "src": "/photos/reference-taisho-hq.jpg",
+      "alt": "다이쇼제약 본사 건물 · 2012년",
+      "caption": "다이쇼제약 본사 건물 · 2012년",
+      "author": "Abasaa",
+      "license": "Public domain",
+      "licenseUrl": "https://commons.wikimedia.org/wiki/Help:Public_domain",
+      "source": "https://commons.wikimedia.org/wiki/File:Taisho_Pharmaceutical_Co._Head_Office.JPG",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Taisho_Pharmaceutical_Co._Head_Office.JPG/960px-Taisho_Pharmaceutical_Co._Head_Office.JPG",
+      "capturedAt": "2012-01-07",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 750,
+      "reference": {
+        "label": "제조사 참고 사진",
+        "difference": "제조사 다이쇼제약의 건물입니다. 구내염 패치 제품·포장 사진이 아니므로 구매는 약국에서 제품명으로 확인하세요."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Taisho Pharmaceutical Co. Head Office와 옥상의 大正製薬 간판을 직접 확인했습니다."
+    },
+    "reference-miyarisan-sign": {
+      "src": "/photos/reference-miyarisan-sign.jpg",
+      "alt": "미야리산제약 건물 간판 · 2009년 도쿄",
+      "caption": "미야리산제약 건물 간판 · 2009년 도쿄",
+      "author": "hatch.m",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "source": "https://commons.wikimedia.org/wiki/File:%E8%85%B8%E3%81%AB%E3%83%9F%E3%83%A4%E3%83%AA%E3%82%B5%E3%83%B3_(3192300741).jpg",
+      "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f7/%E8%85%B8%E3%81%AB%E3%83%9F%E3%83%A4%E3%83%AA%E3%82%B5%E3%83%B3_%283192300741%29.jpg",
+      "capturedAt": "2009-01-13",
+      "checkedAt": "2026-10-18",
+      "width": 599,
+      "height": 800,
+      "reference": {
+        "label": "제조사 참고 사진",
+        "difference": "미야플로라 제조사 미야리산제약의 건물 간판입니다. 미야플로라 제품·포장 사진이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명과 건물 옥상의 腸にミヤリサン 간판을 직접 확인했습니다."
+    },
+    "reference-daiichi-sankyo": {
+      "src": "/photos/reference-daiichi-sankyo.jpg",
+      "alt": "다이이치산쿄 본사 건물 · 2025년",
+      "caption": "다이이치산쿄 본사 건물 · 2025년",
+      "author": "Coffee1000mg",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Daiichi_Sankyo_Head_office_building_B.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Daiichi_Sankyo_Head_office_building_B.jpg/960px-Daiichi_Sankyo_Head_office_building_B.jpg",
+      "capturedAt": "2025-09-07",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 1200,
+      "reference": {
+        "label": "제조사 참고 사진",
+        "difference": "크로마이-N을 판매하는 다이이치산쿄 헬스케어의 모회사 건물입니다. 연고 제품·포장 사진이 아닙니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Daiichi Sankyo Head office building B와 건물 외관을 직접 확인했습니다."
+    },
+    "reference-drugstore-shibuya": {
+      "src": "/photos/reference-drugstore-shibuya.jpg",
+      "alt": "시부야의 드러그스토어 마쓰모토키요시 · 2012년",
+      "caption": "시부야의 드러그스토어 마쓰모토키요시 · 2012년",
+      "author": "Yoshio Kohara",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Matsumoto_Kiyoshi_-_panoramio.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Tokyo_Shibuya_Matsumoto_Kiyoshi_-_panoramio.jpg/960px-Tokyo_Shibuya_Matsumoto_Kiyoshi_-_panoramio.jpg",
+      "capturedAt": "2012-03-07",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 679,
+      "reference": {
+        "label": "판매처 참고 사진",
+        "difference": "일본 드러그스토어 매장 외관입니다. 해당 제품 사진이 아니며, 같은 이름의 다른 계열 제품이 있으므로 포장의 정확한 제품명을 약사에게 확인하세요."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 Tokyo Shibuya Matsumoto Kiyoshi와 매장 간판을 직접 확인했습니다."
+    },
+    "reference-mcdonalds-gracoro": {
+      "src": "/photos/reference-mcdonalds-gracoro.jpg",
+      "alt": "일본 맥도날드 겨울 한정 グラコロ · 2021년",
+      "caption": "일본 맥도날드 겨울 한정 グラコロ · 2021년",
+      "author": "毒島みるく",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Gracoro_of_McDonald%27s_Japan.jpg",
+      "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Gracoro_of_McDonald%27s_Japan.jpg/960px-Gracoro_of_McDonald%27s_Japan.jpg",
+      "capturedAt": "2021-12-29",
+      "checkedAt": "2026-10-18",
+      "width": 960,
+      "height": 739,
+      "reference": {
+        "label": "비슷한 참고 사진",
+        "difference": "공유 글에 메뉴명이 없어, 매년 겨울(2025년 11/26~12월 하순) 판매한 グラコロ를 후보로 보여줍니다. 공유된 버거와 같은지는 미확인이며 2026년 판매 일정은 미발표입니다."
+      },
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "Commons 설명 マクドナルド グラコロ（340円）와 단면 사진(그라탱 크로켓·양배추)을 직접 확인했습니다. 2021년 가격·구성은 현재와 다를 수 있습니다."
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "photos": {
+    "spot-fudanotsuji": {
+      "src": "/photos/spot-fudanotsuji.jpg",
+      "alt": "후다노쓰지 교차점 인근 도로 너머로 조명이 켜진 도쿄타워가 보이는 야경",
+      "caption": "후다노쓰지 교차점 인근 조망 · 2017년 사진 · 지정 육교와 동일 위치 미확인",
+      "author": "Zengame",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:GFX02120_(33606902386).jpg",
+      "viewEvidence": "Commons 저자 위치35.644066,139.744111과 후다노쓰지 교차점 야경 분류를 확인했습니다. 공유 좌표35.645238,139.744268보다 약130m남쪽이므로 지정된 보도 육교와 같은 지점이라고 확정하지 않습니다. 2017-03-25 촬영으로 도로·건물·육교의 현재 모습과 다를 수 있습니다.",
+      "capturedAt": "2017-03-25",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 1280,
+      "height": 960,
+      "modifications": "Commons 제공 축소본 · 원본의 가로4:3 구도 유지",
+      "latitude": 35.644066,
+      "longitude": 139.744111
+    },
+    "spot-hamamatsu-area": {
+      "src": "/photos/spot-hamamatsu-area.jpg",
+      "alt": "하마마쓰초 일대의 빌딩 사이로 보이는 도쿄타워와 모리타워",
+      "caption": "하마마쓰초 일대 조망 참고 · 2024년 사진 · 지정 덱3층 사진인지 미확인",
+      "author": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_and_Roppongi_Hills_Mori_Tower_seen_from_Hamamatsucho.jpg",
+      "viewEvidence": "사진 저자가 하마마쓰초 조망으로 명시했고 GPS35.656278,139.757881은 공유 좌표35.6563,139.7581에서 약20m입니다. 다만 GPS만으로 높이·시설·촬영 공간을 특정할 수 없어 지정 스카이덱3층의 사진으로 확정하지 않습니다. 2024-02-03 촬영입니다.",
+      "capturedAt": "2024-02-03",
+      "checkedAt": "2026-10-18",
+      "fit": "contain",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 960,
+      "height": 1275,
+      "modifications": "Commons 제공 축소본 · 세로 원본 구도 유지, 가로 강제 크롭 없음",
+      "latitude": 35.656278,
+      "longitude": 139.757881
+    }
+  },
+  "spotPhotoIds": {
+    "fudanotsuji-photo": "spot-fudanotsuji",
+    "hamamatsu-deck-photo": "spot-hamamatsu-area"
+  },
+  "unavailable": {
+    "roppongi-seven-photo": "롯폰기5-2-1 점포와 일치하면서 무료 사용권을 확인할 수 있는 조망 사진은 확보하지 못했습니다. 시바점 사진을 롯폰기점 사진으로 재사용하지 않습니다.",
+    "hamamatsu-deck-photo": "일대 조망 참고 사진은 확보했으나 지정 스카이덱3층과 같은 촬영 공간인지는 미확인입니다.",
+    "hamamatsu-parking-photo": "정확한 주차시설명·촬영 공간 미확인입니다. 도쿄타워 지하주차장 계단 등 다른 위치를 같은 장소로 표시하지 않습니다."
+  }
+}

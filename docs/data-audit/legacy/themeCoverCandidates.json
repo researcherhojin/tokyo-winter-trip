@@ -1,0 +1,77 @@
+{
+  "theme-cover-rail": {
+    "src": "/photos/theme-cover-rail.jpg",
+    "alt": "요요기5초메 오다큐선 건널목 · 공유한 센다가야 촬영지와 다른 곳",
+    "caption": "요요기5초메 오다큐선 건널목 · 공유한 센다가야 촬영지와 다른 곳",
+    "author": "鋸香具師",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Yoyogi_humikiri_240104.jpg",
+    "viewEvidence": "원본 설명은 요요기5초메·요요기하치만역과 산구바시역 사이 오다큐선 건널목입니다. 실물 확인: 차단기·철길·좁은 보행로가 보입니다. 센다가야 공유 지점의 사진은 아닙니다.",
+    "objectPosition": "center",
+    "themes": [
+      "rail-photo"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  "theme-cover-winter": {
+    "src": "/photos/theme-cover-winter.jpg",
+    "alt": "롯폰기 케야키자카 일루미네이션 · 2024년 사진",
+    "caption": "롯폰기 케야키자카 일루미네이션 · 2024년 사진",
+    "author": "Kakidai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Roppongi_Hills_Keyakizaka_Illumination_2024_(1).jpg",
+    "viewEvidence": "원본 설명·촬영일은 롯폰기힐스 케야키자카 일루미네이션·2024년12월입니다. 실물 확인: 양쪽 가로수 조명과 중앙 뒤편 도쿄타워가 함께 보입니다.",
+    "objectPosition": "center",
+    "themes": [
+      "winter-lights"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  "theme-cover-food": {
+    "src": "/photos/theme-cover-food.jpg",
+    "alt": "도쿄 시바마타의 오뎅 · 2006년 대표자료, 긴자 오뎅집 사진 아님",
+    "caption": "도쿄 시바마타의 오뎅 · 2006년 대표자료, 긴자 오뎅집 사진 아님",
+    "author": "jarsyl",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Oden_by_jarsyl_in_Shibamata,_Tokyo.jpg",
+    "viewEvidence": "원본 페이지의 일본어 설명은 시바마타의 다카기야 오뎅이며 촬영일은2006년1월3일입니다. 실물 확인: 김이 나는 칸막이 냄비의 어묵과 서빙 장면입니다. 긴자 카메유키의 매장·메뉴 사진이 아닙니다.",
+    "objectPosition": "center",
+    "themes": [
+      "food"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  "theme-cover-convenience": {
+    "src": "/photos/theme-cover-convenience.jpg",
+    "alt": "도쿄 쓰키시마 패밀리마트 · 2019년 대표자료, 공유한 상품 사진 아님",
+    "caption": "도쿄 쓰키시마 패밀리마트 · 2019년 대표자료, 공유한 상품 사진 아님",
+    "author": "Donnie28",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:FamilyMart-0320.jpg",
+    "viewEvidence": "원본 설명은 도쿄 쓰키시마 패밀리마트·2019년3월20일입니다. 실물 확인: 패밀리마트 간판·출입구·실내 진열대가 보이는 외관입니다. 현재 판매 상품을 증명하지 않습니다.",
+    "objectPosition": "center",
+    "themes": [
+      "convenience"
+    ],
+    "checkedAt": "2026-10-18"
+  },
+  "theme-cover-pharmacy": {
+    "src": "/photos/theme-cover-pharmacy.jpg",
+    "alt": "도쿄 마쓰모토키요시 드럭스토어 외관 · 2019년 대표자료, 개별 의약품 사진 아님",
+    "caption": "도쿄 마쓰모토키요시 드럭스토어 외관 · 2019년 대표자료, 개별 의약품 사진 아님",
+    "author": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Shinjuku_Matsumoto_Kiyoshi_Takeshita_Street_store_in_Tokyo,_2019_-_129.jpg",
+    "viewEvidence": "원본 파일은 도쿄의 마쓰모토키요시 외관·2019년 자료입니다. 실물 확인: 노란색·파란색 약국 간판과 건물의 하라주쿠 다케시타거리점 표지가 보입니다. 파일명에 신주쿠가 섞여 있어 지점 위치는 확정하지 않으며 개별 의약품의 판매·효능 사진으로 쓰지 않습니다.",
+    "objectPosition": "center",
+    "themes": [
+      "pharmacy"
+    ],
+    "checkedAt": "2026-10-18"
+  }
+}

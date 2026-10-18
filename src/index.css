@@ -1,0 +1,4 @@
+/* Styles are split by surface: shared tokens and shell, the trip map, and theme exploration. Order matters: base → trip → theme. */
+@import './styles/base.css';
+@import './styles/trip.css';
+@import './styles/theme.css';

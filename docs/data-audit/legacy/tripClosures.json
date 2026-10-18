@@ -1,0 +1,92 @@
+{
+  "checkedAt": "2026-10-18",
+  "closures": {
+    "architecture-tnm": [
+      {
+        "date": "12/14",
+        "label": "월요일 휴관",
+        "certainty": "official"
+      },
+      {
+        "date": "12/15",
+        "label": "설비 점검 임시 휴관",
+        "certainty": "official"
+      }
+    ],
+    "architecture-horyuji": [
+      {
+        "date": "12/14",
+        "label": "월요일 휴관",
+        "certainty": "official"
+      },
+      {
+        "date": "12/15",
+        "label": "도쿄국립박물관 임시 휴관",
+        "certainty": "official"
+      }
+    ],
+    "architecture-nmwa": [
+      {
+        "date": "12/14",
+        "label": "월요일 휴관",
+        "certainty": "official"
+      }
+    ],
+    "architecture-nact": [
+      {
+        "date": "12/15",
+        "label": "화요일 휴관",
+        "certainty": "official"
+      }
+    ],
+    "architecture-safu": [
+      {
+        "date": "12/14",
+        "label": "월요일 휴무",
+        "certainty": "official"
+      }
+    ],
+    "anime-shinjuku-gyoen": [
+      {
+        "date": "12/14",
+        "label": "월요일 휴원",
+        "certainty": "official"
+      }
+    ],
+    "anime-fujitv-odaiba": [
+      {
+        "date": "12/14",
+        "label": "월요일 전망실 휴무",
+        "certainty": "official"
+      }
+    ],
+    "tricolore": [
+      {
+        "date": "12/15",
+        "label": "화요일 휴무",
+        "certainty": "official"
+      }
+    ],
+    "ladrio": [
+      {
+        "date": "12/15",
+        "label": "화요일 휴무",
+        "certainty": "official"
+      }
+    ],
+    "ginza-oden": [
+      {
+        "date": "12/13",
+        "label": "공식 영업시간에 일요일 없음",
+        "certainty": "official"
+      }
+    ],
+    "winter-skytree-dream-christmas": [
+      {
+        "date": "12/12",
+        "label": "특별 라이팅 없는 날",
+        "certainty": "official"
+      }
+    ]
+  }
+}

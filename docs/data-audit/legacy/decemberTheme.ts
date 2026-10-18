@@ -1,0 +1,66 @@
+// cspell:words shiba skytree marunouchi midtown roppongi ebisu baccarat
+import type { TravelTheme, ThemeSpot } from './themes'
+import type { ThemeEvidence } from './themeEvidence'
+
+const checkedAt = '2026-10-18'
+const evidence = (summary:string, officialUrl:string, verificationNote:string, photoId:string|undefined, photoNote='같은 장소·행사의 지난 시즌 사진입니다. 2026년 연출과 다를 수 있습니다.'):ThemeEvidence => ({summary, officialUrl, photoPageUrl:null, checkedAt, photoId, photoNote, verificationNote})
+const spots:ThemeSpot[] = [
+ {
+  id:'winter-shiba-christmas-market',name:'도쿄 크리스마스 마켓 · 시바공원 회장',kind:'place',address:'도쿄도 미나토구 시바코엔 3-2 · 도립 시바공원 4호지(오나리몬역 앞 광장)',query:'東京クリスマスマーケット 芝公園 御成門駅前広場',
+  note:'2026년 도쿄 크리스마스 마켓은 히비야가 아니라 시바공원과 신토요스에서 열립니다. 시바공원 회장은 도쿄타워에서 걸어갈 수 있습니다.',
+  details:'12/4–12/25, 11:00–22:00(최종 입장 21:00, 음식 주문 21:30까지). 입장 유료로 12/11(금)은 평일 요금 성인(중학생 이상) 1,000엔, 토·일은 1,500엔, 초등학생 500엔입니다. 도에이 미타선 오나리몬역 A6 출구 도보 1분, JR 하마마쓰초역 북쪽 출구 도보 10분입니다. 1일차 도쿄타워 전후 저녁 후보입니다.',
+  officialUrl:'https://tokyochristmas.net/shiba/',verified:'공식 사이트 회장 안내(날짜·시간·요금) 확인 · 2026.10.18',
+  references:[{title:'도쿄 크리스마스 마켓 공식 · 시바공원 회장',url:'https://tokyochristmas.net/shiba/',note:'기간·시간·요금·교통'}],
+  visitorInfo:{hours:'11:00–22:00 · 최종 입장 21:00 · 첫날 12/4는 16:00 시작',closed:'기간 중 매일(12/4–12/25) · 비가 와도 개최, 태풍·폭우·폭설 시 중지 가능',admission:'유료 · 12/11(금) 성인 1,000엔, 토·일 1,500엔, 초등학생 500엔 · 음식 별도',checkedAt,sourceUrl:'https://tokyochristmas.net/shiba/',note:'12/24·25는 성인 2,000엔 · 행사장 주차장 없음'},
+  evidence:evidence('1일차 도쿄타워에서 걸어갈 수 있는 시바공원 회장의 유료 크리스마스 마켓입니다.','https://tokyochristmas.net/shiba/','공식 사이트 시바공원 회장 페이지에서 기간·시간·요금·교통을 확인했습니다.',undefined,'자유 라이선스 사진을 찾지 못했습니다. 공식 사이트에서 확인하세요.'),
+ },
+ {
+  id:'winter-skytree-dream-christmas',name:'스카이트리 드림 크리스마스 · 특별 라이팅과 마켓',kind:'place',address:'도쿄도 스미다구 오시아게 1-1-2 · 도쿄 스카이트리 타운 4층 스카이 아레나',query:'東京スカイツリータウン スカイアリーナ',photoId:'winter-skytree-christmas-2021',photoIds:['winter-skytree-champagne-2014'],
+  note:'4일차 스카이트리 일정과 같은 곳에서 크리스마스 특별 라이팅과 무료 마켓을 볼 수 있습니다. 12/14(월)는 라이팅 점등일입니다.',
+  details:'11/5–12/25. 타워 특별 라이팅 17:30–22:00, 타운 일루미네이션 16:00–23:00, 4층 마켓 11:00–22:00(음식 주문 21:00까지). 전망대는 별도 예약이고 마켓 음식은 유료입니다. 디자인 3종이 약 15분마다 바뀝니다. 12/12(토)는 특별 라이팅이 없는 날입니다. 4층 야외 광장이라 바람에 대비하세요.',
+  officialUrl:'https://www.tokyo-skytree.jp/press/post/721/',verified:'운영사 공식 보도자료 확인 · 2026.10.18',
+  references:[{title:'도쿄 스카이트리 공식 보도자료',url:'https://www.tokyo-skytree.jp/press/post/721/',note:'라이팅 일정과 제외일'},{title:'PR TIMES · 드림 크리스마스 2026',url:'https://prtimes.jp/main/html/rd/p/000000459.000041446.html'}],
+  visitorInfo:{hours:'특별 라이팅 17:30–22:00 · 마켓 11:00–22:00',closed:'라이팅 제외일 12/1·5·6·9·12·19 등 · 12/14 점등',admission:'발표문에 마켓 입장료 언급 없음 · 음식과 전망대는 유료',checkedAt,sourceUrl:'https://www.tokyo-skytree.jp/press/post/721/',note:'4일차 전망대 일정 전후에 이동 없이 들를 수 있음'},
+  evidence:evidence('4일차 전망대와 같은 곳에서 보는 무료 크리스마스 특별 라이팅과 마켓입니다.','https://www.tokyo-skytree.jp/press/post/721/','2026-10-14 운영사 공식 보도자료로 기간·시간·라이팅 제외일을 확인했습니다.','winter-skytree-christmas-2021'),
+ },
+ {
+  id:'winter-marunouchi-illumination',name:'마루노우치 일루미네이션 · 나카도리',kind:'place',address:'도쿄도 지요다구 마루노우치 · 마루노우치 나카도리(오테마치~유라쿠초 약 1.2km)',query:'丸の内仲通り イルミネーション',photoId:'winter-marunouchi-2019',photoIds:['winter-marunouchi-2022'],
+  note:'샴페인골드 조명을 단 가로수 거리입니다. 숙소 신바시에서 JR로 한 정거장인 유라쿠초에서 걸어서 볼 수 있습니다.',
+  details:'11/12–2027.2/14, 무료. 점등 시간 등 세부는 주최 측이 10월 하순에 발표할 예정입니다. 아무 날 저녁 숙소로 돌아가기 전 산책 후보입니다.',
+  officialUrl:'https://prtimes.jp/main/html/rd/p/000000004.000163832.html',verified:'미쓰비시지쇼 공식 발표(기간) 확인 · 2026.10.18',
+  references:[{title:'PR TIMES · 마루노우치 브라이트 홀리데이 2026',url:'https://prtimes.jp/main/html/rd/p/000000004.000163832.html',note:'2026년 점등 기간'}],
+  visitorInfo:{hours:'점등 시간 공식 미발표',closed:'기간 중 매일',admission:'무료',checkedAt,sourceUrl:'https://prtimes.jp/main/html/rd/p/000000004.000163832.html',note:'점등 시간 발표 후 갱신'},
+  evidence:evidence('숙소에서 JR 한 정거장인 유라쿠초에서 걸어 보는 무료 가로수 일루미네이션입니다.','https://prtimes.jp/main/html/rd/p/000000004.000163832.html','2026-09-17 미쓰비시지쇼 발표로 기간을 확인했습니다. 점등 시간은 발표되면 갱신합니다.','winter-marunouchi-2019'),
+ },
+ {
+  id:'winter-midtown-christmas',name:'도쿄 미드타운 크리스마스',kind:'place',address:'도쿄도 미나토구 아카사카 9-7-1 · 미드타운 가든',query:'東京ミッドタウン ミッドタウン・ガーデン',photoId:'winter-midtown-garden-2014',photoIds:['winter-midtown-market-2013'],
+  note:'잔디광장 일루미네이션과 비눗방울 쇼가 있는 크리스마스 연출입니다.',
+  details:'11/26–12/25, 일루미네이션 17:00–23:00 무료. 비눗방울 연출은 12/20까지 4분에 한 번입니다. 아이스링크(12/5~, 11:00–21:00)는 성인 2,000엔, 12/12부터 홀리데이 요금 2,300엔, 대여화 500엔입니다. 1일차는 도착일이라 도쿄타워·롯폰기·미드타운을 모두 넣기에는 무리이니 하나만 고르세요.',
+  officialUrl:'https://digitalpr.jp/r/145065',verified:'운영사(도쿄 미드타운 매니지먼트) 발표 확인 · 2026.10.18',
+  references:[{title:'미드타운 크리스마스 2026 보도자료',url:'https://digitalpr.jp/r/145065'}],
+  visitorInfo:{hours:'일루미네이션 17:00–23:00',closed:'기간 중 매일 · 기상 시 중지 규정 미기재',admission:'일루미네이션 무료 · 아이스링크 성인 2,000엔(12/12~ 2,300엔)',checkedAt,sourceUrl:'https://digitalpr.jp/r/145065',note:'롯폰기역 직결'},
+  evidence:evidence('1일차 저녁 롯폰기에서 볼 수 있는 미드타운 가든의 무료 일루미네이션입니다.','https://digitalpr.jp/r/145065','운영사 보도자료로 기간·시간·요금을 확인했습니다.','winter-midtown-garden-2014'),
+ },
+ {
+  id:'winter-roppongi-christmas-market',name:'롯폰기 힐스 크리스마스 마켓',kind:'place',address:'도쿄도 미나토구 롯폰기 6-10-1 · 롯폰기 힐스 오야네 플라자',query:'六本木ヒルズ 大屋根プラザ',photoId:'winter-roppongi-market-2025',photoIds:['winter-roppongi-market-2025b'],
+  note:'케야키자카 일루미네이션과 같은 단지에서 열리는 독일식 크리스마스 마켓입니다.',
+  details:'11/21–12/25, 11:00–21:00. 음식·잡화는 유료입니다(입장료는 발표문에 없음). 66플라자 조명(11/13–12/27, 17:00–24:00)과 모리정원 조명도 함께 볼 수 있습니다. 1일차 저녁 케야키자카와 묶는 후보이며 저녁에 혼잡합니다.',
+  officialUrl:'https://www.christmas.hills-site.com/',verified:'모리빌딩 PR TIMES 확인 · 2026.10.18',
+  references:[{title:'PR TIMES · 롯폰기 힐스 크리스마스 2026',url:'https://prtimes.jp/main/html/rd/p/000000429.000048109.html'},{title:'힐스 크리스마스 공식',url:'https://www.christmas.hills-site.com/'}],
+  visitorInfo:{hours:'11:00–21:00',closed:'기간 중 매일',admission:'발표문에 입장료 언급 없음 · 음식·잡화 유료',checkedAt,sourceUrl:'https://prtimes.jp/main/html/rd/p/000000429.000048109.html',note:'케야키자카 일루미네이션과 같은 단지'},
+  evidence:evidence('1일차 저녁 케야키자카 조명과 함께 볼 수 있는 롯폰기 힐스의 크리스마스 마켓입니다.','https://prtimes.jp/main/html/rd/p/000000429.000048109.html','2026-09-30 모리빌딩 보도자료로 기간·시간을 확인했습니다.','winter-roppongi-market-2025','같은 마켓의 2025년 사진입니다. 2026년 부스 구성과 다를 수 있습니다.'),
+ },
+ {
+  id:'winter-ebisu-baccarat',name:'에비스 가든 플레이스 · 바카라 샹들리에',kind:'place',address:'도쿄도 시부야구 에비스 4-20 · 에비스 가든 플레이스 센터 광장',query:'恵比寿ガーデンプレイス センター広場',photoId:'winter-ebisu-baccarat-2026',photoIds:['winter-ebisu-baccarat-2014'],
+  note:'높이 약 5m의 바카라 크리스털 샹들리에를 야외에 거는 겨울 행사입니다. 3일차 저녁 후보인 에비스와 연결됩니다.',
+  details:'11/14–2027.1/11, 샹들리에 11:00–23:00(발표문에 입장료 언급 없음). 크리스마스 마르셰(시계광장·샤토광장, 12/25까지)는 평일 17:00–20:00, 토·일·공휴일 12:00–20:00이라 12/13(일)에 맞습니다. 저녁에는 사진 대기 줄이 생깁니다.',
+  officialUrl:'https://prtimes.jp/main/html/rd/p/000000190.000016744.html',verified:'삿포로부동산개발 PR TIMES 확인 · 2026.10.18',
+  references:[{title:'PR TIMES · 에비스 가든 플레이스 2026 겨울',url:'https://prtimes.jp/main/html/rd/p/000000190.000016744.html'}],
+  visitorInfo:{hours:'샹들리에 11:00–23:00 · 마르셰 주말 12:00–20:00',closed:'기간 중 매일',admission:'발표문에 입장료 언급 없음',checkedAt,sourceUrl:'https://prtimes.jp/main/html/rd/p/000000190.000016744.html',note:'12/13(일) 저녁 식사 후보와 연결'},
+  evidence:evidence('3일차(일) 저녁 에비스에서 보는 바카라 샹들리에와 주말 마르셰입니다.','https://prtimes.jp/main/html/rd/p/000000190.000016744.html','2026-10-15 운영사 보도자료로 기간·시간을 확인했습니다.','winter-ebisu-baccarat-2026'),
+ },
+]
+export const decemberTheme:TravelTheme = {
+ id:'december-tokyo',title:'12월 도쿄에서 할 일',description:'여행 기간(12/11–15)에 열리는 크리스마스 마켓과 일루미네이션입니다. 2026년에 공식 발표된 행사만 싣습니다.',
+ caution:'날짜별 일정에 자동으로 추가하지 않는 후보입니다. 공식 발표가 바뀌면 출발 전 다시 확인하세요. 저녁 야외 행사라 방한 준비가 필요합니다.',spots,
+}

@@ -1,0 +1,135 @@
+{
+ "id": "city-interests",
+ "title": "책방·음악·산책",
+ "description": "공유된 커피·책방·음악 공간을 모았습니다. 지점이나 정확한 명칭을 모르는 항목은 별도로 표시합니다.",
+ "references": [
+  {
+   "title": "공유 게시자 프로필 · 게시물 원문 URL 미제공",
+   "url": "https://www.instagram.com/hello._.hani/",
+   "note": "사용자가 제공한 본문을 한국어로 요약했습니다. 이 링크는 게시물 원문이 아닌 게시자 프로필이며 공식 검증 근거와 구분합니다."
+  }
+ ],
+ "coverPhotoId": "roastery",
+ "spots": [
+  {
+   "id": "kioi-seido",
+   "name": "기오이 세이도 · 紀尾井清堂",
+   "address": "도쿄도 지요다구 기오이초 3-1",
+   "query": "紀尾井清堂 千代田区紀尾井町3-1",
+   "note": "현재 일반 비공개입니다. 외관만 볼 수 있으며 견학·이용 신청은 받지 않습니다.",
+   "evidence": {
+    "summary": "운영사가 현재 일반 공개를 하지 않는 내토 히로시 설계의 기오이 세이도(紀尾井清堂)입니다. 외관만 볼 수 있으며 입장 가능한 관광지로 계획하지 않습니다.",
+    "officialUrl": "https://www.rinri-jpn.or.jp/contact/",
+    "photoPageUrl": "https://www.rinri-jpn.or.jp/news/exhibition2025/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사2025년 종료 전시의 건축·전시 사진 자료입니다. 현재 개방을 의미하지 않습니다.",
+    "verificationNote": "운영사 시설·과거전시에서 紀尾井清堂·기오이초3-1 대조. 현재 일반비공개·견학신청삼가 안내 확인. 2024·2025년 공개일정을2026년12월에 적용하지 않습니다."
+   },
+   "photoId": "archive-food-kioi-exterior",
+   "photoIds": [
+    "archive-food-kioi-interior",
+    "archive-food-kioi-exhibit"
+   ],
+   "visitorInfo": {
+    "hours": "일반 관람 운영시간 없음 · 공개 일정 확인 전 방문 계획 금지",
+    "closed": "일반 비공개 안내 · 별도 공개 행사 여부 확인",
+    "admission": "일반 관람 요금 안내 미확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.rinri-jpn.or.jp/contact/",
+    "note": "기존 운영사 확인 기록은 현재 일반 비공개 안내입니다. 2024·2025년 공개 전시 일정은 2026년 12월 입장 가능 근거가 아닙니다."
+   }
+  },
+  {
+   "id": "starbucks-roastery",
+   "name": "스타벅스 리저브 로스터리 도쿄",
+   "address": "도쿄도 메구로구 아오바다이 2-19-23",
+   "query": "スターバックス リザーブ ロースタリー 東京",
+   "note": "커피와 공간을 구경할 후보입니다. 입장·대기·매장 운영 확인 필요.",
+   "photoId": "roastery",
+   "photoIds": [
+    "more-starbucks-roastery-1",
+    "more-starbucks-roastery-2"
+   ],
+   "evidence": {
+    "summary": "커피 제조와 여러 층의 공간을 둘러보는 로스터리입니다. 나카메구로 주변 산책과 묶어 관심 층·메뉴를 정해두면 좋습니다.",
+    "officialUrl": "https://www.starbucks.co.jp/reserve/roastery/",
+    "photoPageUrl": "https://www.starbucks.co.jp/reserve/roastery/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "스타벅스 공식 로스터리 공간·층별 사진을 원문에서 볼 수 있습니다.",
+    "verificationNote": "메구로구 아오바다이2-19-23·나카메구로역과이케지리오하시역각도보14분 공식확인. 혼잡입장·메뉴·이벤트·방문일영업은재확인.",
+    "photoId": "roastery"
+   },
+   "visitorInfo": {
+    "hours": "08:00–22:00 · 공식 2026-10-01 변경 안내",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "음식·음료·상품별 유료 · 혼잡 시 입장 정리권 운영 가능",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.starbucks.co.jp/reserve/roastery/",
+    "note": "공식 변경 공지 원문 대조. 특정 날짜의 단축 영업을 평상시 시간으로 대입하지 않았습니다. 정리권은 좌석 확보를 보장하지 않으며 12월 운영·행사 확인."
+   }
+  },
+  {
+   "id": "ladrio",
+   "name": "진보초 라드리오",
+   "address": "도쿄도 지요다구 간다진보초 1-3",
+   "query": "ラドリオ 神田神保町1-3",
+   "note": "지요다구 관광협회가 일본에서 처음 비엔나커피를 낸 곳으로 소개하는 진보초 카페입니다.",
+   "evidence": {
+    "summary": "진보초 골목의 오래된 벽돌 카페입니다. 비엔나커피와 음악을 즐기며 책방 산책 중 잠시 쉬어가는 후보로 검토하세요.",
+    "officialUrl": "https://visit-chiyoda.tokyo/app/spot/detail/320",
+    "photoPageUrl": "https://visit-chiyoda.tokyo/app/spot/detail/320",
+    "checkedAt": "2026-10-18",
+    "photoNote": "지요다구 관광협회 공식 개별 장소 페이지에 외관·실내 사진이 있습니다.",
+    "verificationNote": "지요다구 관광협회 페이지에서 진보초1-3·영업시간·화요일 휴무를 확인했습니다. 관광협회는 일본 최초로 비엔나커피를 낸 곳이라고 소개합니다."
+   },
+   "photoId": "spot-ladrio",
+   "photoIds": [
+    "more-ladrio-1",
+    "more-ladrio-2"
+   ],
+   "visitorInfo": {
+    "hours": "평일 11:30–22:30 · 음식 마감 21:30 / 음료 22:00 · 주말·공휴일 12:00–19:00 / 마감 18:30",
+    "closed": "화요일·연말연시(지요다구 관광협회 기준) · 12/15 방문 불가",
+    "admission": "음식·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://visit-chiyoda.tokyo/app/spot/detail/320",
+    "note": "지요다구 관광협회 일본어 개별 페이지 기준. 매장 자체 사이트는 없습니다."
+   },
+   "closures": [
+    {
+     "date": "12/15",
+     "label": "화요일 휴무",
+     "certainty": "official"
+    }
+   ]
+  },
+  {
+   "id": "bondy",
+   "name": "커리 본디",
+   "address": "도쿄도 지요다구 간다진보초 2-3 · 간다고쇼센터 2층(진보초 본점 기준)",
+   "query": "ボンディ 神保町本店 神田古書センタービル2F",
+   "note": "커리를 먹어보고 싶은 후보. 진보초 본점 기준이며 공유글의 지점이 본점인지는 미확인. 간다오가와마치·오테마치·아키하바라 지점은 시간이 다릅니다.",
+   "evidence": {
+    "summary": "채소·과일과 유제품을 조합한 유럽식 커리를 소개하는 본디의 진보초 본점 후보입니다. 책방 산책과 점심을 묶되 대기시간을 남겨두세요.",
+    "officialUrl": "https://bondy.co.jp/web/contents/home.html",
+    "photoPageUrl": "https://bondy.co.jp/web/contents/home.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "본점 공식 원문에 커리 메뉴·매장 사진이 있습니다.",
+    "verificationNote": "진보초2-3 간다고쇼센터2F 확인. 공식 안내는 건물 뒷면 입구 이용·야스쿠니거리쪽진입금지. 공유글의 정확한 지점이 본점인지 별도확인하며 예약·대기는미확정."
+   },
+   "photoId": "spot-bondy",
+   "photoIds": [
+    "more-bondy-1",
+    "more-bondy-2"
+   ],
+   "visitorInfo": {
+    "hours": "진보초 본점: 평일 11:00–22:00 · 주말·공휴일 10:00–22:00 · 주문 마감 21:30",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "메뉴별 유료 · 공식 메뉴표의 1,800엔은 2026년 5월 중순 가격 인상 공지 이전 표기일 수 있어 현재 가격 미확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://bondy.co.jp/web/contents/home.html",
+    "note": "본점 공식 페이지 기준이며 다른 지점 운영시간이 아닙니다. 건물 뒤편 입구 이용. 12월 임시휴무·대기·가격 재확인."
+   }
+  }
+ ]
+}

@@ -1,0 +1,178 @@
+{
+  "kamakura-crossing": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/kamakurakokomae/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+  },
+  "inamuragasaki": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/inamuragasaki/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+  },
+  "gokurakuji": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/gokurakuji/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+  },
+  "enoshima-station": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/enoshima/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+  },
+  "enoshima-island": {
+    "hours": "섬 내 시설별 운영시간 상이 · 개별 시설 확인",
+    "closed": "시설별 휴관일 상이",
+    "admission": "전망시설·동굴 등 유료 시설의 요금 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.fujisawa-kanko.jp/spot/enoshima/",
+    "note": "섬 전체의 단일 영업시간·휴무일로 묶지 않습니다. 겨울철 각 시설의 최종 입장과 기상에 따른 제한은 방문일 확인."
+  },
+  "off-season": {
+    "hours": "공식 운영시간 확인 필요",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "요금·이용 조건 공식 확인 필요",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null,
+    "note": "정확한 소품샵 상호·주소가 아직 특정되지 않았습니다. 비슷한 이름의 다른 시설 운영시간을 대입하지 않습니다."
+  },
+  "betanagi": {
+    "hours": "11:00–15:00",
+    "closed": "수요일",
+    "admission": "음식·음료 메뉴별 유료 · 공식 예시 새우 텐동 1,760엔",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://ishii-shokai2017.com/betanagi/",
+    "note": "운영사 매장 안내 원문 대조. 12월 임시휴무·메뉴·가격은 방문 전 재확인."
+  },
+  "chiba-monorail": {
+    "hours": "열차 운행시간에 따름 · 시야쿠쇼마에역 공식 시간표 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "구간별 모노레일 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://chiba-monorail.co.jp/index.php/info-timetable/station-info/shiyakushomae-station/",
+    "note": "관광시설 영업시간이 아닌 교통기관 운행시간입니다. 치바 방향 첫차·막차·배차와 운휴 공지를 방문일 확인."
+  },
+  "juchheim-ueno": {
+    "hours": "10:00–20:00 · 입점 백화점 1층 기준",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "상품 구매 비용 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.matsuzakaya.co.jp/ueno/hours.html",
+    "note": "유하임 공식 개별점과 입점 백화점 층별 안내를 대조했습니다. 일부 점포는 시간이 다를 수 있어 유하임 당일 운영·품절·백화점 휴관을 재확인."
+  },
+  "hatoya-asakusa": {
+    "hours": "공식 미게시 · 공식 인스타그램(@8108kyoto) 확인",
+    "closed": "공식 미게시",
+    "admission": "음료·디저트 주문 비용 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.8108kyoto.com/",
+    "note": "브랜드 공식 사이트에서 아사쿠사점 주소와 말차 라테·거품 말차 메뉴를 확인했습니다."
+  },
+  "hana-asakusa": {
+    "hours": "11:00–18:00",
+    "closed": "수요일",
+    "admission": "음식·음료 주문별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://page.line.me/501puybv",
+    "note": "공식 LINE의 주소·영업시간·정기휴무 확인. 별도 저녁 메뉴 안내가 있지만 일반 카페 영업시간과 구분하며 방문일 운영을 재확인하세요."
+  },
+  "tabanenoshi": {
+    "hours": "평일 09:00–19:00 · 토·일·공휴일 09:00–20:00 (공식 매장 목록의 아사쿠사 본점 기준)",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "크레페·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://tabanenoshi.com/shopaccess/",
+    "note": "공식 매장 목록의 아사쿠사 본점 시간입니다. 다른 지점 시간은 쓰지 않습니다. 정기휴무는 공식 미표기."
+  },
+  "oiwake-dango": {
+    "hours": "판매 10:30–19:00 · 찻집 평일 12:00–18:00 / 토·일·공휴일 11:30–18:00 · 주문 마감 17:30",
+    "closed": "1월 1일·2일",
+    "admission": "당고·찻집 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://oiwakedango.co.jp/",
+    "note": "공식 매장 안내 대조. 품절 시 조기 종료할 수 있으며 찻집 좌석 예약은 불가. 12월 임시휴무 공지는 방문 전 확인."
+  },
+  "nanaya-aoyama": {
+    "hours": "공식 미게시 · 방문 전 확인",
+    "closed": "공식 미게시 · 매장 공식 계정 안내 확인",
+    "admission": "제라토·상품별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://nanaya-matcha.com/?mode=f4&sid=50",
+    "note": "브랜드 공식 매장 목록에서 주소·전화(03-6427-9008)만 확인했습니다."
+  },
+  "tricolore": {
+    "hours": "08:00–19:00(L.O. 18:30) · 운영사 공식",
+    "closed": "화요일(긴자 공식 상점 안내) · 운영사는 휴무일을 매장 공식 인스타그램으로 안내",
+    "admission": "커피·디저트 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.ginza.jp/shop/873",
+    "note": "예약 불가(운영사 공식). 12/15(화)에는 방문 후보로 넣지 마세요."
+  },
+  "west-aoyama": {
+    "hours": "11:00–19:00 · 평일·주말·공휴일 동일",
+    "closed": "공식 안내상 월–일 영업(정기휴무 표기 없음)",
+    "admission": "음료·디저트 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.ginza-west.com/",
+    "note": "브랜드 공식 2025-06-30 공지는 2025-08-01부터 19시 마감으로 변경한다고 안내합니다. 공식 정기휴무는 별도 확인하지 못했으며 12월 운영·주문 마감 재확인."
+  },
+  "ladrio": {
+    "hours": "평일 11:30–22:30 · 음식 마감 21:30 / 음료 22:00 · 주말·공휴일 12:00–19:00 / 마감 18:30",
+    "closed": "화요일·연말연시(지요다구 관광협회 기준) · 12/15 방문 불가",
+    "admission": "음식·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://visit-chiyoda.tokyo/app/spot/detail/320",
+    "note": "지요다구 관광협회 일본어 개별 페이지 기준. 매장 자체 사이트는 없습니다."
+  },
+  "bondy": {
+    "hours": "진보초 본점: 평일 11:00–22:00 · 주말·공휴일 10:00–22:00 · 주문 마감 21:30",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "메뉴별 유료 · 공식 메뉴표의 1,800엔은 2026년 5월 중순 가격 인상 공지 이전 표기일 수 있어 현재 가격 미확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://bondy.co.jp/web/contents/home.html",
+    "note": "본점 공식 페이지 기준이며 다른 지점 운영시간이 아닙니다. 건물 뒤편 입구 이용. 12월 임시휴무·대기·가격 재확인."
+  },
+  "starbucks-roastery": {
+    "hours": "08:00–22:00 · 공식 2026-10-01 변경 안내",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "음식·음료·상품별 유료 · 혼잡 시 입장 정리권 운영 가능",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.starbucks.co.jp/reserve/roastery/",
+    "note": "공식 변경 공지 원문 대조. 특정 날짜의 단축 영업을 평상시 시간으로 대입하지 않았습니다. 정리권은 좌석 확보를 보장하지 않으며 12월 운영·행사 확인."
+  },
+  "kioi-seido": {
+    "hours": "일반 관람 운영시간 없음 · 공개 일정 확인 전 방문 계획 금지",
+    "closed": "일반 비공개 안내 · 별도 공개 행사 여부 확인",
+    "admission": "일반 관람 요금 안내 미확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.rinri-jpn.or.jp/contact/",
+    "note": "기존 운영사 확인 기록은 현재 일반 비공개 안내입니다. 2024·2025년 공개 전시 일정은 2026년 12월 입장 가능 근거가 아닙니다."
+  },
+  "ginza-oden": {
+    "hours": "월–금 17:00–01:00(L.O. 24:00) · 토·공휴일 17:00–23:00(L.O. 22:00)",
+    "closed": "공식 LINE에 일요일 영업시간 없음 · 방문 전 전화(03-3541-6261) 확인",
+    "admission": "음식·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://page.line.me/wfi6187d",
+    "note": "공식 LINE 기준. 신용카드 불가, 전 좌석 흡연 가능, 1인부터 좌석 예약 가능(12인 반개인실 있음)."
+  },
+  "pizza-shinagawa": {
+    "hours": "예약 슬롯 11:00 / 12:30 / 14:00 / 15:30 / 17:00 · 각 65분",
+    "closed": "방문월 공식 영업 캘린더 확인 · 정기휴무 확정 불가",
+    "admission": "1인 피자 1판·음료 1잔 · 6세 이상 · 예약 조건 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.tablecheck.com/ko/shops/400-yonhyakudo-shinagawa/reserve",
+    "note": "매장 지정 TableCheck 원문 대조. 이번 달 휴무 없음이라는 문구를 12월에도 적용하지 않습니다. 7일 전 13시 예약 개시이며 예약·결제를 실행하지 않았습니다."
+  }
+}

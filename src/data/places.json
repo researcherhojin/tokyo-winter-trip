@@ -1,0 +1,625 @@
+[
+  {
+    "id": "narita",
+    "name": "나리타국제공항 T2",
+    "jp": "成田空港 第2ターミナル",
+    "area": "Narita",
+    "position": {
+      "lat": 35.773361,
+      "lng": 140.38775
+    },
+    "address": "千葉県成田市古込字古込1-1 第2旅客ターミナルビル",
+    "hours": "항공편별 체크인 카운터·마감시간 확인 필요",
+    "booking": "공유 항공편 시각 반영 · 항공사·수속 마감 재확인",
+    "experience": "도착 후 입국·수하물·교통카드 준비. 귀국은 15:30 도착 목표.",
+    "url": "https://www.narita-airport.jp/en/access/",
+    "coordinateSource": "https://www.wikidata.org/wiki/Q58043419",
+    "positionNote": "시설 대표 위치 · 출입구는 현장 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "成田空港 第2ターミナル 千葉県成田市古込字古込1-1 第2旅客ターミナルビル",
+    "guide": {
+      "overview": "도착일과 귀국일의 기준점입니다. 이번 항공편은 제2터미널 계획이며 열차에서는 공항 제2빌딩역과 제1터미널 종점을 구분해야 합니다.",
+      "visitPlan": [
+        "도착: 입국심사 → 수하물 수령 → 세관 → 철도 승강장 순으로 이동합니다.",
+        "귀국: 짐 회수 후 공항으로 이동하고 체크인 → 보안검색 → 출국심사 → 탑승구 순서로 진행합니다."
+      ],
+      "access": "신바시 직통 열차는 행선지·정차역을 확인합니다. 직통이 맞지 않으면 닛포리에서 Skyliner로 환승하는 대안을 조회하세요.",
+      "tips": [
+        "15:30–16:00 T2 도착은 우리 여행의 여유 계획입니다. 항공사의 체크인·수하물·탑승 마감이 우선입니다.",
+        "터미널과 체크인 카운터는 항공사·당일 운항에 따라 재확인하세요."
+      ],
+      "budget": "철도 운임·특급권은 경로별로 다릅니다. Skyliner는 지정 열차의 특급권 조건을 확인합니다.",
+      "sources": [
+        {
+          "title": "공항 국제선 출발 절차",
+          "url": "https://www.narita-airport.jp/en/airportguide/inter-dep/"
+        },
+        {
+          "title": "공항 교통 안내",
+          "url": "https://www.narita-airport.jp/en/access/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "shinbashi",
+    "name": "신바시역",
+    "jp": "新橋駅",
+    "area": "Shinbashi",
+    "position": {
+      "lat": 35.666301,
+      "lng": 139.758679
+    },
+    "address": "東京都港区新橋2丁目（역 주소）",
+    "hours": "열차별 첫차·막차 확인 필요",
+    "booking": "열차 행선지·시간표와 역 로커 이용 가능 여부 확인",
+    "experience": "JR·지하철·유리카모메 환승 기준점입니다. 숙소는 신바시 5초메 29번 구역에 별도로 표시합니다.",
+    "url": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=877",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Shimbashi_Station",
+    "positionNote": "역 대표 위치 · 숙소와 별도 표시",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "新橋駅 東京都港区新橋2丁目",
+    "guide": {
+      "overview": "JR·아사쿠사선·긴자선·유리카모메를 갈아타는 여행의 환승 기준점입니다. 역과 숙소 주소 구역은 서로 다른 위치입니다.",
+      "visitPlan": [
+        "짐 보관이 필요하면 숙소 가능 여부부터 확인합니다. 로커는 빈자리와 크기를 보장할 수 없습니다.",
+        "오다이바는 유리카모메, 공항은 해당 공항행 열차의 노선과 행선지를 찾아 이동합니다."
+      ],
+      "access": "지도는 역 대표점입니다. 개별 노선 승강장·출입구는 현장 표지와 역 지도를 따르고 숙소까지는 별도 도보 길찾기를 사용하세요.",
+      "tips": [
+        "JR과 지하철 개찰구를 구분하고 IC카드 입장·퇴장은 같은 기기와 카드로 합니다.",
+        "특급권이 필요한 열차인지 확인하세요. 교통카드 잔액만으로 모든 열차를 탈 수 있는 것은 아닙니다."
+      ],
+      "budget": "노선별 운임과 로커 비용은 별도입니다. 공항 열차의 예약·특급권 조건을 함께 확인합니다.",
+      "sources": [
+        {
+          "title": "JR동일본 신바시역 안내",
+          "url": "https://www.jreast.co.jp/estation/station/info.aspx?StationCd=877"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "odaiba",
+    "name": "오다이바 해변공원",
+    "jp": "お台場海浜公園",
+    "area": "Odaiba",
+    "position": {
+      "lat": 35.631174,
+      "lng": 139.776455
+    },
+    "address": "東京都港区台場1-4",
+    "hours": "방문일 공원 이용·공사 제한 확인 필요",
+    "booking": "야외 산책 · 주변 시설은 별도 요금 확인",
+    "experience": "자유의 여신상과 레인보우브리지 사진. 항공편 지연 시 체류 단축.",
+    "url": "https://www.gotokyo.org/en/spot/39/index.html",
+    "coordinateSource": "https://www.olympedia.org/venues/2103",
+    "positionNote": "공원 대표 위치 · 자유의 여신상까지 해변 산책",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "お台場海浜公園 東京都港区台場1-4",
+    "guide": {
+      "overview": "도쿄만을 따라 걷는 해변공원입니다. 레인보우브리지를 바라보며 산책하고 자유의 여신상 주변에서 사진을 남기는 도착일 코스입니다.",
+      "visitPlan": [
+        "우리 일정 제안: 해변 산책 → 레인보우브리지 조망 → 자유의 여신상 주변 사진.",
+        "입국이 늦어지면 산책 시간을 줄이고 도쿄타워로 이동할 시간을 확보합니다."
+      ],
+      "access": "유리카모메 오다이바카이힌코엔역·다이바역에서 접근합니다. 공원 핀은 자유의 여신상이나 특정 사진 지점이 아닌 대표점입니다.",
+      "tips": [
+        "겨울 바닷가 산책이므로 방풍 겉옷을 준비하고 날씨가 나쁘면 실내 휴식과 짧은 산책으로 조정하세요.",
+        "조명·공사·행사는 방문일 공식 안내를 확인합니다. 야경까지 머물면 이후 일정 조정이 필요합니다."
+      ],
+      "budget": "야외 산책 중심의 계획입니다. 주변 식당·상업시설·유료 체험은 별도 예산으로 잡습니다.",
+      "sources": [
+        {
+          "title": "GO TOKYO 오다이바 해변공원",
+          "url": "https://www.gotokyo.org/en/spot/39/index.html"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "tower",
+    "name": "도쿄타워 · 조조지·시바공원",
+    "jp": "東京タワー",
+    "area": "Shibakoen",
+    "position": {
+      "lat": 35.65861,
+      "lng": 139.74556
+    },
+    "address": "東京都港区芝公園4-2-8（도쿄타워）",
+    "hours": "메인덱 09:00–23:00(최종 입장 22:30) · 톱덱 투어 09:00–22:45(마지막 투어 22:15) · 방문일 재확인",
+    "booking": "야경 산책 필수 · 전망대는 선택·유료, 최신 요금 확인",
+    "experience": "조조지 산문 앞 야경과 시바공원 산책. 밤에는 조조지 실내 관람을 보장하지 않음.",
+    "url": "https://en.tokyotower.co.jp/",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Tokyo_Tower",
+    "positionNote": "시설 대표 위치 · 출입구는 현장 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "東京タワー 東京都港区芝公園4-2-8",
+    "guide": {
+      "overview": "150m 메인덱과 250m 톱덱을 갖춘 도쿄의 상징입니다. 첫날은 조조지·시바공원에서 타워 자체를 바라보는 야경 산책이 중심이고 전망대 입장은 선택입니다.",
+      "visitPlan": [
+        "우리 일정 제안: 조조지 산문 주변 감상 → 시바공원 산책 → 체력과 대기에 따라 전망대 선택.",
+        "전망대를 생략해도 외관 사진과 공원 산책 후 신바시 저녁으로 이어갈 수 있습니다."
+      ],
+      "access": "다이몬역 또는 아카바네바시역 등에서 도보 접근합니다. 역별 도보 경로는 공식 접근 지도를 확인하세요.",
+      "tips": [
+        "밤 산책이 조조지 본당 실내 관람을 뜻하지는 않습니다. 사찰 출입 가능 구역은 현장 안내를 따릅니다.",
+        "공유한 주차장·편의점 사진 지점은 별도 후보입니다. 사유지 내부에서 같은 구도를 재현하는 동선으로 확정하지 않습니다."
+      ],
+      "budget": "공식 일반 성인 요금: 메인덱 1,500엔, 톱덱 웹 3,300엔·창구 3,500엔(2026-10-18 확인). 12/11 판매 조건·변경 여부를 구매 전 재확인하세요.",
+      "sources": [
+        {
+          "title": "도쿄타워 요금·영업시간",
+          "url": "https://en.tokyotower.co.jp/fee/"
+        },
+        {
+          "title": "도쿄타워 접근",
+          "url": "https://en.tokyotower.co.jp/access/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "yomiuri",
+    "name": "요미우리랜드 / PokéPark KANTO",
+    "jp": "よみうりランド / ポケパーク カントー",
+    "area": "Inagi",
+    "position": {
+      "lat": 35.6258,
+      "lng": 139.519
+    },
+    "address": "東京都稲城市矢野口4015-1（PokéPark KANTO 공식 주소）",
+    "hours": "12/12 운영시간·포레스트 지정시간·곤돌라 운행 확인 필요",
+    "booking": "티켓 3장 원문 확인 · 12/12 Trainer’s Pass · 포레스트 11:00–12:00 입장",
+    "experience": "포켓몬 포레스트·사초 타운. Town Pass는 포레스트 입장 불가. 일루미네이션 점등 일정 재확인.",
+    "url": "https://www.pokepark-kanto.co.jp/ppark/ticketInfo/type/index",
+    "coordinateSource": "https://commons.wikimedia.org/wiki/Category:Yomiuriland",
+    "positionNote": "요미우리랜드 단지 대표 위치 · 포케파크 입구는 원내 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "よみうりランド / ポケパーク カントー 東京都稲城市矢野口4015-1",
+    "guide": {
+      "overview": "포켓몬 포레스트의 자연 속 산책과 사초 타운의 상점·공연을 함께 즐기는 공간입니다. 요미우리랜드 안에 있지만 일반 놀이기구와 포케파크 권종의 이용 범위는 다릅니다.",
+      "visitPlan": [
+        "권종·포레스트 지정시간을 먼저 확인하고 그 시간을 기준으로 점심과 타운 동선을 배치합니다.",
+        "공식 앱의 상점·공연 정리권을 확인한 뒤 포레스트 → 타운 → 저녁 조명 순으로 조정하는 계획입니다."
+      ],
+      "access": "게이오요미우리랜드역에서 곤돌라 등으로 접근합니다. 지도는 단지 대표점이며 포케파크 입구·곤돌라 운행과 대체 접근은 공식 교통 안내를 따릅니다.",
+      "tips": [
+        "공유 티켓 3장 모두 12/12 포레스트 입장 가능 시간 11:00–12:00. 관람 종료시간과 구분합니다.",
+        "Trainer’s Pass는 포레스트 지정시간 내 1회 입장·재입장 불가입니다. Town Pass는 포레스트에 들어갈 수 없습니다.",
+        "일부 상점·공연 정리권은 요미우리랜드 입장 후 10:45부터 공식 앱에서 신청합니다. 배정 여부를 확인하세요.",
+        "포레스트에는 경사와 110계단 구간이 있습니다. 공식 입장 제한·보행 조건을 확인하고 편한 신발을 준비합니다."
+      ],
+      "budget": "모든 권종에 요미우리랜드 입장이 포함됩니다. 권종·방문일별 금액과 일반 놀이기구·식사·상품의 별도 조건을 확인합니다. 결제 기록을 최종 권종 확인으로 간주하지 않습니다.",
+      "sources": [
+        {
+          "title": "포케파크 권종·정리권·입장 제한",
+          "url": "https://www.pokepark-kanto.co.jp/ppark/ticketInfo/type/index"
+        },
+        {
+          "title": "요미우리랜드 교통 안내",
+          "url": "https://www.yomiuriland.com/traffic/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "harry",
+    "name": "해리포터 스튜디오 투어",
+    "jp": "ワーナー ブラザース スタジオツアー東京",
+    "area": "Toshimaen",
+    "position": {
+      "lat": 35.745698,
+      "lng": 139.645715
+    },
+    "address": "東京都練馬区春日町1-1-7",
+    "hours": "운영 캘린더·예약 입장시간 확인 필요",
+    "booking": "12/13 10:00 일행 합의 · 3인 예매·결제 완료 미확인",
+    "experience": "호그와트 대연회장, 9¾ 승강장, 버터비어. 관람과 식사 4~5시간 계획.",
+    "url": "https://www.wbstudiotour.jp/plan-your-visit/location/",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Warner_Bros._Studio_Tour_Tokyo_%E2%80%93_The_Making_of_Harry_Potter",
+    "positionNote": "시설 대표 위치 · 출입구는 현장 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "ワーナー ブラザース スタジオツアー東京 東京都練馬区春日町1-1-7",
+    "guide": {
+      "overview": "영화 제작의 세트·소품·의상·특수효과를 살펴보는 도보형 스튜디오 투어입니다. 세트 관찰과 사진, 제작 과정을 즐기는 방문으로 계획합니다.",
+      "visitPlan": [
+        "우리 일정 제안: 호그와트 대연회장·주요 세트 → 9¾ 승강장 사진 → 식사·버터비어 → 남은 전시·기념품. 실제 동선은 시설 안내를 따릅니다.",
+        "10:00–14:30은 사진·식사를 포함한 우리 계획입니다. 체험 대기가 길면 기념품 시간을 조정해 이케부쿠로 이동 여유를 남깁니다."
+      ],
+      "access": "공식 안내는 토시마엔역에서 도보 약 2분입니다. 이후 이케부쿠로는 세이부 토시마엔역을 이용하는 경로를 조회합니다.",
+      "tips": [
+        "12/13 10:00은 합의한 시간이며 예매·결제 완료는 미확인입니다. QR과 구매 내역에서 날짜·입장시각·인원을 확인해야 합니다.",
+        "관심 세트와 체험을 먼저 정하세요. 행사·촬영 제한·유료 체험은 방문일 공식 안내가 우선입니다."
+      ],
+      "budget": "방문일·권종별 판매가는 공식 티켓 화면에서 확인합니다. 식음료·상품·추가 유료 체험을 입장권에 모두 포함된 것으로 계산하지 않습니다.",
+      "sources": [
+        {
+          "title": "스튜디오 전시·체험",
+          "url": "https://www.wbstudiotour.jp/the-experience/activity/"
+        },
+        {
+          "title": "스튜디오 방문 가이드",
+          "url": "https://www.wbstudiotour.jp/plan-your-visit/"
+        },
+        {
+          "title": "토시마엔역 접근",
+          "url": "https://www.wbstudiotour.jp/plan-your-visit/location/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "starwars",
+    "name": "STAR WARS STORE by BENELIC",
+    "jp": "スター・ウォーズ ストア",
+    "area": "Ikebukuro",
+    "position": {
+      "lat": 35.7307289,
+      "lng": 139.7123836
+    },
+    "address": "東京都豊島区南池袋1-28-2 池袋PARCO 本館6F",
+    "hours": "일반 안내 11:00–21:00 · 시설 사정에 따라 변경",
+    "booking": "공식 2026/10/13 공지: 10/13부터 일반 입장 예약 없이 방문 가능. 혼잡 시 입장 제한·정리권 배포 가능. 12/13 재공지와 별도 체험·이벤트 조건은 방문 전 재확인",
+    "experience": "일본 최초의 스타워즈 공식 상설점. 한정 굿즈와 일부 상품을 원하는 디자인으로 꾸미는 체험형 굿즈 코너(유료). 제품·재고·체험 조건은 방문 전 확인. 본관 6층.",
+    "url": "https://benelicstore.com/info/news/20260902_storenews/",
+    "coordinateSource": "https://mapfan.com/spots/SCQQA%2CJ%2CH4",
+    "positionNote": "PARCO 건물 대표 위치 · 매장은 본관 6F",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "スター・ウォーズ ストア 東京都豊島区南池袋1-28-2 池袋PARCO 本館6F",
+    "guide": {
+      "overview": "일본 최초의 스타워즈 공식 상설 스토어입니다. 한정 굿즈를 보고 일부 상품을 원하는 디자인으로 꾸미는 체험형 굿즈 코너를 검토할 수 있습니다.",
+      "visitPlan": [
+        "우리 일정 제안: 본관 6층 입장 → 관심 캐릭터·한정 상품 확인 → 커스터마이즈 코너 조건과 소요 확인.",
+        "커스터마이즈 체험 대기가 길면 상품 쇼핑을 우선하고 Sunshine City 또는 저녁 약속으로 이어갑니다."
+      ],
+      "access": "이케부쿠로 PARCO 본관 6층입니다. 핀은 건물 대표점이며 본관 표지를 확인하세요.",
+      "tips": [
+        "2026/10/13 공지로 일반 입장 예약제가 종료됐습니다. 개점 당시 SNS의 사전 예약 문구를 현재 규정으로 쓰지 않습니다.",
+        "혼잡 시 정리권·입장 제한이 있을 수 있고 별도 체험·행사 조건과 상품 재고는 보장되지 않습니다. 12/13 직전 재확인하세요."
+      ],
+      "budget": "커스터마이즈 상품은 유료입니다. 상품 가격과 조합·체험 조건을 확인하며 사전 결제를 하지 않았습니다.",
+      "sources": [
+        {
+          "title": "BENELIC 상설점 소개",
+          "url": "https://benelicstore.com/info/news/20260902_storenews/"
+        },
+        {
+          "title": "10/13 입장 예약제 종료",
+          "url": "https://benelicstore.com/info/news/star-wars-store-by-benelic%E6%B1%A0%E8%A2%8B%E3%83%91%E3%83%AB%E3%82%B3%E5%BA%97%E3%80%80%E5%85%A5%E5%BA%97%E4%BA%88%E7%B4%84%E5%88%B6%E7%B5%82%E4%BA%86%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "mega",
+    "name": "Pokémon Center MEGA TOKYO",
+    "jp": "ポケモンセンターメガトウキョー",
+    "area": "Ikebukuro",
+    "position": {
+      "lat": 35.7289056,
+      "lng": 139.7193245
+    },
+    "address": "東京都豊島区東池袋3-1-2 Sunshine City alpa 2F",
+    "hours": "일반 안내 10:00–20:00 · 변경·휴업 공지 확인",
+    "booking": "쇼핑 · 혼잡 시 입장 제한 확인",
+    "experience": "한정 굿즈와 Pokémon GO Lab. 시간이 부족하면 생략하는 선택 일정.",
+    "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/",
+    "coordinateSource": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/",
+    "positionNote": "공식 사이트 지도 중심 좌표 · 매장은 alpa 2F",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "ポケモンセンターメガトウキョー 東京都豊島区東池袋3-1-2 Sunshine City alpa 2F",
+    "guide": {
+      "overview": "선샤인시티 alpa 2층의 포켓몬 공식 매장입니다. 상품 쇼핑과 함께 주변의 Pokémon GO Lab.·카드 스테이션·피카츄 스위츠를 관심에 따라 살펴볼 수 있습니다.",
+      "visitPlan": [
+        "우리 일정 제안: alpa 2층 매장 → 관심 상품·사진 → 시간이 남으면 주변 포켓몬 시설.",
+        "12/13 저녁 약속이 먼저입니다. PARCO에서 이동·매장 대기를 고려해 부족하면 생략하는 선택 일정입니다."
+      ],
+      "access": "공식 안내는 이케부쿠로역 도보 약 8분, 히가시이케부쿠로역 약 3분입니다. PARCO 출발은 별도 도보 길찾기를 사용하세요.",
+      "tips": [
+        "GO Lab.·카드 행사·식음료 시설은 매장 입장과 이용 조건이 같다고 가정하지 않습니다.",
+        "일반 영업은 10:00–20:00입니다. 방문일 휴업·입장 제한과 원하는 상품 재고를 재확인합니다."
+      ],
+      "budget": "상품·음료·카드 행사 비용은 각각 확인합니다. 관심 목록은 구매·예약 완료를 의미하지 않습니다.",
+      "sources": [
+        {
+          "title": "MEGA TOKYO 공식 매장·주변 시설",
+          "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "sensoji",
+    "name": "아사쿠사 · 센소지",
+    "jp": "浅草寺",
+    "area": "Asakusa",
+    "position": {
+      "lat": 35.71472,
+      "lng": 139.79675
+    },
+    "address": "東京都台東区浅草2-3-1",
+    "hours": "본당 겨울 06:30–17:00 · 나카미세는 점포별 상이",
+    "booking": "참배 · 간식과 쇼핑 별도",
+    "experience": "카미나리몬에서 나카미세를 지나 센소지까지 걷기.",
+    "url": "https://www.senso-ji.jp/access",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Sens%C5%8D-ji",
+    "positionNote": "시설 대표 위치 · 출입구는 현장 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "浅草寺 東京都台東区浅草2-3-1",
+    "guide": {
+      "overview": "도쿄에서 가장 오래된 사찰입니다. 카미나리몬과 나카미세 상점길·호조몬·본당을 걸으며 아사쿠사의 오래된 거리 분위기를 느낄 수 있습니다.",
+      "visitPlan": [
+        "우리 일정 제안: 카미나리몬 → 나카미세 → 호조몬 → 본당 → 주변 골목 점심.",
+        "디저트 후보를 전부 추가하기보다 대기와 점심 시간을 보고 한 곳만 고르고 스카이트리 이동 시간을 남깁니다."
+      ],
+      "access": "신바시에서 아사쿠사선 아사쿠사역 기준으로 조회합니다. 핀은 본당 주변 대표점이며 카미나리몬을 시작점으로 잡는 계획입니다.",
+      "tips": [
+        "참배객 통행을 막지 않고 사진을 찍으며 본당과 각 시설의 촬영·출입 안내를 따릅니다.",
+        "본당 겨울 관람과 나카미세 개별 상점 영업시간은 다릅니다. 야간 후보는 실내 참배와 별도로 확인하세요."
+      ],
+      "budget": "참배 중심의 산책이며 간식·오미쿠지·기념품 비용은 따로 준비합니다. 점포별 가격을 확정하지 않았습니다.",
+      "sources": [
+        {
+          "title": "센소지 공식 경내 소개",
+          "url": "https://www.senso-ji.jp/access"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "skytree",
+    "name": "도쿄 스카이트리",
+    "jp": "東京スカイツリー",
+    "area": "Oshiage",
+    "position": {
+      "lat": 35.7101,
+      "lng": 139.8107
+    },
+    "address": "東京都墨田区押上1-1-2",
+    "hours": "12/14 운영 캘린더·최종 입장시간 확인 필요",
+    "booking": "전망대 유료 · 예약·결제 미확인, 방문일 요금 확인",
+    "experience": "일몰 전 입장해 노을과 야경 감상. 일몰시각은 별도 확인.",
+    "url": "https://www.tokyo-skytree.jp/",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Tokyo_Skytree",
+    "positionNote": "시설 대표 위치 · 출입구는 현장 안내 확인",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "東京スカイツリー 東京都墨田区押上1-1-2",
+    "guide": {
+      "overview": "350m 덴보데크와 450m 덴보회랑으로 나뉘는 전망시설입니다. 낮의 도시 풍경부터 일몰과 야경까지 한 번에 감상하는 계획입니다.",
+      "visitPlan": [
+        "우리 일정 제안: 쇼핑 후 예약 입장층 이동 → 덴보데크 → 회랑 포함 권종이면 덴보회랑 → 야경 감상.",
+        "입장 절차·대기를 포함해 시간을 잡고 일몰 후 아키하바라 쇼핑 마감에 맞춰 출발합니다."
+      ],
+      "access": "오시아게역·도쿄스카이트리역에서 접근합니다. 포켓몬센터와 전망대는 같은 단지에 있어도 층·입구가 다릅니다.",
+      "tips": [
+        "12/14 일몰 전 입장이 목표일 뿐 예약·결제는 미확인입니다. 날짜·시각·권종을 구매 내역으로 확인하세요.",
+        "오늘 일몰·영업시간을 12/14 정보로 쓰지 않습니다. 기상·혼잡·방문일 캘린더를 확인합니다."
+      ],
+      "budget": "덴보데크 단독권과 덴보회랑 포함권의 범위가 다릅니다. 방문일·권종·사전/당일 구매 조건을 공식 안내에서 비교하세요.",
+      "sources": [
+        {
+          "title": "스카이트리 층별 안내·운영·티켓",
+          "url": "https://www.tokyo-skytree.jp/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "skypokemon",
+    "name": "Pokémon Center SKYTREE TOWN",
+    "jp": "ポケモンセンタースカイツリータウン",
+    "area": "Oshiage",
+    "position": {
+      "lat": 35.7103448,
+      "lng": 139.8126119
+    },
+    "address": "東京都墨田区押上1-1-2 Solamachi East Yard 4F",
+    "hours": "일반 안내 10:00–21:00 · 변경·휴업 공지 확인",
+    "booking": "쇼핑 · 혼잡 시 입장 제한 확인",
+    "experience": "소라마치 이스트야드 4층. 전망대 예약 전 쇼핑 시간 확보.",
+    "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-skytreetown/",
+    "coordinateSource": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-skytreetown/",
+    "positionNote": "공식 사이트 지도 중심 좌표 · 매장은 East Yard 4F",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "ポケモンセンタースカイツリータウン 東京都墨田区押上1-1-2 Solamachi East Yard 4F",
+    "guide": {
+      "overview": "소라마치 이스트야드 4층의 포켓몬 공식 매장입니다. 전망대 전후에 쇼핑을 묶어 별도 장거리 이동 없이 들르기 좋은 일정입니다.",
+      "visitPlan": [
+        "우리 일정 제안: 이스트야드 4층 매장 → 관심 상품·사진 → 예약한 전망대 입장층으로 이동.",
+        "전망대 입장시각을 먼저 정하고 쇼핑은 남은 시간 안에서 조정합니다."
+      ],
+      "access": "오시아게역 또는 도쿄스카이트리역에서 소라마치로 들어갑니다. 층별 안내에서 East Yard 4F를 찾아가세요.",
+      "tips": [
+        "일반 영업은 10:00–21:00이며 방문일 변경·휴업·입장 제한은 재확인합니다.",
+        "MEGA TOKYO와 상품이 항상 같거나 한정 상품이 반드시 남아 있다고 가정하지 않습니다."
+      ],
+      "budget": "상품 구매는 별도입니다. 매장 방문이 스카이트리 전망대 입장권을 포함하지 않습니다.",
+      "sources": [
+        {
+          "title": "SKYTREE TOWN 공식 매장",
+          "url": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-skytreetown/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "akihabara",
+    "name": "아키하바라",
+    "jp": "秋葉原",
+    "area": "Akihabara",
+    "position": {
+      "lat": 35.69833,
+      "lng": 139.77306
+    },
+    "address": "東京都千代田区外神田・神田佐久間町 일대（지역）",
+    "hours": "라디오회관·애니메이트 개별 폐점시간 확인 필요",
+    "booking": "자유 쇼핑 · 점포별 이벤트 예약 조건 확인",
+    "experience": "라디오회관부터 둘러본 뒤 애니메이트로 이동. 매장 마감 우선.",
+    "url": "https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Akihabara_Station",
+    "positionNote": "JR 아키하바라역 대표 위치 · 개별 매장은 검색 링크 이용",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "秋葉原 東京都千代田区外神田・神田佐久間町 일대",
+    "guide": {
+      "overview": "전자제품과 애니메이션·게임·피규어 매장이 모인 지역입니다. 넓은 지역을 전부 보기보다 원하는 상품군과 매장 두 곳을 먼저 정하면 저녁 쇼핑 시간을 아낄 수 있습니다.",
+      "visitPlan": [
+        "우리 일정 제안: JR역 기준 라디오회관 → 애니메이트. 개별 점포 마감에 따라 순서를 바꿉니다.",
+        "중고·수집품은 상태·구성품·가격을 비교한 뒤 구매하고 마감 전 저녁·귀환 경로를 정합니다."
+      ],
+      "access": "핀은 JR 아키하바라역 대표점입니다. 스카이트리에서는 오시아게 → 아사쿠사바시 → JR 소부선 경로를 조회하는 계획입니다.",
+      "tips": [
+        "지역 전체에 공통 폐점시간은 없습니다. 라디오회관 안 점포와 애니메이트의 방문일 운영을 각각 확인하세요.",
+        "반품·면세·국내 사용 조건과 보증을 매장별로 확인합니다. 앱은 재고나 시세를 조회하지 않습니다."
+      ],
+      "budget": "자유 쇼핑 예산을 먼저 정합니다. 전자제품은 전압·플러그 등 국내 사용 조건도 구매 전에 확인하세요.",
+      "sources": [
+        {
+          "title": "GO TOKYO 아키하바라",
+          "url": "https://www.gotokyo.org/en/destinations/central-tokyo/akihabara/index.html"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "tsukiji",
+    "name": "츠키지 장외시장",
+    "jp": "築地場外市場",
+    "area": "Tsukiji",
+    "position": {
+      "lat": 35.6649018,
+      "lng": 139.7686095
+    },
+    "address": "東京都中央区築地4丁目 일대（시장 지역）",
+    "hours": "점포별 영업·휴무 상이 · 공식 캘린더 확인",
+    "booking": "자유 방문 · 식사·쇼핑 별도",
+    "experience": "해산물 덮밥과 계란말이 조식. 도매시장은 도요스로 이전했으며 장외시장 방문 일정.",
+    "url": "https://www.tsukiji.or.jp/english/access/",
+    "coordinateSource": "https://www.tsukiji.or.jp/english/access/",
+    "positionNote": "공식 사이트 지도 중심 좌표 · 시장 지역 대표 위치",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "築地場外市場 東京都中央区築地4丁目 일대",
+    "guide": {
+      "overview": "식재료·식기·음식점이 모인 장외시장입니다. 도요스로 이전한 도매시장이나 참치 경매 관람과는 다른 방문이며 귀국일 아침 식사와 짧은 쇼핑을 계획합니다.",
+      "visitPlan": [
+        "우리 일정 제안: 시장 안내 지도 확인 → 아침 식사 한 곳 → 계란말이·식재료 가게 → 긴자 이동.",
+        "줄이 길면 식당을 바꾸거나 간식 수를 줄이고 10:45 이동 계획을 우선합니다."
+      ],
+      "access": "히가시긴자·츠키지·츠키지시조역 접근을 조회합니다. 큰 짐은 시장에 끌고 가지 않고 숙소 보관 가능 여부를 먼저 확인하세요.",
+      "tips": [
+        "공식 안내는 오전 9시 전 전문 구매자 통행 우선을 요청합니다. 우리 계획은 09:30 방문입니다.",
+        "걸으며 먹지 않고 지정 공간에서 먹습니다. 가게·상품 촬영은 허락을 구하고 좁은 통로를 막지 않습니다."
+      ],
+      "budget": "식사·간식·쇼핑은 각각 결제합니다. 가격·결제수단·휴무가 점포마다 다르므로 주문 전 확인하세요.",
+      "sources": [
+        {
+          "title": "츠키지 공식 첫 방문·예절 가이드",
+          "url": "https://www.tsukiji.or.jp/english/how-to-enjoy/"
+        },
+        {
+          "title": "츠키지 공식 접근",
+          "url": "https://www.tsukiji.or.jp/english/access/"
+        },
+        {
+          "title": "츠키지 공식 영업 캘린더",
+          "url": "https://www.tsukiji.or.jp/calendar/"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "ginza",
+    "name": "긴자",
+    "jp": "銀座",
+    "area": "Ginza",
+    "position": {
+      "lat": 35.67123,
+      "lng": 139.765
+    },
+    "address": "東京都中央区銀座4-1-2（긴자역 대표 주소）",
+    "hours": "백화점·상점별 개점시간 확인 필요",
+    "booking": "자유 쇼핑 · 면세·결제 대기시간 반영",
+    "experience": "우선순위 1~2곳만 방문하고 12:30 신바시로 돌아가 짐 회수.",
+    "url": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html",
+    "coordinateSource": "https://en.wikipedia.org/wiki/Ginza_Station",
+    "positionNote": "긴자역 대표 위치 · 쇼핑 지역 기준점",
+    "checkedAt": "2026-10-17",
+    "mapQuery": "銀座 東京都中央区銀座4-1-2",
+    "guide": {
+      "overview": "백화점·브랜드숍·오래된 카페가 모인 지역입니다. 귀국일에는 츠키지에서 이어지는 짧은 낮 방문으로 야경과 저녁 식당 후보를 모두 소화하는 일정이 아닙니다.",
+      "visitPlan": [
+        "우리 일정 제안: 관심 매장 1~2곳 → 대기 짧은 카페 또는 포장 → 12:30 신바시 복귀.",
+        "면세·결제·짐 회수를 포함해 계산하고 공항행 열차에 맞춰 쇼핑을 마칩니다."
+      ],
+      "access": "긴자역 대표점입니다. 츠키지에서 도보 이동 후 긴자선으로 신바시로 돌아오는 계획이며 출입구는 목적 매장에 맞춰 조회합니다.",
+      "tips": [
+        "귀국일은 화요일입니다. 토리코로루는 공식 안내상 화요일 휴무라 이 날 방문을 확정하지 않습니다.",
+        "긴자 오뎅집 등 저녁 후보는 낮 일정과 다릅니다. 영업·예약·귀국 시간과 맞는지 먼저 확인하세요."
+      ],
+      "budget": "쇼핑 한도를 정하고 면세·포장·결제 대기를 포함합니다. 특정 매장 가격이나 할인 혜택을 보장하지 않습니다.",
+      "sources": [
+        {
+          "title": "GO TOKYO 긴자",
+          "url": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html"
+        },
+        {
+          "title": "긴자 공식 토리코로루 안내",
+          "url": "https://www.ginza.jp/shop/873"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  },
+  {
+    "id": "lodging",
+    "name": "신바시 숙소",
+    "jp": "新橋五丁目29番周辺",
+    "area": "Shinbashi",
+    "position": {
+      "lat": 35.662514,
+      "lng": 139.755707
+    },
+    "address": "〒105-0004 東京都港区新橋5丁目29",
+    "mapQuery": "東京都港区新橋5丁目29",
+    "hours": "체크인·체크아웃 시각과 11일·15일 짐 보관 여부 확인 필요",
+    "booking": "Notion에 결제 기록 있음 · 11/11 확정 예정 표기도 남아 있어 최종 예약 상태 재확인",
+    "experience": "원본에 기록된 숙소 주소 구역입니다. 정확한 건물명과 출입구는 예약 안내에서 확인하세요.",
+    "url": "https://www.airbnb.co.kr/rooms/1353007831898058624",
+    "coordinateSource": "https://msearch.gsi.go.jp/address-search/AddressSearch?q=%E6%9D%B1%E4%BA%AC%E9%83%BD%E6%B8%AF%E5%8C%BA%E6%96%B0%E6%A9%8B5%E4%B8%81%E7%9B%AE29",
+    "positionNote": "일본 국토지리원 주소 검색의 新橋五丁目２９番 대표점 · 숙소 건물 입구를 확정한 좌표는 아님",
+    "checkedAt": "2026-10-17",
+    "guide": {
+      "overview": "Notion에 기록된 신바시5초메29번 주소 구역입니다. 건물명·출입구·호실을 공개 지도에 확정하지 않고 구역 대표점으로만 표시합니다.",
+      "visitPlan": [
+        "예약 안내에서 정확한 건물 입구·체크인 방법·도착 시 연락 경로를 확인합니다.",
+        "11일 사전 짐 보관과 15일 체크아웃 후 보관을 각각 확인하고 역 로커 대안을 준비합니다."
+      ],
+      "access": "역에서 주소 구역까지 도보 길찾기를 제공합니다. 핀 도착을 건물 입구 도착으로 간주하지 말고 예약 안내·현장 표지를 대조하세요.",
+      "tips": [
+        "Notion 결제 기록과 11/11 확정 예정 표기가 함께 있어 최종 예약 상태를 재확인해야 합니다.",
+        "주소 구역은 알지만 건물 입구·짐 보관·체크인 세부 조건은 확인되지 않았습니다."
+      ],
+      "budget": "결제 금액이나 숙소 개인정보는 앱에 복사하지 않습니다. 추가 보관료 등은 실제 예약 내역으로 확인합니다.",
+      "sources": [
+        {
+          "title": "원본에 연결된 숙소 안내",
+          "url": "https://www.airbnb.co.kr/rooms/1353007831898058624"
+        }
+      ],
+      "checkedAt": "2026-10-18"
+    }
+  }
+]

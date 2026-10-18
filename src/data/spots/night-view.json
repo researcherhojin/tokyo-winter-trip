@@ -1,0 +1,379 @@
+{
+ "id": "night-view",
+ "title": "도쿄의 밤",
+ "description": "도쿄의 야경과 겨울 일루미네이션을 모았습니다. 야외 산책과 유료 전망대를 구분해 골라보세요.",
+ "day": 4,
+ "coverPhotoId": "ginza",
+ "references": [],
+ "spots": [
+  {
+   "id": "kabukicho-night",
+   "name": "가부키초 거리",
+   "address": "신주쿠 가부키초 일대",
+   "query": "歌舞伎町一番街",
+   "note": "신주쿠 경유 시 네온 거리 산책 후보입니다.",
+   "details": "점포·거리의 혼잡과 귀가 열차 시간을 확인하세요. 실내 업장 방문을 포함한 일정은 아닙니다.",
+   "evidence": {
+    "summary": "신주쿠 가부키초의 간판과 번화가를 보행 가능한 거리에서 둘러보는 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 신주쿠·가부키초 지역 소개 사진",
+    "verificationNote": "관광청에서 신주쿠의 가부키초 야간 거리 소개 확인. 특정 업장 이용은 포함하지 않으며 귀가 열차와 현장 보행 동선을 별도 확인하세요."
+   },
+   "photoId": "spot-kabukicho",
+   "visitorInfo": {
+    "hours": "야외 거리 산책 · 점포별 영업시간 상이",
+    "closed": "점포별 휴무·행사 통제 확인",
+    "admission": "거리 산책 · 업장별 이용료 별도",
+    "sourceUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "checkedAt": "2026-10-18"
+   },
+   "photoIds": [
+    "more-kabukicho-night-1",
+    "more-kabukicho-night-2"
+   ]
+  },
+  {
+   "id": "ginza-night",
+   "name": "긴자 거리",
+   "address": "東京都中央区銀座4-1-2（긴자역 대표 주소）",
+   "query": "銀座 東京都中央区銀座4-1-2",
+   "note": "거리 조명과 쇼윈도를 둘러보는 후보. 귀국일 긴자 일정은 낮이며 야경 방문과 다릅니다.",
+   "placeId": "ginza",
+   "evidence": {
+    "summary": "긴자의 백화점과 쇼윈도, 골목을 함께 살펴보는 거리 산책 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 긴자 거리·상점 소개 사진 · 특정 야경 촬영 위치는 아님",
+    "verificationNote": "관광청의 거리·백화점·식음·접근 안내 확인. 현재 귀국일 긴자 일정은 낮이며 저녁 방문이 자동으로 추가되지 않습니다."
+   },
+   "photoId": "ginza",
+   "visitorInfo": {
+    "hours": "야외 거리 산책 · 상점별 영업·조명 상이",
+    "closed": "점포별 휴무·행사 통제 확인",
+    "admission": "야외 산책 · 쇼핑·식사 별도",
+    "sourceUrl": "https://www.ginza.jp/",
+    "checkedAt": "2026-10-18"
+   },
+   "photoIds": [
+    "more-ginza-night-1",
+    "more-ginza-night-2"
+   ]
+  },
+  {
+   "id": "international-forum",
+   "name": "도쿄 국제 포럼",
+   "address": "도쿄도 지요다구 마루노우치 3-5-1",
+   "query": "東京国際フォーラム ガラス棟",
+   "note": "유리 아트리움과 건축 조명을 둘러보는 후보입니다.",
+   "details": "시설·행사별 출입 가능 구역과 개방시간, 사진 촬영 조건은 공식 안내에서 확인하세요.",
+   "officialUrl": "https://www.t-i-forum.co.jp/",
+   "evidence": {
+    "summary": "도쿄 국제 포럼의 유리동과 보행 공간에서 큰 유리·강철 구조를 감상하는 건축 산책 후보입니다.",
+    "officialUrl": "https://www.t-i-forum.co.jp/en/",
+    "photoPageUrl": "https://www.t-i-forum.co.jp/en/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "시설 운영사 국제 포럼 건축 사진",
+    "verificationNote": "운영사 공식 소개·건축 이미지 확인. 행사로 인한 출입·촬영 제한과 야간 개방 구역은 방문 전 확인하세요."
+   },
+   "photoId": "spot-international-forum-night",
+   "visitorInfo": {
+    "hours": "공식 운영시간 확인 필요",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "이용 조건 공식 확인 필요",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.t-i-forum.co.jp/"
+   },
+   "photoIds": [
+    "more-architecture-forum-1",
+    "more-international-forum-2"
+   ]
+  },
+  {
+   "id": "skytree-night",
+   "name": "도쿄 스카이트리",
+   "address": "東京都墨田区押上1-1-2",
+   "query": "東京スカイツリー 東京都墨田区押上1-1-2",
+   "note": "4일차 일몰·야경 계획과 연결됩니다. 전망대 예약·결제는 미확인입니다.",
+   "placeId": "skytree",
+   "evidence": {
+    "summary": "도쿄 스카이트리 전망대에서 도시의 불빛을 내려다보는 4일차 일몰·야경 후보입니다.",
+    "officialUrl": "https://www.tokyo-skytree.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/6/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 스카이트리 시설·전망 사진",
+    "verificationNote": "관광청에서634m 타워와 전망시설 소개 확인. 현재 홈페이지에 표시되는 일몰을 12월14일로 대입하지 않으며 여행일 예약·결제와 날씨를 별도 확인하세요."
+   },
+   "photoId": "spot-skytree-night",
+   "visitorInfo": {
+    "hours": "12/14 운영 캘린더·최종 입장시간 확인",
+    "closed": "기상·점검에 따른 운영 변경 확인",
+    "admission": "전망대 유료 · 시간 지정 예약 확인",
+    "sourceUrl": "https://www.tokyo-skytree.jp/",
+    "checkedAt": "2026-10-18",
+    "note": "기존 15:10은 여행 계획이며 예약 완료 시각이 아닙니다."
+   },
+   "photoIds": [
+    "more-skytree-night-1",
+    "more-skytree-night-2"
+   ]
+  },
+  {
+   "id": "tokyo-kitte",
+   "name": "도쿄역 마루노우치 역사·KITTE 옥상",
+   "address": "도쿄역 마루노우치 출구·KITTE 마루노우치",
+   "query": "KITTE 丸の内 屋上庭園",
+   "note": "붉은 벽돌 역사와 주변 빌딩을 바라보는 후보입니다.",
+   "details": "KITTE 옥상의 개방시간·휴관·촬영 조건을 확인하세요. 사진의 촬영 위치와 같은 구도는 보장하지 않습니다.",
+   "officialUrl": "https://marunouchi.jp-kitte.jp/",
+   "evidence": {
+    "summary": "KITTE 6층 옥상 정원에서 도쿄역 마루노우치 역사를 내려다볼 수 있습니다.",
+    "officialUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "photoPageUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "checkedAt": "2026-10-18",
+    "photoNote": "KITTE 운영사 옥상 정원 사진",
+    "verificationNote": "공식 안내에서6층·무료·평일11–23시/주말공휴일11–22시 확인. 날씨에 따라 폐쇄되며 여행일 운영과 같은 촬영 구도는 보장하지 않습니다."
+   },
+   "photoId": "spot-tokyo-kitte",
+   "visitorInfo": {
+    "hours": "옥상 평일 11:00–23:00 / 토·일·공휴일 11:00–22:00",
+    "closed": "날씨에 따른 옥상 폐쇄·시설 휴관 확인",
+    "admission": "옥상 정원 무료",
+    "sourceUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "checkedAt": "2026-10-18",
+    "note": "옥상과 상점·레스토랑 영업시간은 다릅니다."
+   },
+   "photoIds": [
+    "more-tokyo-kitte-1",
+    "more-tokyo-kitte-2"
+   ]
+  },
+  {
+   "id": "tower-night",
+   "name": "도쿄타워",
+   "address": "東京都港区芝公園4-2-8（도쿄타워）",
+   "query": "東京タワー 東京都港区芝公園4-2-8",
+   "note": "1일차 조조지·시바공원 야경 일정과 연결됩니다. 랜드마크 라이트는 일몰~24:00이고 매 정시 2분간 하얗게 빛납니다. 다이아몬드 베일 정기 점등은 월·목 20:00–22:00뿐이라 12/11(금)에는 없습니다.",
+   "placeId": "tower",
+   "officialUrl": "https://www.tokyotower.co.jp/lightup/",
+   "evidence": {
+    "summary": "도쿄타워의 조명과 시바공원 주변 풍경을 함께 보는 1일차 야경 방문지입니다.",
+    "officialUrl": "https://en.tokyotower.co.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/4/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 도쿄타워 시설·조명 소개 사진",
+    "verificationNote": "관광청에서 타워 조명과 전망대 소개 확인. 외부 산책과 유료 전망대를 구분하며12월11일 조명·운영과 입장권은 별도 확인하세요."
+   },
+   "photoId": "spot-tower-night",
+   "visitorInfo": {
+    "hours": "메인덱 일반 09:00–23:00 · 최종 입장 22:30",
+    "closed": "12월 특별 점등 공식 미발표 · 당일 운영 공지 확인",
+    "admission": "전망대 유료 · 외관 감상과 구분",
+    "sourceUrl": "https://www.tokyotower.co.jp/fee/",
+    "checkedAt": "2026-10-18",
+    "note": "현재 일반 안내이며 12월 당일 운영을 보장하지 않습니다."
+   },
+   "photoIds": [
+    "more-tower-night-1",
+    "more-tower-night-2"
+   ]
+  },
+  {
+   "id": "keyakizaka",
+   "name": "롯폰기 케야키자카 일루미네이션",
+   "address": "롯폰기 힐스 케야키자카 거리",
+   "query": "六本木けやき坂通り",
+   "note": "주최 측 발표 확인: 2026.11.05–12.25, 17:00–22:00. 약 400m의 SNOW＆BLUE 조명과 도쿄타워를 함께 보는 거리입니다.\n\n도쿄타워가 보이는 거리와 겨울 케야키자카를 함께 검토할 후보입니다.",
+   "details": "2026.10.17 주최 측 보도자료 확인. 첫날 점등 시작과 혼잡에 따른 시간 변경 가능성이 있습니다. 1일차 도쿄타워 후 이동 후보이며 항공편 지연 시 무리하게 추가하지 마세요.\n\n공유 사진과 같은 촬영 지점은 미검증입니다. 유료 전망시설과 공공 보행 공간을 구분하세요.",
+   "officialUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+   "evidence": {
+    "summary": "케야키자카 약 400m의 푸른빛·흰빛 조명과 도쿄타워 방향을 함께 보는 겨울 후보입니다. 주최 측 발표: 2026.11.05–12.25, 17:00–22:00. 혼잡·현장 상황에 따라 변경될 수 있습니다.",
+    "officialUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "photoPageUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "주최사 공식 보도자료의 과거 행사 실사진 · 2026년 현장 사진 아님",
+    "verificationNote": "森ビル2026-09-30 발표 직접 확인.11월5일–12월25일,17–22시 안내이며 첫날·혼잡 상황에 따라 변경 가능. 사진에 과거의 모습이라고 명시되어 있습니다."
+   },
+   "photoId": "theme-cover-winter",
+   "visitorInfo": {
+    "hours": "2026.11.05–12.25 / 17:00–22:00 점등",
+    "closed": "혼잡·기상·주최 측 변경 공지 확인",
+    "admission": "거리 일루미네이션 감상",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "checkedAt": "2026-10-18",
+    "note": "케야키자카 일루미네이션 기준이며 유료 전망대 운영과 다릅니다."
+   },
+   "references": [
+    {
+     "title": "공식 안내",
+     "url": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html"
+    },
+    {
+     "title": "공식 안내",
+     "url": "https://www.roppongihills.com/"
+    }
+   ],
+   "photoIds": [
+    "more-keyakizaka-1",
+    "more-keyakizaka-2"
+   ]
+  },
+  {
+   "id": "shibuya-sky",
+   "name": "시부야 스카이",
+   "address": "시부야 스크램블 스퀘어 전망시설",
+   "query": "SHIBUYA SKY",
+   "note": "유료·시간 지정 예약 확인이 필요한 야경 전망대입니다.",
+   "details": "관람권·일몰 시간대 예약·옥상 운영·날씨에 따른 제한을 공식 사이트에서 확인하세요. 현재 여행 일정에는 예약이 없습니다.",
+   "officialUrl": "https://www.shibuya-scramble-square.com/sky/",
+   "evidence": {
+    "summary": "시부야 상공229m의 전망 공간에서 교차로와 도쿄의 스카이라인을 보는 유료 후보입니다.",
+    "officialUrl": "https://www.shibuya-scramble-square.com/sky/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/1749/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 관광청 사진 · Shibuya Scramble Square 제공",
+    "verificationNote": "시설 공식 페이지와 관광청 소개 확인. 날짜·시간 지정 티켓, 옥상 개방과 기상 제한은 방문 전 확인해야 하며 현재 여행 예약 완료를 뜻하지 않습니다."
+   },
+   "photoId": "spot-shibuya-sky-night",
+   "visitorInfo": {
+    "hours": "10:00–22:30 · 최종 입장 21:20",
+    "closed": "임시 휴업 확인 · 날씨가 급변하면 예고 없이 옥상 폐쇄",
+    "admission": "유료·시간 지정 관람권 확인",
+    "sourceUrl": "https://www.shibuya-scramble-square.com/sky/ticket/",
+    "checkedAt": "2026-10-18",
+    "note": "12월 예약·일몰 회차는 미확정입니다."
+   },
+   "photoIds": [
+    "more-shibuya-sky-1",
+    "more-shibuya-sky-2"
+   ]
+  },
+  {
+   "id": "sensoji-night",
+   "name": "아사쿠사·센소지의 밤",
+   "address": "東京都台東区浅草2-3-1",
+   "query": "浅草寺 東京都台東区浅草2-3-1",
+   "note": "4일차의 기존 방문 장소입니다. 본당 관람시간과 야외 조명 운영은 구분해서 확인하세요.",
+   "placeId": "sensoji",
+   "evidence": {
+    "summary": "센소지와 카미나리몬 주변에서 절의 건축과 아사쿠사 거리를 둘러보는 야간 산책 후보입니다.",
+    "officialUrl": "https://www.senso-ji.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 아사쿠사·센소지 지역 사진 · 모두 야간 사진인 것은 아님",
+    "verificationNote": "공식 절 사이트와 관광청 지역 소개 확인. 본당 참배 시간과 야외 조명 시간은 별도이며12월 당일 점등·출입 범위는 재확인하세요."
+   },
+   "photoId": "spot-sensoji-night",
+   "visitorInfo": {
+    "hours": "조명 일몰~23:00경 · 본당 겨울 06:30–17:00",
+    "closed": "조명은 공식 매일 안내 · 변경 공지 확인",
+    "admission": "야외 경내 산책·유료 체험은 별도",
+    "sourceUrl": "https://www.senso-ji.jp/info/lightup.html",
+    "checkedAt": "2026-10-18",
+    "note": "야경 산책과 본당 내부 관람은 구분합니다."
+   },
+   "photoIds": [
+    "more-sensoji-night-1",
+    "more-sensoji-night-2"
+   ]
+  },
+  {
+   "id": "odaiba-night",
+   "name": "오다이바 바다와 레인보우브리지",
+   "address": "東京都港区台場1-4",
+   "query": "お台場海浜公園 東京都港区台場1-4",
+   "note": "1일차에는 오후 방문 계획입니다. 야경까지 머물면 도쿄타워 일정 조정이 필요합니다.",
+   "placeId": "odaiba",
+   "evidence": {
+    "summary": "오다이바 해변에서 레인보우브리지와 도쿄만 풍경을 바라보는 산책 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 오다이바·레인보우브리지 지역 사진",
+    "verificationNote": "관광청에서 해변과 다리 조망 소개 확인. 현재 1일차는 오후 방문 계획이며 야경까지 머무르면 뒤의 도쿄타워 일정을 조정해야 합니다."
+   },
+   "photoId": "spot-odaiba-night",
+   "visitorInfo": {
+    "hours": "야외 해변 산책 · 공원 시설·통제 시간 별도",
+    "closed": "공사·기상에 따른 접근 제한 확인",
+    "admission": "야외 산책 · 전망·상업시설 별도",
+    "sourceUrl": "https://www.gotokyo.org/en/spot/39/index.html",
+    "checkedAt": "2026-10-18"
+   },
+   "photoIds": [
+    "more-odaiba-night-1",
+    "more-odaiba-night-2"
+   ]
+  },
+  {
+   "id": "yurakucho-night",
+   "name": "유라쿠초 고가 아래 골목",
+   "address": "JR 유라쿠초역 고가 주변",
+   "query": "有楽町 ガード下",
+   "note": "철길 아래 식당가의 밤 분위기를 둘러보는 후보입니다.",
+   "details": "특정 식당의 영업·예약·가격은 개별 확인이 필요합니다. 보행 가능한 골목에서 구경하세요.",
+   "evidence": {
+    "summary": "유라쿠초역 고가 아래 식당가에서 철길과 작은 음식점이 어우러진 저녁 풍경을 둘러봅니다.",
+    "officialUrl": "https://www.gotokyo.org/en/see-and-do/nightlife/index.html",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "고가 아래 해당 골목 사진과 직접 대응하는 공식 원문은 추가 확인 필요",
+    "verificationNote": "관광청에서 유라쿠초 고가 아래 이자카야·야키토리 식당가 설명 확인. 지역 사진을 특정 점포 사진으로 대신하지 않으며 가게별 영업·예약은 미확인입니다."
+   },
+   "photoId": "spot-yurakucho-night",
+   "visitorInfo": {
+    "hours": "야외 고가 주변 산책 · 식당별 영업 상이",
+    "closed": "각 식당의 정기휴무·마지막 주문 확인",
+    "admission": "거리 산책 · 식사·주류 별도",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18"
+   },
+   "photoIds": [
+    "more-yurakucho-night-1",
+    "more-yurakucho-night-2"
+   ]
+  },
+  {
+   "id": "funabori",
+   "name": "타워홀 후나보리 전망실",
+   "address": "도쿄도 에도가와구 후나보리 4-1-1",
+   "query": "タワーホール船堀 展望塔",
+   "photoId": "funabori",
+   "note": "공식 시설 안내: 타워115m·전망실103m, 엘리베이터09:00–21:30. 공식 FAQ에서 무료 확인. 휴관·날씨 제한은 방문 전 확인하세요.",
+   "verified": "시설·구청 안내 확인 · 2026.10.17",
+   "details": "건물·주차장 이용시간과 전망 엘리베이터 운영시간은 다릅니다. 강풍 등 기상에 따라 운행을 멈출 수 있습니다. 도쿄3대 타워라는 순위는 확정 정보로 사용하지 않았습니다.",
+   "references": [
+    {
+     "title": "타워홀 공식 · 전망실 안내",
+     "url": "https://www.towerhall.jp/faq/"
+    },
+    {
+     "title": "에도가와구 · 시설·접근 안내",
+     "url": "https://www.city.edogawa.tokyo.jp/e026/kuseijoho/gaiyo/shisetsuguide/bunya/bunkachiiki/towerhall/gaiyo.html"
+    }
+   ],
+   "evidence": {
+    "summary": "103m 전망실에서 도쿄의360도 풍경을 보는 무료 전망시설입니다. 스카이트리 대신 선택할 수 있지만 동부지역 이동 시간을 따로 확인해야 합니다.",
+    "officialUrl": "https://www.towerhall.jp/faq/",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 안내에서 전망실 야경 사진을 확인하지 못해 공식 사진 링크를 붙이지 않았습니다. 기존 재사용 허용 후나보리 사진은 별도로 사용할 수 있습니다.",
+    "verificationNote": "공식FAQ에서 무료·9–21:30·강풍등운행중단 가능·후나보리역북구도보1분 확인. 시설안내에서 타워115m/전망실103m 대조.",
+    "photoId": "funabori"
+   },
+   "visitorInfo": {
+    "hours": "전망 엘리베이터 09:00–21:30",
+    "closed": "연말연시 12/28–1/4·2월·8월 점검 수일 휴관 · 강풍 시 운행 중지",
+    "admission": "전망실 무료",
+    "sourceUrl": "https://www.towerhall.jp/faq/",
+    "checkedAt": "2026-10-18"
+   },
+   "photoIds": [
+    "more-funabori-1",
+    "more-funabori-2"
+   ]
+  }
+ ]
+}

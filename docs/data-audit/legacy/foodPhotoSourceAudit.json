@@ -1,0 +1,120 @@
+{
+  "photos": {},
+  "spotPhotoIds": {},
+  "checkedAt": "2026-10-18",
+  "newlyVerifiedAssets": 0,
+  "research": {
+    "ginza-oden": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%E3%81%8B%E3%82%81%E5%B9%B8",
+      "query": "かめ幸",
+      "reportedResults": 0,
+      "receivedPhotoRecords": 0,
+      "decision": "정확한 일본어 상호로 Flickr 직접 검색: 공개 검색 결과 0개.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18"
+    },
+    "hatoya-asakusa": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%22Hatoya%22%20%22Asakusa%22",
+      "query": "\"Hatoya\" \"Asakusa\"",
+      "reportedResults": 4,
+      "receivedPhotoRecords": 4,
+      "decision": "4개 후보 모두 2009~2010년의 옛 다방 사진입니다. 2023년 개점한 八十八浅草와 구분해 제외했습니다.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18",
+      "rejectedExamples": [
+        {
+          "sourceUrl": "https://www.flickr.com/photos/25197658@N06/3384024899",
+          "title": "asakusa_hatoya-800",
+          "licenseCode": 0,
+          "capturedAt": "2009-03-22",
+          "licenseUrl": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members"
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/76626958@N00/4313905810",
+          "title": "HATOYA",
+          "licenseCode": 1,
+          "capturedAt": "2010-01-24",
+          "licenseUrl": "https://creativecommons.org/licenses/by-nc-sa/2.0/"
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/23486798@N08/4737080094",
+          "title": "Coffee Shop Hatoya",
+          "licenseCode": 0,
+          "capturedAt": "2010-06-26",
+          "licenseUrl": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members"
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/23486798@N08/4737080336",
+          "title": "Coffee Shop Hatoya",
+          "licenseCode": 0,
+          "capturedAt": "2010-06-26",
+          "licenseUrl": "https://www.flickrhelp.com/hc/en-us/articles/10710266545556-Using-Flickr-images-shared-by-other-members"
+        }
+      ]
+    },
+    "betanagi": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%E3%81%B9%E3%81%9F%E3%81%AA%E3%81%8E",
+      "query": "べたなぎ",
+      "reportedResults": 2,
+      "receivedPhotoRecords": 2,
+      "decision": "2개 후보는 식당과 동일한 점포라는 근거가 없는 오래된 사진이며 라이선스도 모든 권리 보유입니다.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18",
+      "rejectedExamples": [
+        {
+          "sourceUrl": "https://www.flickr.com/photos/46522452@N02/7722409066",
+          "title": "べたなぎ。",
+          "licenseCode": 0
+        },
+        {
+          "sourceUrl": "https://www.flickr.com/photos/46566338@N03/8371725580",
+          "title": "べたなぎ〜！",
+          "licenseCode": 0
+        }
+      ]
+    },
+    "treasure-cafe": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%22Enoshima%22%20%22Treasure%22",
+      "query": "\"Enoshima\" \"Treasure\"",
+      "reportedResults": 57,
+      "receivedPhotoRecords": 23,
+      "decision": "57개 후보는 신사의 보물전·가마쿠라 사찰 등 다른 장소입니다. 카페로 오인해 연결하지 않았습니다.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18"
+    },
+    "tabanenoshi": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%E3%81%9F%E3%81%B0%E3%81%AD%E3%81%AE%E3%81%97",
+      "query": "たばねのし",
+      "reportedResults": 0,
+      "receivedPhotoRecords": 0,
+      "decision": "정확한 상호 직접 검색 결과 0개.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18"
+    },
+    "hana-asakusa": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%E8%8A%B1%E3%81%9E%E3%82%80%E3%81%8B%E3%81%97%E3%81%AE",
+      "query": "花ぞむかしの",
+      "reportedResults": 1,
+      "receivedPhotoRecords": 1,
+      "decision": "1개 결과는 백인일수의 시구이며 음식점 사진이 아닙니다.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18",
+      "rejectedExamples": [
+        {
+          "sourceUrl": "https://www.flickr.com/photos/54076709@N04/5778189611",
+          "title": "百人一首　紀貫之",
+          "licenseCode": 0
+        }
+      ]
+    },
+    "pizza-shinagawa": {
+      "sourceUrl": "https://www.flickr.com/search/?text=%22400%E2%84%83%22%20%22SHINAGAWA%22",
+      "query": "\"400℃\" \"SHINAGAWA\"",
+      "reportedResults": 518,
+      "receivedPhotoRecords": 25,
+      "decision": "검색이 숫자·지역명과 관련된 일반 결과를 넓게 반환합니다. 받은 응답의 사진 제목·설명에서 해당 시나가와 점포로 확인되는 후보를 확보하지 못했습니다. 검색 전체를 검토했다고 표현하지 않습니다.",
+      "status": "no-verified-reusable-photo",
+      "checkedAt": "2026-10-18"
+    }
+  }
+}

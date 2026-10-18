@@ -1,0 +1,34 @@
+{
+ "id": "rail-photo",
+ "title": "철길이 있는 도쿄",
+ "description": "신주쿠·시부야를 지나는 날, 시간 여유가 있다면 살펴볼 골목입니다.",
+ "coverPhotoId": "reference-yoyogi-saikyo-2024",
+ "day": 2,
+ "spots": [
+  {
+   "id": "yoyogi-rail-photo",
+   "name": "요요기 철길 골목",
+   "address": "세븐일레븐 요요기 센다가야 4초메점 주변",
+   "query": "セブンイレブン 代々木千駄ヶ谷4丁目店",
+   "note": "공유된 SNS 설명에 근거한 후보입니다. 정확한 건널목·촬영 지점과 열차가 동시에 지나는 시간은 미검증입니다.",
+   "evidence": {
+    "summary": "요요기·센다가야의 철길 옆 골목에서 열차와 도시 풍경을 바라보는 선택 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/yoyogi/index.html",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 요요기 지역 소개는 확인했으나 해당 건널목 사진은 확인 필요",
+    "verificationNote": "공식 체인 자료의 代々木千駄ヶ谷4丁目 점포명은 검색 결과로 확인했으나 채용 상세 페이지 조회 실패. 정확한 건널목·두 층 열차 구도·통과 시각은 미검증입니다."
+   },
+   "visitorInfo": {
+    "hours": "정확한 촬영 공간·개방시간 확인 필요",
+    "closed": "시설·촬영 구역별 확인 필요",
+    "admission": "일반인 출입·촬영·예약 조건 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "공유된 촬영 위치를 실제 출입 가능 공간으로 확정하지 않습니다."
+   },
+   "referencePhotoId": "reference-yoyogi-saikyo-2024",
+   "photoGap": "location"
+  }
+ ]
+}

@@ -1,0 +1,122 @@
+{
+  "photos": {
+    "archive-food-kioi-exterior": {
+      "src": "/photos/archive-food-kioi-exterior.jpg",
+      "alt": "기오이 세이도의 유리 외벽과 건물 전체",
+      "caption": "기오이 세이도 실제 외관 · 2023-03-07 · 현재 일반 비공개 안내",
+      "author": "Yasu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kioi_Seido.jpg",
+      "sourceDescription": "Kioi Seido",
+      "viewEvidence": "직접 이미지 확인: 유리 외벽 너머 콘크리트 벽과 계단, 건물 전체를 길 건너에서 보는 가로 구도입니다. Commons 원문이 기오이 세이도·도쿄 지요다구·2023-03-07 촬영으로 명시합니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2023-03-07",
+      "width": 1280,
+      "height": 853,
+      "modification": "Commons 공개 축소본을 원본 비율 그대로 저장. 별도 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    },
+    "archive-food-kioi-interior": {
+      "src": "/photos/archive-food-kioi-interior.jpg",
+      "alt": "기오이 세이도 내부의 층별 회랑과 계단",
+      "caption": "기오이 세이도 실제 내부 · 2023-03-07 공개 당시 · 현재 관람 가능 의미 아님",
+      "author": "Yasu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Kioi_Seido_interior.jpg",
+      "sourceDescription": "Kioi Seido interior",
+      "viewEvidence": "직접 이미지 확인: 콘크리트 기둥·목재 벽과 여러 층의 회랑·계단이 보입니다. Commons 원문은 실제 기오이 세이도 내부와 촬영일을 명시합니다. 과거 사진이며 현재 출입을 보증하지 않습니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2023-03-07",
+      "width": 960,
+      "height": 1440,
+      "modification": "Commons 공개 축소본을 원본 비율 그대로 저장. 별도 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    },
+    "archive-food-kioi-exhibit": {
+      "src": "/photos/archive-food-kioi-exhibit.jpg",
+      "alt": "기오이 세이도에 전시됐던 기적의 소나무 뿌리",
+      "caption": "기오이 세이도 과거 전시 자료 · 기적의 소나무 뿌리 · 2023-03-07",
+      "author": "Yasu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Root_of_Miracle_Pine_Tree.jpg",
+      "sourceDescription": "Root of Miracle Pine Tree",
+      "viewEvidence": "직접 이미지 확인: 실내에 넓게 펼쳐진 나무뿌리와 전시 지지대가 보입니다. 원문이 기오이 세이도에서 전시된 리쿠젠타카타시 소나무 뿌리로 명시합니다. 현재 전시·개방 일정은 이 사진으로 확정하지 않습니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2023-03-07",
+      "width": 1280,
+      "height": 640,
+      "modification": "Commons 공개 축소본을 원본 비율 그대로 저장. 별도 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    }
+  },
+  "spotPhotoIds": {
+    "kioi-seido": "archive-food-kioi-exterior"
+  },
+  "spotPhotos": {
+    "kioi-seido": [
+      "archive-food-kioi-exterior",
+      "archive-food-kioi-interior",
+      "archive-food-kioi-exhibit"
+    ]
+  },
+  "unavailable": {
+    "ginza-oden": {
+      "photoPageUrl": "https://page.line.me/wfi6187d",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "pizza-shinagawa": {
+      "photoPageUrl": "https://www.tablecheck.com/ja/400-yonhyakudo-shinagawa",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "hatoya-asakusa": {
+      "photoPageUrl": "https://www.8108kyoto.com/",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "hana-asakusa": {
+      "photoPageUrl": "https://www.instagram.com/caffe_hana_/",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "tabanenoshi": {
+      "photoPageUrl": "https://tabanenoshi.com/",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "off-season": {
+      "photoPageUrl": null,
+      "reason": "정확한 점포·지점이 미식별입니다. 유사 이름이나 다른 지점 사진을 연결하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "betanagi": {
+      "photoPageUrl": "https://ishii-shokai2017.com/betanagi/",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "treasure-cafe": {
+      "photoPageUrl": "https://treasurecafe.jp/",
+      "reason": "Commons·Openverse의 영어·일본어 상호 검색과 원문 확인에서 실제 해당 점포·상품으로 확인되는 재사용 허가 사진을 확보하지 못했습니다. 공식 원문 사진은 별도 허가 없이 복제하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "cat-bookshop": {
+      "photoPageUrl": null,
+      "reason": "정확한 점포·지점이 미식별입니다. 유사 이름이나 다른 지점 사진을 연결하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "jazz-bar": {
+      "photoPageUrl": null,
+      "reason": "정확한 점포·지점이 미식별입니다. 유사 이름이나 다른 지점 사진을 연결하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "times-parking": {
+      "photoPageUrl": null,
+      "reason": "정확한 점포·지점이 미식별입니다. 유사 이름이나 다른 지점 사진을 연결하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    }
+  }
+}

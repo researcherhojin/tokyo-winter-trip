@@ -1,0 +1,227 @@
+{
+ "id": "day-trips",
+ "title": "근교 당일치기",
+ "description": "에노시마·가마쿠라와 치바 철도 여행 후보입니다. 왕복 이동이 큰 일정이라 기존 5일 일정과 바꾸는 경우에만 별도로 계획하세요.",
+ "caution": "현재 일정에 배정하지 않은 후보입니다. 여름 후기의 풍경·혼잡·촬영 조건을 12월에도 같다고 가정하지 않습니다.",
+ "references": [
+  {
+   "title": "오다큐 · 에노시마·가마쿠라 프리패스",
+   "url": "https://www.odakyu-freepass.jp/enokama/buy.html",
+   "note": "출발역~후지사와 왕복1회 + 에노덴·후지사와~가타세에노시마 자유 승하차. 전체 구간 무제한이 아닙니다."
+  },
+  {
+   "title": "치바 모노레일 · 시야쿠쇼마에역",
+   "url": "https://chiba-monorail.co.jp/index.php/info-timetable/station-info/shiyakushomae-station/",
+   "note": "치바 방향 노선 확인. 도쿄에서 40분이라는 SNS 설명은 신바시 숙소 출발 소요시간이 아닙니다."
+  },
+  {
+   "title": "공유 게시자 프로필 · 게시물 원문 URL 미제공",
+   "url": "https://www.instagram.com/on.leeuu/",
+   "note": "사용자가 제공한 본문을 한국어로 요약했습니다. 이 링크는 게시물 원문이 아닌 게시자 프로필이며 공식 검증 근거와 구분합니다."
+  }
+ ],
+ "coverPhotoId": "enoshima",
+ "spots": [
+  {
+   "id": "kamakura-crossing",
+   "name": "가마쿠라코코마에역 주변",
+   "address": "가나가와현 가마쿠라 · 에노덴 연선",
+   "query": "鎌倉高校前駅",
+   "note": "바다와 철길을 보고 싶은 후보입니다. 통제·인물 촬영 가능 여부는 공유 당시 후기이며 현재 상태 미확인.",
+   "photoId": "kamakura",
+   "evidence": {
+    "summary": "바다와 가까운 에노덴 EN08 역입니다. 역과 철길 풍경을 함께 보는 후보이며, 건널목의 촬영 통제와 혼잡은 현장 안내를 따릅니다.",
+    "officialUrl": "https://www.enoden.co.jp/train/station/kamakurakokomae/",
+    "photoPageUrl": "https://www.enoden.co.jp/fan/museum/facilities/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 원문에 가마쿠라코코마에역 사진이 있습니다. SNS와 같은 사진 지점·구도를 보장하지 않습니다.",
+    "verificationNote": "운영사에서 역명·가마쿠라시 고시고에1-1-25 확인. 인물 촬영 통제의 현재 상태는 미확인.",
+    "photoId": "kamakura"
+   },
+   "visitorInfo": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/kamakurakokomae/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+   },
+   "photoIds": [
+    "more-kamakura-crossing-1",
+    "more-kamakura-crossing-2"
+   ]
+  },
+  {
+   "id": "gokurakuji",
+   "name": "고쿠라쿠지역",
+   "address": "가나가와현 가마쿠라 · 에노덴 연선",
+   "query": "極楽寺駅",
+   "note": "역 주변 산책 후보입니다. 공유된 드라마 촬영 장면·촬영 위치는 미검증.",
+   "evidence": {
+    "summary": "에노덴 EN11 역과 주변 사찰을 천천히 둘러보는 후보입니다. 운영사는 역에서 고쿠라쿠지 사찰까지 도보 약2분을 안내합니다.",
+    "officialUrl": "https://www.enoden.co.jp/train/station/gokurakuji/",
+    "photoPageUrl": "https://www.enoden.co.jp/fan/museum/facilities/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사의 고쿠라쿠지역·철도 유산 사진을 원문에서 볼 수 있습니다. 드라마 장면과 같은 구도로 확인하지 않았습니다.",
+    "verificationNote": "공식 역 주소 가마쿠라시 고쿠라쿠지3-7-4. 드라마 촬영지 주장·12월 사진 조건 미확인."
+   },
+   "photoId": "spot-gokurakuji",
+   "visitorInfo": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/gokurakuji/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+   },
+   "photoIds": [
+    "more-gokurakuji-1",
+    "more-gokurakuji-2"
+   ]
+  },
+  {
+   "id": "betanagi",
+   "name": "베타나기 · べたなぎ",
+   "address": "가나가와현 후지사와시 가타세카이간 1-11-29 · 섬 밖, 에노덴 에노시마역 도보 약 3분",
+   "query": "べたなぎ 藤沢市片瀬海岸1-11-29",
+   "note": "텐동 점심 식당입니다. 텐동 병맥주 세트 1,705엔, 에노시마 맥주 별도 900엔(공식 메뉴). 11:00–15:00·수요일 휴무.",
+   "evidence": {
+    "summary": "에노시마역 인근에서 텐동과 시라스 덮밥을 고를 수 있는 식당입니다. 섬으로 들어가기 전 점심 후보로 검토하세요.",
+    "officialUrl": "https://ishii-shokai2017.com/betanagi/",
+    "photoPageUrl": "https://ishii-shokai2017.com/betanagi/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 원문의 텐동·시라스 덮밥·매장 외관 사진을 볼 수 있습니다.",
+    "verificationNote": "공식 주소 후지사와시 가타세카이간1-11-29, 일반11:00–15:00·수요일휴무 확인. 가격·임시휴무·겨울 메뉴는 방문일 확인."
+   },
+   "visitorInfo": {
+    "hours": "11:00–15:00",
+    "closed": "수요일",
+    "admission": "음식·음료 메뉴별 유료 · 공식 예시 새우 텐동 1,760엔",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://ishii-shokai2017.com/betanagi/",
+    "note": "운영사 매장 안내 원문 대조. 12월 임시휴무·메뉴·가격은 방문 전 재확인."
+   },
+   "referencePhotoId": "reference-betanagi"
+  },
+  {
+   "id": "enoshima-island",
+   "name": "에노시마 섬",
+   "address": "가나가와현 후지사와시 에노시마",
+   "query": "江の島",
+   "note": "섬 산책과 바다 풍경 후보. 드라마 속 라멘집 골목의 정확한 지점은 미확인.",
+   "photoId": "enoshima",
+   "evidence": {
+    "summary": "신사·전망시설·해안 산책을 고를 수 있는 섬입니다. 계단과 언덕을 포함하므로 식사 한 곳과 주요 구역부터 정해 당일치기 시간을 배분하세요.",
+    "officialUrl": "https://www.fujisawa-kanko.jp/spot/enoshima/",
+    "photoPageUrl": "https://www.fujisawa-kanko.jp/spot/enoshima/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "후지사와시 관광 공식 원문의 섬·관광시설 사진입니다. 개별 시설은 유료·휴관 조건이 다를 수 있습니다.",
+    "verificationNote": "관광 공식 구역 소개 확인. SNS 드라마 속 라멘집 골목의 정확한 위치는 미확인. 기존5일 일정에 자동 편입하지 않습니다.",
+    "photoId": "enoshima"
+   },
+   "visitorInfo": {
+    "hours": "섬 내 시설별 운영시간 상이 · 개별 시설 확인",
+    "closed": "시설별 휴관일 상이",
+    "admission": "전망시설·동굴 등 유료 시설의 요금 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.fujisawa-kanko.jp/spot/enoshima/",
+    "note": "섬 전체의 단일 영업시간·휴무일로 묶지 않습니다. 겨울철 각 시설의 최종 입장과 기상에 따른 제한은 방문일 확인."
+   },
+   "photoIds": [
+    "more-enoshima-island-1",
+    "more-enoshima-island-2"
+   ]
+  },
+  {
+   "id": "enoshima-station",
+   "name": "에노시마역",
+   "address": "가나가와현 후지사와 · 에노덴",
+   "query": "江ノ島駅",
+   "note": "에노덴 에노시마역입니다. 오다큐 가타세에노시마역·쇼난 모노레일역과 구분하세요.",
+   "evidence": {
+    "summary": "에노덴 에노시마역 EN06에서 시작하는 해안 산책 후보입니다. 오다큐 가타세에노시마역·쇼난에노시마역과 다른 역이므로 승하차할 노선을 먼저 확인하세요.",
+    "officialUrl": "https://www.enoden.co.jp/train/station/enoshima/",
+    "photoPageUrl": "https://www.enoden.co.jp/fan/museum/facilities/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 페이지에 에노시마역 대합실·전시 사진이 있습니다. 섬이나 다른 회사의 역 사진과 구분합니다.",
+    "verificationNote": "공식 역·연계 노선·시설 소개를 대조했습니다. 전시·대합실 실제 이용 가능 여부는 방문일 확인."
+   },
+   "photoId": "spot-enoshima-station",
+   "visitorInfo": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/enoshima/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+   },
+   "photoIds": [
+    "more-enoshima-station-1",
+    "more-enoshima-station-2"
+   ]
+  },
+  {
+   "id": "inamuragasaki",
+   "name": "이나무라가사키역 주변",
+   "address": "가나가와현 가마쿠라 · 에노덴 연선",
+   "query": "稲村ヶ崎駅",
+   "note": "열차 사진 후보. 사람이 없거나 통제가 없다는 후기 내용은 보장하지 않습니다.",
+   "evidence": {
+    "summary": "에노덴 EN10 역 주변을 걷거나 해안으로 이어갈 후보입니다. 열차와 사람을 함께 찍을 수 있는 지점을 확정한 코스는 아닙니다.",
+    "officialUrl": "https://www.enoden.co.jp/train/station/inamuragasaki/",
+    "photoPageUrl": "https://www.enoden.co.jp/train/station/inamuragasaki/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 역 소개 이미지·구내도를 보는 링크입니다. 철길 촬영 예시 사진으로 검증한 것은 아닙니다.",
+    "verificationNote": "공식 역명·가마쿠라시 이나무라가사키2-8-1 확인. 한산함·통제 없음·촬영 각도는 보장하지 않습니다."
+   },
+   "photoId": "spot-inamuragasaki",
+   "visitorInfo": {
+    "hours": "열차 운행시간에 따름 · 역별 공식 시간표에서 첫차·막차 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "열차 이용 시 구간별 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.enoden.co.jp/train/station/inamuragasaki/",
+    "note": "관광시설의 영업시간과 구분합니다. 역 주변 산책·촬영 구역의 별도 개방시간과 통제는 미확인. 운휴·지연은 방문일 운영사 공지 확인."
+   },
+   "photoIds": [
+    "more-inamuragasaki-1",
+    "more-inamuragasaki-2"
+   ]
+  },
+  {
+   "id": "chiba-monorail",
+   "name": "치바 도시 모노레일",
+   "address": "시야쿠쇼마에역 → 치바역 방향",
+   "query": "市役所前駅 千葉モノレール",
+   "note": "매달린 형태의 열차와 도심 풍경을 보고 싶은 후보입니다. 실제 배차·차량·전면 시야는 당일 확인하세요.",
+   "photoId": "chiba-monorail",
+   "references": [
+    {
+     "title": "운영사 · 역·시간표",
+     "url": "https://chiba-monorail.co.jp/index.php/info-timetable/station-info/shiyakushomae-station/"
+    }
+   ],
+   "evidence": {
+    "summary": "시야쿠쇼마에역에서 치바 방향으로 현수식 모노레일을 타보는 후보입니다. 운행 방향·배차를 확인하고 앞쪽 시야는 당일 차량과 혼잡에 맞춰 기대하세요.",
+    "officialUrl": "https://chiba-monorail.co.jp/index.php/info-timetable/station-info/shiyakushomae-station/",
+    "photoPageUrl": "https://chiba-monorail.co.jp/index.php/about-monorail/sharyou/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 차량 소개의 현수식 열차 사진·구조 안내를 원문에서 볼 수 있습니다. 시야쿠쇼마에역 출발편이나 전면 시야를 보장하는 사진은 아닙니다.",
+    "verificationNote": "시야쿠쇼마에역과 치바 방향 시간표 연결 확인. 신바시 숙소에서40분이라는 소요시간·지정 차량을 확정하지 않습니다.",
+    "photoId": "chiba-monorail"
+   },
+   "visitorInfo": {
+    "hours": "열차 운행시간에 따름 · 시야쿠쇼마에역 공식 시간표 확인",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "구간별 모노레일 운임 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://chiba-monorail.co.jp/index.php/info-timetable/station-info/shiyakushomae-station/",
+    "note": "관광시설 영업시간이 아닌 교통기관 운행시간입니다. 치바 방향 첫차·막차·배차와 운휴 공지를 방문일 확인."
+   },
+   "photoIds": [
+    "more-chiba-monorail-1",
+    "more-chiba-monorail-2"
+   ]
+  }
+ ]
+}

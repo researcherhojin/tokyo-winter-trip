@@ -1,0 +1,157 @@
+{
+  "tokyo-kitte": {
+    "hours": "옥상 평일 11:00–23:00 / 토·일·공휴일 11:00–22:00",
+    "closed": "날씨에 따른 옥상 폐쇄·시설 휴관 확인",
+    "admission": "옥상 정원 무료",
+    "sourceUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "checkedAt": "2026-10-18",
+    "note": "옥상과 상점·레스토랑 영업시간은 다릅니다."
+  },
+  "shibuya-sky": {
+    "hours": "10:00–22:30 · 최종 입장 21:20",
+    "closed": "임시 휴업 확인 · 날씨가 급변하면 예고 없이 옥상 폐쇄",
+    "admission": "유료·시간 지정 관람권 확인",
+    "sourceUrl": "https://www.shibuya-scramble-square.com/sky/ticket/",
+    "checkedAt": "2026-10-18",
+    "note": "12월 예약·일몰 회차는 미확정입니다."
+  },
+  "sensoji-night": {
+    "hours": "조명 일몰~23:00경 · 본당 겨울 06:30–17:00",
+    "closed": "조명은 공식 매일 안내 · 변경 공지 확인",
+    "admission": "야외 경내 산책·유료 체험은 별도",
+    "sourceUrl": "https://www.senso-ji.jp/info/lightup.html",
+    "checkedAt": "2026-10-18",
+    "note": "야경 산책과 본당 내부 관람은 구분합니다."
+  },
+  "tower-night": {
+    "hours": "메인덱 일반 09:00–23:00 · 최종 입장 22:30",
+    "closed": "12월 특별 점등 공식 미발표 · 당일 운영 공지 확인",
+    "admission": "전망대 유료 · 외관 감상과 구분",
+    "sourceUrl": "https://www.tokyotower.co.jp/fee/",
+    "checkedAt": "2026-10-18",
+    "note": "현재 일반 안내이며 12월 당일 운영을 보장하지 않습니다."
+  },
+  "skytree-night": {
+    "hours": "12/14 운영 캘린더·최종 입장시간 확인",
+    "closed": "기상·점검에 따른 운영 변경 확인",
+    "admission": "전망대 유료 · 시간 지정 예약 확인",
+    "sourceUrl": "https://www.tokyo-skytree.jp/",
+    "checkedAt": "2026-10-18",
+    "note": "기존 15:10은 여행 계획이며 예약 완료 시각이 아닙니다."
+  },
+  "odaiba-night": {
+    "hours": "야외 해변 산책 · 공원 시설·통제 시간 별도",
+    "closed": "공사·기상에 따른 접근 제한 확인",
+    "admission": "야외 산책 · 전망·상업시설 별도",
+    "sourceUrl": "https://www.gotokyo.org/en/spot/39/index.html",
+    "checkedAt": "2026-10-18"
+  },
+  "ginza-night": {
+    "hours": "야외 거리 산책 · 상점별 영업·조명 상이",
+    "closed": "점포별 휴무·행사 통제 확인",
+    "admission": "야외 산책 · 쇼핑·식사 별도",
+    "sourceUrl": "https://www.ginza.jp/",
+    "checkedAt": "2026-10-18"
+  },
+  "kabukicho-night": {
+    "hours": "야외 거리 산책 · 점포별 영업시간 상이",
+    "closed": "점포별 휴무·행사 통제 확인",
+    "admission": "거리 산책 · 업장별 이용료 별도",
+    "sourceUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "checkedAt": "2026-10-18"
+  },
+  "yurakucho-night": {
+    "hours": "야외 고가 주변 산책 · 식당별 영업 상이",
+    "closed": "각 식당의 정기휴무·마지막 주문 확인",
+    "admission": "거리 산책 · 식사·주류 별도",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18"
+  },
+  "funabori": {
+    "hours": "전망 엘리베이터 09:00–21:30",
+    "closed": "연말연시 12/28–1/4·2월·8월 점검 수일 휴관 · 강풍 시 운행 중지",
+    "admission": "전망실 무료",
+    "sourceUrl": "https://www.towerhall.jp/faq/",
+    "checkedAt": "2026-10-18"
+  },
+  "roppongi-night": {
+    "hours": "거리 산책 상시 · 케야키자카 점등 11/5–12/25 17:00–22:00",
+    "closed": "혼잡·기상·주최 측 변경 공지 확인",
+    "admission": "거리 일루미네이션 감상",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "checkedAt": "2026-10-18",
+    "note": "케야키자카 일루미네이션 기준이며 유료 전망대 운영과 다릅니다."
+  },
+  "keyakizaka": {
+    "hours": "2026.11.05–12.25 / 17:00–22:00 점등",
+    "closed": "혼잡·기상·주최 측 변경 공지 확인",
+    "admission": "거리 일루미네이션 감상",
+    "sourceUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "checkedAt": "2026-10-18",
+    "note": "케야키자카 일루미네이션 기준이며 유료 전망대 운영과 다릅니다."
+  },
+  "akabanebashi-photo": {
+    "hours": "공공 보행 구역 촬영 후보 · 시설 영업과 구분",
+    "closed": "점포·보행로의 당일 통제 확인",
+    "admission": "시설·사유지 출입 조건 별도 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "확인되지 않은 24시간 개방·점포 영업을 확정하지 않습니다."
+  },
+  "shiba-seven-photo": {
+    "hours": "공공 보행 구역 촬영 후보 · 시설 영업과 구분",
+    "closed": "점포·보행로의 당일 통제 확인",
+    "admission": "시설·사유지 출입 조건 별도 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "확인되지 않은 24시간 개방·점포 영업을 확정하지 않습니다."
+  },
+  "roppongi-seven-photo": {
+    "hours": "공공 보행 구역 촬영 후보 · 시설 영업과 구분",
+    "closed": "점포·보행로의 당일 통제 확인",
+    "admission": "시설·사유지 출입 조건 별도 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "확인되지 않은 24시간 개방·점포 영업을 확정하지 않습니다."
+  },
+  "fudanotsuji-photo": {
+    "hours": "공공 보행 구역 촬영 후보 · 시설 영업과 구분",
+    "closed": "점포·보행로의 당일 통제 확인",
+    "admission": "시설·사유지 출입 조건 별도 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "확인되지 않은 24시간 개방·점포 영업을 확정하지 않습니다."
+  },
+  "hamamatsu-deck-photo": {
+    "hours": "보행 데크 · 상시 통행 공간(역·시설 연결부는 운영시간 별도)",
+    "closed": "정기 휴무 없음 · 공사·행사 통제 확인",
+    "admission": "무료 공공 보행로",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "보행 통로이므로 오래 멈추거나 삼각대를 세우지 마세요. 「3층」 여부는 미확인."
+  },
+  "hamamatsu-parking-photo": {
+    "hours": "정확한 촬영 공간·개방시간 확인 필요",
+    "closed": "시설·촬영 구역별 확인 필요",
+    "admission": "일반인 출입·촬영·예약 조건 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "공유된 촬영 위치를 실제 출입 가능 공간으로 확정하지 않습니다."
+  },
+  "azabudai-photo": {
+    "hours": "정확한 촬영 공간·개방시간 확인 필요",
+    "closed": "시설·촬영 구역별 확인 필요",
+    "admission": "일반인 출입·촬영·예약 조건 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "공유된 촬영 위치를 실제 출입 가능 공간으로 확정하지 않습니다."
+  },
+  "yoyogi-rail-photo": {
+    "hours": "정확한 촬영 공간·개방시간 확인 필요",
+    "closed": "시설·촬영 구역별 확인 필요",
+    "admission": "일반인 출입·촬영·예약 조건 확인",
+    "sourceUrl": null,
+    "checkedAt": "2026-10-18",
+    "note": "공유된 촬영 위치를 실제 출입 가능 공간으로 확정하지 않습니다."
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "photos": {
+    "item-tricolore": {
+      "src": "/photos/item-tricolore.jpg",
+      "alt": "긴자 토리코로루 본점의 붉은 차양과 벽돌 외관",
+      "caption": "토리코로루 본점 실제 외관 · 2014년 사진",
+      "author": "Kentin",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Tricolore_ginza_head_store_2014.jpg",
+      "position": "50% 65%"
+    },
+    "item-oiwake-exterior": {
+      "src": "/photos/item-oiwake-exterior.jpg",
+      "alt": "신주쿠 오이와케 당고 혼포의 실제 매장 입구와 진열대",
+      "caption": "오이와케 당고 혼포 실제 입구 · 2010년 사진",
+      "author": "江戸村のとくぞう",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Oiwake_Dango1.jpg"
+    },
+    "item-oiwake-sweets": {
+      "src": "/photos/item-oiwake-dango.jpg",
+      "alt": "오이와케 당고 혼포 진열대의 콩이 든 화과자",
+      "caption": "오이와케 당고 혼포의 진열 화과자 · 당고 꼬치 사진 아님 · 2010년",
+      "author": "江戸村のとくぞう",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Oiwake_Dango2.jpg"
+    },
+    "item-juchheim-cake": {
+      "src": "/photos/item-juchheim-ueno.jpg",
+      "alt": "여러 겹의 결이 보이는 유하임 바움쿠헨 두 조각",
+      "caption": "유하임 바움쿠헨 실제 상품 · 우에노점 촬영으로 확인된 사진 아님 · 2019년",
+      "author": "毒島みるく",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Baumkuchen_of_Juchheim.jpg"
+    },
+    "spot-ladrio": {
+      "src": "/photos/item-ladrio.jpg",
+      "alt": "라드리오 치킨카레와 비엔나커피 · 2023-10-20 사진 · 현재 메뉴·가격은 별도 확인",
+      "caption": "라드리오 치킨카레와 비엔나커피 · 2023-10-20 사진 · 현재 메뉴·가격은 별도 확인",
+      "author": "Araisyohei",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Jinbocho_ladrio_2023-10-20(1)_as.jpg"
+    },
+    "spot-bondy": {
+      "src": "/photos/item-bondy.jpg",
+      "alt": "본디 진보초 본점 비프카레와 감자 · 2024-05-11 사진 · 현재 메뉴·가격은 별도 확인",
+      "caption": "본디 진보초 본점 비프카레와 감자 · 2024-05-11 사진 · 현재 메뉴·가격은 별도 확인",
+      "author": "ウィ貴公子",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:202405111644_IMG_5729.jpg"
+    }
+  },
+  "spotPhotos": {
+    "tricolore": [
+      "item-tricolore"
+    ],
+    "oiwake-dango": [
+      "item-oiwake-exterior",
+      "item-oiwake-sweets"
+    ],
+    "juchheim-ueno": [
+      "item-juchheim-cake"
+    ],
+    "ladrio": [
+      "spot-ladrio"
+    ],
+    "bondy": [
+      "spot-bondy"
+    ]
+  },
+  "unavailable": {
+    "seven-noodle": {
+      "photoPageUrl": "https://7premium.jp/index.php/blog/detail?id=2012",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "seven-smoothie": {
+      "photoPageUrl": "https://prtimes.jp/main/html/rd/p/000000307.000155396.html",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "lawson-mochi": {
+      "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1530060_1996.html",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "lawson-pasta": {
+      "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1528746_1996.html",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "seven-sweet-potato": {
+      "photoPageUrl": "https://www.sej.co.jp/company/news_release/news/2025/202509191000.html",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "mcdonalds-burger": {
+      "photoPageUrl": null,
+      "reason": "공유된 정확한 제품명이 미식별이어서 다른 제품 사진을 붙이지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "cooler-bag": {
+      "photoPageUrl": "https://item.rakuten.co.jp/daiso-officialshop/sp0029/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "rohto-premium": {
+      "photoPageUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "taisho-patch": {
+      "photoPageUrl": "https://brand.taisho.co.jp/kounaien/product/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "miyaflora": {
+      "photoPageUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "biofermin": {
+      "photoPageUrl": "https://brand.taisho.co.jp/biofermin/product/s/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "chlomy": {
+      "photoPageUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "nail-care": {
+      "photoPageUrl": null,
+      "reason": "공유된 정확한 제품명이 미식별이어서 다른 제품 사진을 붙이지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "hepalize": {
+      "photoPageUrl": "https://www.zeria.co.jp/hepa/iyaku/product/",
+      "reason": "제품 사진이 실린 공식 원문은 있으나 앱 내 재사용 허가를 확인하지 못했습니다. 다른 제품·브랜드 대표 사진으로 대체하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "ginza-oden": {
+      "photoPageUrl": null,
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "pizza-shinagawa": {
+      "photoPageUrl": "https://www.tablecheck.com/ja/400-yonhyakudo-shinagawa",
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "hatoya-asakusa": {
+      "photoPageUrl": "https://www.8108kyoto.com/",
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "hana-asakusa": {
+      "photoPageUrl": null,
+      "reason": "공유 상호·주소로 현재 매장과 사진의 동일성을 충분히 확인하지 못했습니다. 다른 카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "tabanenoshi": {
+      "photoPageUrl": "https://tabanenoshi.com/",
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "nanaya-aoyama": {
+      "photoPageUrl": "https://www.nanaya-matcha.com/",
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    },
+    "west-aoyama": {
+      "photoPageUrl": "https://www.ginza-west.com/hpgen/HPB/categories/17547.html",
+      "reason": "해당 매장·메뉴의 사진을 앱에 재사용할 수 있는 허가를 확인하지 못했습니다. 다른 식당·카페 사진으로 대신하지 않았습니다.",
+      "checkedAt": "2026-10-18"
+    }
+  }
+}

@@ -1,0 +1,276 @@
+{
+ "id": "desserts",
+ "title": "카페·디저트",
+ "description": "공유한 말차·당고·케이크와 카페를 모았습니다. 후기의 순위·최초·최고 표현과 가격·대기시간은 사실로 확정하지 않았습니다.",
+ "caution": "TOP7 게시물은 제공된 본문에 6곳만 확인돼 7번째 가게를 임의로 채우지 않았습니다.",
+ "references": [
+  {
+   "title": "공유 게시자 프로필 · 게시물 원문 URL 미제공",
+   "url": "https://www.instagram.com/gge.juck/",
+   "note": "사용자가 제공한 본문을 한국어로 요약했습니다. 이 링크는 게시물 원문이 아닌 게시자 프로필이며 공식 검증 근거와 구분합니다."
+  }
+ ],
+ "coverPhotoId": "tricolore",
+ "spots": [
+  {
+   "id": "tricolore",
+   "name": "긴자 토리코로루 본점",
+   "address": "도쿄도 주오구 긴자 5-9-17",
+   "query": "トリコロール本店 銀座5-9-17",
+   "note": "커피와 클래식한 실내 분위기를 보고 싶은 카페. 화요일 휴무 안내가 있어 12/15 귀국일 후보로 바로 넣지 마세요.",
+   "verified": "운영사·긴자 공식 상점 안내 · 2026.10.18",
+   "details": "운영사 공식 페이지 기준 08:00–19:00(주문 마감 18:30)이고 예약은 받지 않습니다. 휴무일은 매장 공식 인스타그램으로 안내하며, 긴자 공식 상점 안내는 화요일 휴무로 표기합니다. 12/15(화) 후보로 넣지 마세요.",
+   "references": [
+    {
+     "title": "긴자 공식 · 토리코로루 본점",
+     "url": "https://www.ginza.jp/shop/873",
+     "note": "운영사 페이지(tricolore.co.jp)는 HTTPS를 지원하지 않아 링크하지 않았습니다. 운영사 표기는 08:00–19:00(L.O. 18:30)입니다."
+    }
+   ],
+   "photoId": "item-tricolore",
+   "evidence": {
+    "summary": "1936년 문을 연 카페로 넬드립 커피와 매장에서 만드는 애플파이를 소개합니다.",
+    "officialUrl": "https://www.ginza.jp/shop/873",
+    "photoPageUrl": "https://www.ginza.jp/shop/873",
+    "checkedAt": "2026-10-18",
+    "photoNote": "긴자 공식 개별 매장 원문의 외관·실내 사진을 볼 수 있습니다.",
+    "verificationNote": "운영사 공식 페이지 기준 08:00–19:00(L.O. 18:30)·예약 불가, 화요일 휴무는 긴자 공식 상점 안내 기준입니다. 12/15 후보에서 제외.",
+    "photoId": "tricolore",
+    "highlight": "화요일 휴무(긴자 안내 기준) · 12/15 귀국일 방문 후보에서 제외"
+   },
+   "visitorInfo": {
+    "hours": "08:00–19:00(L.O. 18:30) · 운영사 공식",
+    "closed": "화요일(긴자 공식 상점 안내) · 운영사는 휴무일을 매장 공식 인스타그램으로 안내",
+    "admission": "커피·디저트 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.ginza.jp/shop/873",
+    "note": "예약 불가(운영사 공식). 12/15(화)에는 방문 후보로 넣지 마세요."
+   },
+   "closures": [
+    {
+     "date": "12/15",
+     "label": "화요일 휴무",
+     "certainty": "official"
+    }
+   ]
+  },
+  {
+   "id": "nanaya-aoyama",
+   "name": "나나야 아오야마",
+   "address": "도쿄도 시부야구 시부야 2-7-12",
+   "query": "ななや 青山 渋谷2-7-12",
+   "note": "농도별 말차 아이스크림 후보. 아사쿠사 壽々喜園 협업점·교토 산조점과 다른 아오야마점입니다.",
+   "references": [
+    {
+     "title": "나나야 아오야마 공식 계정 · 운영 안내",
+     "url": "https://x.com/nanaya_aoyama/with_replies",
+     "note": "공식 계정의 화요일 휴무 안내 확인. 방문일 재확인."
+    }
+   ],
+   "evidence": {
+    "summary": "말차 농도를 골라 젤라토를 먹는 나나야의 아오야마 매장입니다.",
+    "officialUrl": "https://nanaya-matcha.com/?mode=f4&sid=50",
+    "photoPageUrl": "https://www.nanaya-matcha.com/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "브랜드 공식 상품 사진 페이지입니다. 아오야마점 실내 사진으로 표시하지 않습니다.",
+    "verificationNote": "브랜드 공식 매장 목록에서 시부야2-7-12 1층·전화를 확인했습니다. 영업시간·휴무는 공식 게시가 없어 방문 전 확인이 필요합니다."
+   },
+   "photoId": "audit-food-nanaya-aoyama-gelato",
+   "visitorInfo": {
+    "hours": "공식 미게시 · 방문 전 확인",
+    "closed": "공식 미게시 · 매장 공식 계정 안내 확인",
+    "admission": "제라토·상품별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://nanaya-matcha.com/?mode=f4&sid=50",
+    "note": "브랜드 공식 매장 목록에서 주소·전화(03-6427-9008)만 확인했습니다."
+   }
+  },
+  {
+   "id": "tabanenoshi",
+   "name": "아사쿠사 차야 타바네노시",
+   "address": "도쿄도 다이토구 아사쿠사 2-7-7",
+   "query": "浅草茶屋たばねのし 浅草2-7-7",
+   "note": "가케가와 말차 반죽·커스터드에 주문 후 브륄레한 말차 크레페 후보. 대기·품절은 당일 확인.",
+   "references": [
+    {
+     "title": "공유 매장 계정 · 메뉴·운영 확인",
+     "url": "https://www.instagram.com/asakusachaya_tabanenoshi/",
+     "note": "공유된 계정 링크이며 현재 메뉴·대기시간을 검증한 자료는 아닙니다."
+    }
+   ],
+   "evidence": {
+    "summary": "말차 반죽과 커스터드에 캐러멜라이즈한 윗면을 더한 일본식 크레페를 고를 수 있는 곳입니다. 센소지 주변 산책과 묶는 간식 후보입니다.",
+    "officialUrl": "https://tabanenoshi.com/shopaccess/",
+    "photoPageUrl": "https://tabanenoshi.com/works/kakegawagreenteabrulee/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 원문의 말차 브륄레·티라미수·밀크티 등 상품 사진입니다. 재사용 허가가 확인되지 않아 원문 링크만 제공합니다.",
+    "verificationNote": "공식 매장 목록의 아사쿠사 본점(아사쿠사2-7-7) 평일9–19시·주말9–20시 기준. 가마쿠라점 시간(11–18시/10–19시)과 교토·후쿠오카 지점 정보는 쓰지 않습니다. 12월 운영·품절 재확인."
+   },
+   "visitorInfo": {
+    "hours": "평일 09:00–19:00 · 토·일·공휴일 09:00–20:00 (공식 매장 목록의 아사쿠사 본점 기준)",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "크레페·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://tabanenoshi.com/shopaccess/",
+    "note": "공식 매장 목록의 아사쿠사 본점 시간입니다. 다른 지점 시간은 쓰지 않습니다. 정기휴무는 공식 미표기."
+   },
+   "referencePhotoId": "ref-crepe-harajuku-2008"
+  },
+  {
+   "id": "oiwake-dango",
+   "name": "오이와케 당고 혼포",
+   "address": "도쿄도 신주쿠구 신주쿠 3-1-22",
+   "query": "追分だんご本舗 新宿3-1-22",
+   "note": "미타라시 당고와 포장 후보. 영업·품절과 매장 이용 조건 확인 필요.",
+   "references": [
+    {
+     "title": "오이와케 당고 공식 · 매장 안내",
+     "url": "https://oiwakedango.co.jp/"
+    }
+   ],
+   "evidence": {
+    "summary": "신주쿠 산책 중 미타라시·말차·계절 당고를 포장하거나 찻집에서 쉬어갈 후보입니다. 판매점과 찻집의 운영시간은 다릅니다.",
+    "officialUrl": "https://oiwakedango.co.jp/",
+    "photoPageUrl": "https://oiwakedango.co.jp/dango/mitarashi/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 미타라시 당고 상품 사진·원재료 안내를 원문에서 볼 수 있습니다.",
+    "verificationNote": "신주쿠3-1-22·판매10:30–19:00·품절 시조기마감·찻집예약불가 확인. 300년역사·최고순위는 검증 사실로 옮기지 않습니다."
+   },
+   "photoId": "more-oiwake-dango-2",
+   "visitorInfo": {
+    "hours": "판매 10:30–19:00 · 찻집 평일 12:00–18:00 / 토·일·공휴일 11:30–18:00 · 주문 마감 17:30",
+    "closed": "1월 1일·2일",
+    "admission": "당고·찻집 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://oiwakedango.co.jp/",
+    "note": "공식 매장 안내 대조. 품절 시 조기 종료할 수 있으며 찻집 좌석 예약은 불가. 12월 임시휴무 공지는 방문 전 확인."
+   },
+   "photoIds": [
+    "spot-oiwake",
+    "more-oiwake-dango-1"
+   ]
+  },
+  {
+   "id": "west-aoyama",
+   "name": "웨스트 아오야마 가든 · 긴자 웨스트",
+   "address": "도쿄도 미나토구 미나미아오야마 1-22-10",
+   "query": "ウエスト青山ガーデン 南青山1-22-10",
+   "note": "수플레·디저트 관심 카페. 이름에 긴자가 있어도 위치는 아오야마입니다.",
+   "verified": "공식 주소 확인 · 2026.10.17",
+   "details": "아오야마 가든 한정 핫 수플레 1,430엔(음료 세트 2,310엔), 11:00–18:00 주문, 굽는 데 약 20분 걸립니다(2026년 공식 메뉴). 좌석 예약은 받지 않습니다. 품절·대기는 당일 확인하세요. 앱 사진의 팬케이크는 수플레가 아닙니다.",
+   "references": [
+    {
+     "title": "웨스트 공식 · 카페 소개·주소",
+     "url": "https://www.ginza-west.com/hpgen/HPB/categories/17547.html"
+    }
+   ],
+   "evidence": {
+    "summary": "테라스와 실내 라운지가 있는 웨스트의 아오야마 카페입니다. 디저트와 차를 즐기는 휴식 후보이며 이름의 긴자와 실제 위치를 구분하세요.",
+    "officialUrl": "https://www.ginza-west.com/hpgen/HPB/categories/17547.html",
+    "photoPageUrl": "https://www.ginza-west.com/hpgen/HPB/categories/17547.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 점포 소개의 아오야마 가든 사진을 원문에서 볼 수 있습니다. 여러 지점이 함께 있으므로 해당 절을 확인하세요.",
+    "verificationNote": "미나미아오야마1-22-10·노기자카역5번출구도보3분·일반11–19시·좌석예약불가 확인. 수플레제공·대기는방문일확인."
+   },
+   "photoId": "new-food-west-pancake",
+   "visitorInfo": {
+    "hours": "11:00–19:00 · 평일·주말·공휴일 동일",
+    "closed": "공식 안내상 월–일 영업(정기휴무 표기 없음)",
+    "admission": "음료·디저트 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.ginza-west.com/",
+    "note": "브랜드 공식 2025-06-30 공지는 2025-08-01부터 19시 마감으로 변경한다고 안내합니다. 공식 정기휴무는 별도 확인하지 못했으며 12월 운영·주문 마감 재확인."
+   },
+   "photoIds": [
+    "west-cream-puff-2017"
+   ]
+  },
+  {
+   "id": "juchheim-ueno",
+   "name": "유하임 우에노점",
+   "address": "도쿄도 다이토구 우에노 3-29-5 · 마쓰자카야 우에노 본관1층",
+   "query": "ユーハイム 松坂屋上野店",
+   "note": "바움쿠헨을 먹어보고 싶은 후보. 즉석 커팅·중량 판매는 현 매장 안내 확인 필요.",
+   "references": [
+    {
+     "title": "유하임 공식 · 매장 검색",
+     "url": "https://www.juchheim.co.jp/shop_search",
+     "note": "마쓰자카야 우에노점 주소 확인. 즉석 판매 방식·재고는 별도 확인."
+    }
+   ],
+   "evidence": {
+    "summary": "마쓰자카야 우에노의 유하임에서 바움쿠헨을 고르는 후보입니다. 포장 상품과 현장 커팅 판매가 같은 방식인지 매장에서 먼저 확인하세요.",
+    "officialUrl": "https://www.juchheim.co.jp/shop/%E6%9D%BE%E5%9D%82%E5%B1%8B%E4%B8%8A%E9%87%8E%E5%BA%97",
+    "photoPageUrl": "https://www.matsuzakaya.co.jp/ueno/topics/temiyage.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "입점 백화점 공식 원문에 유하임 바움쿠헨 포장 상품 사진이 있습니다. 즉석 커팅 장면 사진은 아닙니다.",
+    "verificationNote": "브랜드 공식 개별점 페이지와 백화점 판매 소개 대조. 우에노3-29-5는 공식 매장검색 확인. 판매방식·재고·가격은 방문일 확인."
+   },
+   "visitorInfo": {
+    "hours": "10:00–20:00 · 입점 백화점 1층 기준",
+    "closed": "공식 정기휴무 안내 미확인",
+    "admission": "상품 구매 비용 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.matsuzakaya.co.jp/ueno/hours.html",
+    "note": "유하임 공식 개별점과 입점 백화점 층별 안내를 대조했습니다. 일부 점포는 시간이 다를 수 있어 유하임 당일 운영·품절·백화점 휴관을 재확인."
+   },
+   "photoId": "juchheim-baumkuchen-2019"
+  },
+  {
+   "id": "hana-asakusa",
+   "name": "차료 하나조 무카시노",
+   "address": "도쿄도 다이토구 아사쿠사 1-18-9",
+   "query": "茶寮花ぞむかしの 浅草1丁目18-9",
+   "note": "직화 치즈케이크와 호지차를 즐기는 카페입니다. 공식 LINE에서 매장 주소와 대표 메뉴를 확인했습니다.",
+   "officialUrl": "https://page.line.me/501puybv",
+   "references": [
+    {
+     "title": "차료 하나조 무카시노 · 공식 매장·메뉴",
+     "url": "https://page.line.me/501puybv",
+     "note": "주소·직화 치즈케이크·11:00–18:00·수요일 휴무 확인. 방문일 변경 안내 확인."
+    }
+   ],
+   "evidence": {
+    "summary": "주문 후 불로 마무리하는 직화 치즈케이크와 호지차를 내는 아사쿠사 카미나리몬 근처 찻집입니다. 공식 LINE 기준 11:00–18:00, 수요일 휴무입니다.",
+    "officialUrl": "https://page.line.me/501puybv",
+    "photoPageUrl": "https://page.line.me/501puybv/showcase/1188990956819705/item/1189122149606527",
+    "checkedAt": "2026-10-18",
+    "photoNote": "정확한 직화 치즈케이크 공식 사진 원문을 확인했습니다. 앱 내 복제 허가가 없어 공식 원문 링크로 제공합니다.",
+    "verificationNote": "공식 LINE에서 茶寮花ぞむかしの·아사쿠사1-18-9·대표 직화 치즈케이크·11:00–18:00·수요일 휴무를 대조했습니다. 방문일 변경 안내와 메뉴 재고는 재확인하세요."
+   },
+   "visitorInfo": {
+    "hours": "11:00–18:00",
+    "closed": "수요일",
+    "admission": "음식·음료 주문별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://page.line.me/501puybv",
+    "note": "공식 LINE의 주소·영업시간·정기휴무 확인. 별도 저녁 메뉴 안내가 있지만 일반 카페 영업시간과 구분하며 방문일 운영을 재확인하세요."
+   },
+   "referencePhotoId": "ref-wagashi-matcha-2025"
+  },
+  {
+   "id": "hatoya-asakusa",
+   "name": "하토야 아사쿠사 · 八十八 浅草",
+   "address": "도쿄도 다이토구 하나카와도 2-14-3",
+   "query": "八十八浅草 東京都台東区花川戸2-14-3",
+   "note": "교토 차 스탠드 八十八良葉舎의 아사쿠사 매장(八十八浅草)입니다. 말차 라테와 거품 말차(泡抹茶) 토핑 후보. 아사쿠사의 다른 「Hatoya」 찻집과 구분하세요.",
+   "evidence": {
+    "summary": "말차 라테와 거품 말차 토핑을 고르는 교토 차 스탠드 八十八良葉舎의 아사쿠사 매장입니다. 아사쿠사 산책 중 짧은 휴식 후보입니다.",
+    "officialUrl": "https://www.8108kyoto.com/",
+    "photoPageUrl": "https://www.8108kyoto.com/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 허가된 사진이 없어 공식 원문 링크로 사진을 보여줍니다.",
+    "verificationNote": "브랜드 공식 사이트에서 아사쿠사점 주소(하나카와도2-14-3)와 말차 라테·거품 말차 메뉴를 확인했습니다. 영업시간·휴무는 공식 게시가 없습니다."
+   },
+   "visitorInfo": {
+    "hours": "공식 미게시 · 공식 인스타그램(@8108kyoto) 확인",
+    "closed": "공식 미게시",
+    "admission": "음료·디저트 주문 비용 별도",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.8108kyoto.com/",
+    "note": "브랜드 공식 사이트에서 아사쿠사점 주소와 말차 라테·거품 말차 메뉴를 확인했습니다."
+   },
+   "referencePhotoId": "ref-matcha-foam-latte-2017"
+  }
+ ]
+}

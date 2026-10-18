@@ -1,0 +1,14 @@
+{
+  "checkedAt": "2026-10-18",
+  "needs": {
+    "roppongi-seven-photo": "location",
+    "shiba-seven-photo": "location",
+    "hamamatsu-parking-photo": "location",
+    "yoyogi-rail-photo": "location",
+    "mcdonalds-burger": "product",
+    "cooler-bag": "product",
+    "taisho-patch": "product",
+    "biofermin": "product",
+    "hepalize": "product"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "photos": {
+    "audit-fudanotsuji-bridge": {
+      "src": "/photos/audit-fudanotsuji-bridge.jpg",
+      "alt": "후다노쓰지 보도육교에서 내려다본 거리와 도쿄타워 · 2015년 사진",
+      "caption": "후다노쓰지 보도육교 조망 · 2015-11-15 파리 추모 특별 조명 · 현재 조명·육교 구조와 구분",
+      "author": "Zengame",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:DSC_1048_(23013874456).jpg",
+      "capturedAt": "2015-11-15",
+      "checkedAt": "2026-10-18",
+      "fit": "contain",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "width": 960,
+      "height": 1442,
+      "timeOfDay": "night",
+      "latitude": 35.645125,
+      "longitude": 139.744202,
+      "viewEvidence": "새 좌표 기반 검색에서 확보했습니다. 저자 좌표35.645125,139.744202는 공유 좌표에서 약14m입니다. 직접 사진의 높은 보행 공간 시점·교차점·북향 도쿄타워 조망을 대조했습니다. 미나토구 2025 가을겨울 안내서 19쪽의 札の辻歩道橋 소개도 확인했습니다. 2015년 파리 추모 특별 조명 사진으로 2026년 조명이나 개축 후 육교 구조를 보장하지 않습니다.",
+      "modifications": "Commons 제공 축소본을 원본 비율로 저장. 자르기·합성·색상 수정 없음."
+    },
+    "audit-takeshiba-deck-night": {
+      "src": "/photos/audit-takeshiba-deck-night.jpg",
+      "alt": "다케시바 데크에서 다이몬 거리 너머로 본 밤의 도쿄타워 · 2024-03-04 사진",
+      "caption": "하마마쓰초 다케시바 데크에서 본 다이몬 거리와 도쿄타워 · 2024-03-04 야간 · 3층 여부 미확인",
+      "author": "Melvin Loi",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Tokyo_%E6%9D%B1%E4%BA%AC_(53575051395).jpg",
+      "downloadUrl": "https://commons.wikimedia.org/w/index.php?title=Special:Redirect/file/Tokyo_%E6%9D%B1%E4%BA%AC_(53575051395).jpg&width=960",
+      "capturedAt": "2024-03-04",
+      "checkedAt": "2026-10-18",
+      "fit": "contain",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "width": 960,
+      "height": 1440,
+      "timeOfDay": "night",
+      "latitude": 35.656319,
+      "longitude": 139.758206,
+      "modifications": "Commons 제공 960px 축소본을 원본 비율로 저장 · 자르기·합성·색상 수정 없음",
+      "viewEvidence": "공유 좌표35.6563,139.7581은 OpenStreetMap 역지오코딩에서 竹芝デッキ(港歩行者専用道第8号線), 즉 하마마쓰초역과 다케시바를 잇는 보행 데크로 확인됩니다. 사진의 촬영 좌표35.656319,139.758206은 공유 좌표에서 약10m이고 Commons 분류는 Views of Tokyo Tower from Daimon-dōri at night입니다. 직접 시각 검토해 높은 시점에서 다이몬 거리 정면 끝의 도쿄타워를 확인했습니다. 공유 명칭의 「3층」과 같은 높이인지는 확인하지 못했고, 2024년 조명·간판은 12월 방문 시 다를 수 있습니다."
+    }
+  },
+  "spotPhotoIds": {
+    "fudanotsuji-photo": "audit-fudanotsuji-bridge",
+    "hamamatsu-deck-photo": "audit-takeshiba-deck-night"
+  },
+  "checkedAt": "2026-10-18"
+}

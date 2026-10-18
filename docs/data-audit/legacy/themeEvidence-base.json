@@ -1,0 +1,203 @@
+{
+  "akabanebashi-photo": {
+    "summary": "도쿄타워에 걸어서 접근할 수 있는 아카바네바시역 주변에서 거리 풍경을 담아보는 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/spot/4/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/4/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 도쿄타워 사진 · 역 출구에서의 특정 촬영 구도 사진은 아님",
+    "verificationNote": "관광청에서 아카바네바시 출구→도쿄타워 도보 5분 안내 확인. 공유 사진과 같은 위치·구도는 미검증입니다."
+  },
+  "shiba-seven-photo": {
+    "summary": "아카바네바시역 가까이 있는 시바 3초메 편의점 앞을 잠깐 살펴보는 촬영 후보입니다.",
+    "officialUrl": "https://ptj.sej.co.jp/arbeit/recruitment/jobfind-pc/job/All/76763/",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "해당 점포 앞 촬영 사진을 공식 자료에서 확인하지 못함",
+    "verificationNote": "운영사 공식 채용 페이지에서 港区芝3丁目店·시바3-15-9·아카바네바시 도보2분 확인. 채용용 일반 사진을 해당 점포 사진으로 사용하지 않습니다. 촬영 방향·현재 영업은 재확인하세요."
+  },
+  "roppongi-seven-photo": {
+    "summary": "롯폰기 5초메의 편의점 주변에서 도쿄타워가 보이는 방향을 찾아보는 후보입니다.",
+    "officialUrl": "https://www.sej.co.jp/products/andst_shoplist.html",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "해당 점포·타워 구도의 공식 사진 확인 필요",
+    "verificationNote": "2026-09-25 기준 운영사 취급점 목록에 六本木5丁目·롯폰기5-2-1 등재를 검색 결과로 확인. 촬영 지점과 점포의 현재 영업은 미검증이며 상품 홍보 사진을 장소 사진으로 사용하지 않습니다."
+  },
+  "fudanotsuji-photo": {
+    "summary": "국도15호선과 도도301호선 교차점의 보도육교에서 도쿄타워를 바라보는 촬영 후보입니다. 미나토구 공식 관광 안내에도 야경 명소로 소개됩니다.",
+    "officialUrl": "https://www.city.minato.tokyo.jp/documents/125393/mc25aw_web_2.pdf#page=15",
+    "photoPageUrl": "https://commons.wikimedia.org/wiki/File:DSC_1048_(23013874456).jpg",
+    "checkedAt": "2026-10-18",
+    "photoNote": "후다노쓰지 보도육교 조망 · 2015-11-15 파리 추모 특별 조명 · 현재 조명·육교 구조와 구분",
+    "verificationNote": "미나토구 2025 가을겨울 관광 안내서의 札の辻歩道橋와 교차 도로·조망 방향을 대조했습니다. 실제 수집 사진은 2015년 특별 조명·개축 전 모습입니다. 2026년 당일 접근과 조명은 별도 확인하며 보행 통행을 막지 마세요."
+  },
+  "hamamatsu-deck-photo": {
+    "summary": "하마마쓰초역과 다케시바를 잇는 보행 데크(다케시바 데크)에서 다이몬 거리 끝의 도쿄타워를 바라보는 촬영 후보입니다.",
+    "officialUrl": null,
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "시설 식별·공식 사진 확인 필요",
+    "verificationNote": "공유 좌표35.6563,139.7581을 OpenStreetMap에서 竹芝デッキ(港歩行者専用道第8号線)로 식별했습니다. 공유 명칭의 「3층」과 같은 높이인지는 확인하지 못했습니다."
+  },
+  "hamamatsu-parking-photo": {
+    "summary": "하마마쓰초 주차타워 주변을 찾는 촬영 후보로, 사유지 안으로 들어가는 동선은 포함하지 않습니다.",
+    "officialUrl": null,
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "정확한 주차시설·촬영 공간의 공식 사진 확인 필요",
+    "verificationNote": "35.6572,139.7607은 사용자 공유 좌표입니다. 시설명·소유자·촬영 허용 구역이 미확인이라 특정 주차장과 연결하지 않습니다."
+  },
+  "azabudai-photo": {
+    "summary": "아자부다이 힐스의 건축과 전망 공간을 살펴보는 후보로, 스카이로비 이용 조건을 먼저 확인하세요.",
+    "officialUrl": "https://www.azabudai-hills.com/information/index.html",
+    "photoPageUrl": "https://www.azabudai-hills.com/about/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 시설·건축 소개 사진 · 공유 게시물의 특정 전망 구도와 동일함을 확인하지 않음",
+    "verificationNote": "운영사에서33·34층 스카이로비 명칭 확인. 일반인의 상시 무료 입장이나 공유 사진의 촬영 층은 확인하지 못했습니다. 방문일 출입·식음시설 이용 조건을 확인하세요."
+  },
+  "yoyogi-rail-photo": {
+    "summary": "요요기·센다가야의 철길 옆 골목에서 열차와 도시 풍경을 바라보는 선택 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/yoyogi/index.html",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 요요기 지역 소개는 확인했으나 해당 건널목 사진은 확인 필요",
+    "verificationNote": "공식 체인 자료의 代々木千駄ヶ谷4丁目 점포명은 검색 결과로 확인했으나 채용 상세 페이지 조회 실패. 정확한 건널목·두 층 열차 구도·통과 시각은 미검증입니다."
+  },
+  "tokyo-kitte": {
+    "summary": "KITTE 6층 옥상 정원에서 도쿄역 마루노우치 역사를 내려다볼 수 있습니다.",
+    "officialUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "photoPageUrl": "https://marunouchi.jp-kitte.jp/guide/facilities.jsp",
+    "checkedAt": "2026-10-18",
+    "photoNote": "KITTE 운영사 옥상 정원 사진",
+    "verificationNote": "공식 안내에서6층·무료·평일11–23시/주말공휴일11–22시 확인. 날씨에 따라 폐쇄되며 여행일 운영과 같은 촬영 구도는 보장하지 않습니다."
+  },
+  "shibuya-sky": {
+    "summary": "시부야 상공229m의 전망 공간에서 교차로와 도쿄의 스카이라인을 보는 유료 후보입니다.",
+    "officialUrl": "https://www.shibuya-scramble-square.com/sky/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/1749/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 관광청 사진 · Shibuya Scramble Square 제공",
+    "verificationNote": "시설 공식 페이지와 관광청 소개 확인. 날짜·시간 지정 티켓, 옥상 개방과 기상 제한은 방문 전 확인해야 하며 현재 여행 예약 완료를 뜻하지 않습니다."
+  },
+  "sensoji-night": {
+    "summary": "센소지와 카미나리몬 주변에서 절의 건축과 아사쿠사 거리를 둘러보는 야간 산책 후보입니다.",
+    "officialUrl": "https://www.senso-ji.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/eastern-tokyo/asakusa/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 아사쿠사·센소지 지역 사진 · 모두 야간 사진인 것은 아님",
+    "verificationNote": "공식 절 사이트와 관광청 지역 소개 확인. 본당 참배 시간과 야외 조명 시간은 별도이며12월 당일 점등·출입 범위는 재확인하세요."
+  },
+  "skytree-night": {
+    "summary": "도쿄 스카이트리 전망대에서 도시의 불빛을 내려다보는4일차 일몰·야경 후보입니다.",
+    "officialUrl": "https://www.tokyo-skytree.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/6/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 스카이트리 시설·전망 사진",
+    "verificationNote": "관광청에서634m 타워와 전망시설 소개 확인. 현재 홈페이지에 표시되는 일몰을12월14일로 대입하지 않으며 여행일 예약·결제와 날씨를 별도 확인하세요."
+  },
+  "ginza-night": {
+    "summary": "긴자의 백화점과 쇼윈도, 골목을 함께 살펴보는 거리 산책 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/central-tokyo/ginza/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 긴자 거리·상점 소개 사진 · 특정 야경 촬영 위치는 아님",
+    "verificationNote": "관광청의 거리·백화점·식음·접근 안내 확인. 현재 귀국일 긴자 일정은 낮이며 저녁 방문이 자동으로 추가되지 않습니다."
+  },
+  "kabukicho-night": {
+    "summary": "신주쿠 가부키초의 간판과 번화가를 보행 가능한 거리에서 둘러보는 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/western-tokyo/shinjuku/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 신주쿠·가부키초 지역 소개 사진",
+    "verificationNote": "관광청에서 신주쿠의 가부키초 야간 거리 소개 확인. 특정 업장 이용은 포함하지 않으며 귀가 열차와 현장 보행 동선을 별도 확인하세요."
+  },
+  "yurakucho-night": {
+    "summary": "유라쿠초역 고가 아래 식당가에서 철길과 작은 음식점이 어우러진 저녁 풍경을 둘러봅니다.",
+    "officialUrl": "https://www.gotokyo.org/en/see-and-do/nightlife/index.html",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "고가 아래 해당 골목 사진과 직접 대응하는 공식 원문은 추가 확인 필요",
+    "verificationNote": "관광청에서 유라쿠초 고가 아래 이자카야·야키토리 식당가 설명 확인. 지역 사진을 특정 점포 사진으로 대신하지 않으며 가게별 영업·예약은 미확인입니다."
+  },
+  "tower-night": {
+    "summary": "도쿄타워의 조명과 시바공원 주변 풍경을 함께 보는1일차 야경 방문지입니다.",
+    "officialUrl": "https://en.tokyotower.co.jp/",
+    "photoPageUrl": "https://www.gotokyo.org/en/spot/4/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 도쿄타워 시설·조명 소개 사진",
+    "verificationNote": "관광청에서 타워 조명과 전망대 소개 확인. 외부 산책과 유료 전망대를 구분하며12월11일 조명·운영과 입장권은 별도 확인하세요."
+  },
+  "odaiba-night": {
+    "summary": "오다이바 해변에서 레인보우브리지와 도쿄만 풍경을 바라보는 산책 후보입니다.",
+    "officialUrl": "https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html",
+    "photoPageUrl": "https://www.gotokyo.org/en/destinations/southern-tokyo/odaiba/index.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "GO TOKYO 오다이바·레인보우브리지 지역 사진",
+    "verificationNote": "관광청에서 해변과 다리 조망 소개 확인. 현재1일차는 오후 방문 계획이며 야경까지 머무르면 뒤의 도쿄타워 일정을 조정해야 합니다."
+  },
+  "roppongi-night": {
+    "summary": "롯폰기 힐스의 보행 공간과 건축을 둘러보고, 겨울에는 케야키자카 조명을 검토할 수 있습니다.",
+    "officialUrl": "https://www.roppongihills.com/",
+    "photoPageUrl": "https://www.roppongihills.com/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 롯폰기 힐스 시설 소개 사진 · 공유 사진의 특정 도쿄타워 구도는 미검증",
+    "verificationNote": "운영사 시설·행사 소개 확인. 유료 전망시설과 외부 보행 공간은 다르며 공유 사진과 같은 촬영 위치를 확정하지 않습니다."
+  },
+  "international-forum": {
+    "summary": "도쿄 국제 포럼의 유리동과 보행 공간에서 큰 유리·강철 구조를 감상하는 건축 산책 후보입니다.",
+    "officialUrl": "https://www.t-i-forum.co.jp/en/",
+    "photoPageUrl": "https://www.t-i-forum.co.jp/en/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "시설 운영사 국제 포럼 건축 사진",
+    "verificationNote": "운영사 공식 소개·건축 이미지 확인. 행사로 인한 출입·촬영 제한과 야간 개방 구역은 방문 전 확인하세요."
+  },
+  "keyakizaka": {
+    "summary": "케야키자카 약 400m의 푸른빛·흰빛 조명과 도쿄타워 방향을 함께 보는 겨울 후보입니다. 주최 측 발표: 2026.11.05–12.25, 17:00–22:00. 혼잡·현장 상황에 따라 변경될 수 있습니다.",
+    "officialUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "photoPageUrl": "https://prtimes.jp/main/html/rd/p/000000428.000048109.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "주최사 공식 보도자료의 과거 행사 실사진 · 2026년 현장 사진 아님",
+    "verificationNote": "森ビル2026-09-30 발표 직접 확인.11월5일–12월25일,17–22시 안내이며 첫날·혼잡 상황에 따라 변경 가능. 사진에 과거의 모습이라고 명시되어 있습니다.",
+    "highlight": "주최 측 발표 · 2026.11.05–12.25 · 17:00–22:00 · 현장 변경 가능"
+  },
+  "ginza-oden": {
+    "summary": "긴자4초메 지하의 오뎅집으로, 오뎅과 일본 요리를 함께 고를 수 있는 저녁 식사 후보입니다.",
+    "officialUrl": "https://page.line.me/wfi6187d",
+    "photoPageUrl": "https://page.line.me/wfi6187d",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 허가된 사진이 없어 공식 원문 링크로 사진을 보여줍니다.",
+    "verificationNote": "가게 공식 LINE에서 긴자4-10-6 긴료 빌딩 지하1층·영업시간·전화·결제·흡연 조건을 확인했습니다. 일요일 영업시간은 표기되지 않았습니다. 미역·우동 추천은 사용자 공유 후기입니다."
+  },
+  "character-harry": {
+    "summary": "대연회장과9¾승강장 등 영화 세트에서 해리포터 제작의 세계를 체험하는 스튜디오 투어입니다.",
+    "officialUrl": "https://www.wbstudiotour.jp/",
+    "photoPageUrl": "https://www.wbstudiotour.jp/photospot/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "운영사 공식 포토스폿 안내의 세트·체험 실사진",
+    "verificationNote": "공식 포토스폿10선과 시설 소개 확인. 투어10시 입장은 여행 계획이며 예약·결제 확정은 별도 티켓 확인이 필요합니다. 유료 촬영 상품 조건은 현장 안내를 확인하세요."
+  },
+  "character-yomiuri": {
+    "summary": "요미우리랜드 안 포케파크에서 포켓몬 포레스트와 카야츠리(사초) 타운을 둘러봅니다. 티켓 3장의 포레스트 입장 가능 시간은 12/12 11:00–12:00입니다.",
+    "officialUrl": "https://www.pokepark-kanto.co.jp/",
+    "photoPageUrl": "https://www.pokepark-kanto.co.jp/ppark/about/ppark/index",
+    "checkedAt": "2026-10-18",
+    "photoNote": "공식 시설 소개 사진·이미지 · 실제 모습과 다를 수 있다는 운영사 안내 있음",
+    "verificationNote": "운영사에서 포레스트·사초 타운과 티켓별 이용 구역 안내 확인. 여행 티켓은 원문3장 확인:12/12 Trainer’s Pass·포레스트11–12시. 그 외 운영·곤돌라·일루미네이션 조건은 재확인하세요."
+  },
+  "character-mega": {
+    "summary": "선샤인시티 alpa2층에서 포켓몬 굿즈와 카드·Pokémon GO 관련 공간을 둘러볼 수 있습니다.",
+    "officialUrl": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-megatokyo/",
+    "photoPageUrl": "https://sunshinecity.jp/shop/shop_list/entry-584.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "선샤인시티 운영사 실제 입구·카드스테이션·Pokémon GO Lab 사진",
+    "verificationNote": "포켓몬 공식 매장 페이지의2층·10–20시와 시설 운영사 사진 안내 확인. 특정 상품 재고·대회 참가·여행일 정리권은 별도 공지 확인이 필요합니다."
+  },
+  "character-skypokemon": {
+    "summary": "소라마치 이스트야드4층의 포켓몬 공식 매장으로 스카이트리 방문과 함께 들를 수 있습니다.",
+    "officialUrl": "https://shop.pokemon.co.jp/en/shop/pokemoncenter-skytreetown/",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "현재 확인 가능한 공식 매장 이미지는 로고이며 실제 매장 사진은 추가 확인 필요",
+    "verificationNote": "포켓몬 공식 매장 페이지에서 이스트야드4층·10–21시 확인. Solamachi 매장 상세는 서버 장애 안내로 이동하여 실제 매장 사진을 확인하지 못했습니다. 로고를 실사진으로 표시하지 않습니다."
+  }
+}

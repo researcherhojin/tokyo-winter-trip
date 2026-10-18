@@ -1,0 +1,37 @@
+{
+  "checkedAt": "2026-10-18",
+  "excludedPhotos": {
+    "shinbashi": "신바시역 사진은 예약 숙소의 모습이 아닙니다.",
+    "starwars": "2017년 PARCO 건물 사진은 현재 스타워즈 매장을 보여주지 않습니다.",
+    "yomiuri": "2010년 요미우리랜드 사진은 개장 전 포케파크를 보여주지 않습니다.",
+    "theme-cover-rail": "요요기5초메 오다큐선 건널목은 공유된 센다가야4초메 촬영지와 다릅니다.",
+    "new-place-yoyogi-bridge": "요요기역 일대 철교만 확인되며 공유된 철길 골목과 일치하지 않습니다.",
+    "views-shiba-seven": "편의점 외관만으로 시바3초메 지점과 촬영 위치의 동일성을 확정하지 못했습니다.",
+    "spot-fudanotsuji": "공유한 육교 좌표에서 약130m 떨어진 교차점 사진입니다.",
+    "spot-hamamatsu-area": "인근 조망 사진이지만 지정한 스카이덱3층 촬영 여부가 확인되지 않았습니다.",
+    "subculture-kiddy-building": "2013년 건물 사진은 현재 치이카와랜드 매장을 보여주지 않습니다.",
+    "item-juchheim-cake": "유하임 상품은 확인되지만 우에노점에서 촬영한 사진이 아닙니다.",
+    "new-food-nanaya-gelato": "2015년 사진은 2016년 개점한 아오야마점 사진이 아닙니다.",
+    "new-food-nanaya-chocolate": "상품 사진에 아오야마점 촬영 근거가 없습니다.",
+    "archive-product-noodle-cup": "2014년 상품 사진의 현재 판매 규격·포장과의 일치가 확인되지 않았습니다.",
+    "archive-product-noodle-pack": "2015년 포장이며 다른 브랜드 제품도 함께 보여 현재 상품 식별에 적합하지 않습니다.",
+    "archive-product-biofermin-granules": "공유 품목의 제형 미확정 상태에서 세립45g을 대표 사진으로 사용하지 않습니다.",
+    "archive-place-safu-museum": "카페 개점 전 미술관 입구 사진이며 해당 카페 공간을 보여주지 않습니다.",
+    "archive-place-loops-garden": "LUFTBAUM 공용 정원은 LOOPS 매장 공간이 아닙니다.",
+    "archive-place-loops-panorama": "LUFTBAUM 공용 공간은 LOOPS 매장 공간이 아닙니다."
+  },
+  "unavailable": {
+    "shiba-seven-photo": "편의점 외관만으로 시바3초메 지점과 촬영 위치의 동일성을 확정하지 못했습니다.",
+    "fudanotsuji-photo": "공유한 육교 좌표에서 약130m 떨어진 교차점 사진입니다.",
+    "hamamatsu-deck-photo": "인근 조망 사진이지만 지정한 스카이덱3층 촬영 여부가 확인되지 않았습니다.",
+    "juchheim-ueno": "유하임 상품은 확인되지만 우에노점에서 촬영한 사진이 아닙니다.",
+    "nanaya-aoyama": "2015년 사진은 2016년 개점한 아오야마점 사진이 아닙니다.",
+    "seven-noodle": "2014년 상품 사진의 현재 판매 규격·포장과의 일치가 확인되지 않았습니다.",
+    "biofermin": "공유 품목의 제형 미확정 상태에서 세립45g을 대표 사진으로 사용하지 않습니다.",
+    "subculture-starwars": "2017년 PARCO 건물 사진은 현재 스타워즈 매장을 보여주지 않습니다.",
+    "character-yomiuri": "2010년 요미우리랜드 사진은 개장 전 포케파크를 보여주지 않습니다.",
+    "architecture-safu": "카페 개점 전 미술관 입구 사진이며 해당 카페 공간을 보여주지 않습니다.",
+    "architecture-loops": "LUFTBAUM 공용 정원은 LOOPS 매장 공간이 아닙니다.",
+    "yoyogi-rail-photo": "요요기역 일대 철교만 확인되며 공유된 철길 골목과 일치하지 않습니다."
+  }
+}

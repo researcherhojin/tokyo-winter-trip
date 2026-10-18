@@ -1,0 +1,41 @@
+# 의존성
+node_modules/
+
+# 빌드 결과 (dist에는 빌드 시 지도 키가 들어감)
+dist/
+output/
+*.tsbuildinfo
+
+# 비밀 값: 실제 키·토큰은 절대 커밋하지 않음. 빈 템플릿만 공개
+.env
+.env.*
+!.env.example
+.env.local
+.dev.vars
+.dev.vars.*
+
+# 배포·도구 로컬 상태
+.wrangler/
+.vercel/
+.playwright-cli/
+playwright-report/
+test-results/
+node_modules/.vite*/
+
+# Claude Code 로컬 상태 (프로젝트 스킬은 공개)
+.claude/*
+!.claude/skills/
+.claude/settings.local.json
+CLAUDE.local.md
+
+# 에디터 개인 설정 (스키마 연결만 공유)
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+
+# 로그·OS
+*.log
+npm-debug.log*
+.DS_Store
+Thumbs.db

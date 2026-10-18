@@ -1,0 +1,241 @@
+@import "tailwindcss";
+
+:root {
+ font-family: "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+ color: #20272b;
+ background: #f3f5f7;
+ font-synthesis: none;
+ text-rendering: optimizeLegibility;
+ -webkit-font-smoothing: antialiased;
+ --ink: #20272b;
+ --muted: #576166;
+ --line: #e1e6e8;
+ --surface: #f3f5f7;
+ --accent: #b73828;
+ --accent-soft: #fff0ec;
+ --panel-width: 440px;
+ --content-width: 1160px;
+ --radius: 12px;
+ --workspace-radius: 18px;
+}
+* { box-sizing: border-box; }
+html, body, #root { width: 100%; min-width: 0; min-height: 100%; margin: 0; }
+body { font-size: 16px; }
+button, input, summary { font: inherit; }
+button { color: inherit; cursor: pointer; background: none; border: 0; }
+a { color: inherit; text-decoration: none; }
+button, a, input, summary { touch-action: manipulation; -webkit-tap-highlight-color: transparent; }
+button:focus-visible, a:focus-visible, summary:focus-visible, input:focus-visible { outline: 3px solid var(--accent); outline-offset: 3px; }
+button:active { filter: brightness(.96); }
+::selection { background: #f5d4cb; }
+
+.site-header { height: 76px; display: flex; align-items: center; gap: 42px; padding: 0 32px; background: white; border-bottom: 1px solid var(--line); }
+.brand { display: flex; align-items: center; gap: 16px; min-height: 44px; }
+.brand-word { font-family: "Avenir Next", "Apple SD Gothic Neo", sans-serif; font-size: 34px; line-height: 1; font-weight: 800; letter-spacing: -1.6px; }
+.brand-dot { color: var(--accent); }
+.brand > small { padding-left: 16px; border-left: 1px solid #ccd2d5; font-size: 14px; color: var(--muted); }
+.site-header nav { display: flex; align-items: center; gap: 10px; margin-left: auto; }
+.site-header nav button, .notion-link { display: inline-flex; align-items: center; justify-content: center; min-height: 44px; padding: 10px 14px; gap: 8px; font-size: 14px; color: var(--muted); border-radius: 8px; }
+.site-header nav button:hover, .notion-link:hover { background: var(--surface); }
+.site-header nav .nav-active { background: var(--accent-soft); color: var(--accent); font-weight: 700; }
+.notion-link { margin-left: 12px; }
+.month-label { font-size: 14px; font-weight: 650; }
+.all-days { display: inline-flex; justify-content: center; align-items: center; min-height: 44px; padding: 8px 12px; font-size: 14px; color: var(--muted); border-radius: 8px; }
+.all-days:hover, .all-days.selected { background: var(--accent-soft); color: var(--accent); }
+summary { cursor: pointer; list-style: none; }
+summary::-webkit-details-marker { display: none; }
+summary > svg { flex-shrink: 0; }
+details[open] > summary > svg:last-child { transform: rotate(180deg); }
+.booking-status { display: inline-flex; align-items: center; gap: 5px; padding: 4px 7px; border-radius: 4px; color: #79531d; background: #fff5df; font-size: 14px; line-height: 1.6; margin-top: 10px; }
+.booking-status.shared { background: #eef1f2; color: var(--muted); }
+.source-link:visited { color: #64517c; }
+.toolbar-separator { width: 1px; height: 16px; background: var(--line); }
+.icon-button { display: inline-grid; place-items: center; width: 46px; height: 46px; flex-shrink: 0; border: 1px solid #d6dfe3; border-radius: 10px; color: var(--ink); background: white; }
+.icon-button:hover { background: #f1f4f5; }
+.detail-header { display: flex; align-items: center; justify-content: space-between; gap: 16px; position: sticky; top: -1px; z-index: 2; background: white; padding: 0 0 10px; }
+.area-label { font-size: 14px; color: var(--muted); }
+.detail-jp { font-size: 16px; color: var(--muted); line-height: 1.7; margin: 0 0 20px; }
+.detail-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 20px; }
+.primary-button, .secondary-button { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; gap: 8px; font-size: 14px; line-height: 1.6; padding: 11px 15px; border-radius: 8px; font-weight: 600; }
+.primary-button { background: var(--accent); color: white; }
+.primary-button:hover { background: #8e281c; }
+.secondary-button { background: white; border: 1px solid #bfc9ce; color: var(--ink); }
+.secondary-button:hover { background: var(--surface); }
+.source-link { display: inline-flex; align-items: center; gap: 6px; min-height: 44px; font-size: 14px; color: var(--muted); margin-top: 14px; text-decoration: underline; text-underline-offset: 3px; }
+
+.preparation-page { min-height: calc(100dvh - 76px); background: var(--surface); padding: 36px 32px 64px; }
+.checklist-page { max-width: var(--content-width); margin: auto; }
+.section-heading { display: flex; align-items: center; justify-content: space-between; gap: 24px; }
+.section-heading .area-label { margin: 0 0 8px; }
+.section-heading h2 { font-size: 28px; font-weight: 750; line-height: 1.5; letter-spacing: -.6px; margin: 0; }
+.check-count { font-size: 32px; font-weight: 700; color: var(--accent); white-space: nowrap; }
+.check-count small { font-size: 16px; color: var(--muted); font-weight: 400; }
+.muted { font-size: 16px; line-height: 1.75; color: var(--muted); }
+.check-progress { height: 5px; background: #e3e8ea; margin: 26px 0 32px; border-radius: 3px; overflow: hidden; }
+.check-progress > span { display: block; height: 100%; background: var(--accent); }
+.check-group { margin: 0 0 30px; }
+.check-group h3 { font-weight: 700; margin: 0 0 8px; }
+.check-item { position: relative; display: flex; align-items: start; gap: 14px; padding: 20px 0; cursor: pointer; border-bottom: 1px solid var(--line); }
+.check-item input { position: absolute; width: 24px; height: 24px; top: 23px; left: 0; opacity: 0; }
+.custom-check { display: inline-grid; place-items: center; flex-shrink: 0; width: 24px; height: 24px; border: 1px solid #a9b6bd; border-radius: 5px; margin-top: 3px; }
+.check-item input:focus-visible + .custom-check { outline: 3px solid var(--accent); outline-offset: 3px; }
+.check-item.checked .custom-check { color: white; background: var(--accent); border-color: var(--accent); }
+.check-item strong { font-size: 16px; font-weight: 650; line-height: 1.7; }
+.check-item small { display: block; color: var(--muted); margin-top: 6px; word-break: keep-all; }
+.check-item.checked strong { color: var(--muted); text-decoration: line-through; }
+.check-tools { display: flex; flex-wrap: wrap; gap: 10px; }
+.upload { position: relative; cursor: pointer; }
+.upload input { position: absolute; width: 1px; height: 1px; opacity: 0; }
+.upload:focus-within { outline: 3px solid var(--accent); outline-offset: 3px; }
+.storage-note { display: flex; align-items: start; gap: 8px; font-size: 14px; color: var(--muted); line-height: 1.75; margin-top: 22px; }
+.storage-note > svg { flex-shrink: 0; margin-top: 4px; }
+.skip-link { position: fixed; z-index: 99; top: -100px; left: 12px; background: var(--accent); color: white; padding: 12px; }
+.skip-link:focus-visible { top: 10px; }
+main:focus { outline: none; }
+
+@media (min-width: 801px) and (max-width: 1100px) {
+ :root { --panel-width: 360px; }
+ .site-header { gap: 20px; padding: 0 24px; }
+ .brand > small { display: none; }
+ .site-header nav { gap: 0; }
+ .site-header nav button { padding-inline: 10px; }
+}
+@media (max-width: 800px) {
+ .site-header { height: 64px; padding: 0 18px; gap: 12px; }
+ .brand-word { font-size: 29px; }
+ .brand > small, .notion-link { display: none; }
+ .site-header nav { gap: 4px; }
+ .site-header nav button { padding: 10px; font-size: 14px; gap: 5px; }
+ .month-label { font-size: 14px; }
+ .all-days { margin-left: auto; margin-right: 114px; min-height: 44px; padding-inline: 8px; }
+ .detail-actions { display: grid; grid-template-columns: 1fr; }
+ .preparation-page { min-height: calc(100dvh - 64px); padding: 22px 14px; }
+ .checklist-page { padding: 0; }
+ .section-heading h2 { font-size: 23px; }
+ .check-count { font-size: 27px; }
+}
+@media (max-width: 360px) {
+ .site-header { padding-inline: 13px; }
+ .site-header nav button > svg { display: none; }
+ .site-header nav button { padding-inline: 8px; }
+ .all-days { padding-inline: 6px; margin-right: 110px; }
+ .month-label { font-size: 14px; }
+}
+@media (prefers-reduced-motion: reduce) {
+ *, *::before, *::after { scroll-behavior: auto !important; transition: none !important; animation: none !important; }
+}
+@media print {
+ .site-header { display: none !important; }
+}
+
+.preparation-guide { margin: 28px 0; }
+.preparation-guide > details { border-block: 1px solid var(--line); padding: 10px 0; }
+.preparation-guide summary { min-height: 48px; display: flex; align-items: center; font-weight: 700; cursor: pointer; }
+.preparation-guide h3, .saved-spot h3 { font-size: 18px; margin: 16px 0 8px; }
+.preparation-guide p, .saved-spot p { font-size: 16px; line-height: 1.8; color: var(--muted); }
+.preparation-guide nav { display: grid; }
+.preparation-guide nav a { display: flex; gap: 8px; align-items: center; min-height: 44px; text-decoration: underline; font-size: 14px; }
+.saved-spot { margin: 24px 0; border-top: 1px solid var(--line); padding-top: 24px; }
+.yen-exchange { padding-bottom: 28px; margin-bottom: 32px; border-bottom: 1px solid var(--line); }
+.exchange-heading { display: flex; align-items: center; justify-content: space-between; }
+.exchange-heading h2 { font-size: 22px; margin: 0; }
+.exchange-rate { display: flex; align-items: baseline; gap: 24px; margin: 12px 0 6px; }
+.exchange-rate strong { font-size: 36px; letter-spacing: -1px; font-variant-numeric: tabular-nums; }
+.exchange-rate small { font-size: 18px; margin-left: 8px; }
+.exchange-amount { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 20px 0 8px; font-size: 16px; }
+.exchange-amount > span { display: flex; align-items: center; gap: 8px; }
+.exchange-amount input { width: 140px; min-height: 48px; border: 1px solid var(--line); border-radius: 8px; padding: 8px 12px; font-size: 18px; text-align: right; background: white; color: var(--ink); }
+.exchange-total { display: block; text-align: right; font-size: 20px; font-weight: 700; margin-bottom: 18px; }
+@media(max-width:360px) { .exchange-amount { flex-wrap: wrap; } }
+@media(max-width:480px) {
+ .site-header { padding-inline: 12px; gap: 6px; }
+ .site-header nav { gap: 0; }
+ .site-header nav button { padding-inline: 8px; white-space: nowrap; }
+ .site-header nav button svg { display: none; }
+ .brand-word { font-size: 27px; }
+}
+
+/* Browsing and preparation share a workspace, while the map keeps its full canvas. */
+.page-heading { display: flex; align-items: end; justify-content: space-between; gap: 24px; margin: 0 0 28px; }
+.page-trip-dates { font-size: 14px; line-height: 1.6; color: var(--muted); margin: 0 0 8px; }
+.page-heading h1 { font-size: 30px; font-weight: 750; line-height: 1.4; letter-spacing: -.7px; margin: 0; }
+.page-description { color: var(--muted); font-size: 16px; line-height: 1.75; margin: 10px 0 0; max-width: 60ch; word-break: keep-all; }
+.preparation-workspace { display: grid; grid-template-columns: minmax(0,1fr) 340px; align-items: start; gap: 28px; }
+.preparation-primary, .preparation-aside { min-width: 0; padding: 28px; background: white; border: 1px solid var(--line); border-radius: var(--radius); }
+.preparation-primary .section-heading h2 { font-size: 23px; }
+.check-group h3 { color: var(--ink); font-size: 18px; }
+.check-group { margin-bottom: 32px; }
+.check-item small { font-size: 16px; line-height: 1.75; }
+.preparation-aside .exchange-rate { gap: 12px; flex-wrap: wrap; }
+.preparation-aside .exchange-rate strong { font-size: 30px; }
+.preparation-aside .exchange-amount { flex-wrap: wrap; }
+.preparation-aside .exchange-amount input { width: 160px; }
+.preparation-aside .preparation-guide { margin-bottom: 0; }
+.preparation-aside .saved-spot { margin-bottom: 0; }
+.detail-overview { font-size: 17px; line-height: 1.8; margin: 20px 0; word-break: keep-all; }
+.detail-section { border-top: 1px solid var(--line); padding: 22px 0; }
+.detail-section h3 { font-size: 18px; font-weight: 700; margin: 0 0 14px; }
+.detail-section p, .detail-section li { font-size: 16px; line-height: 1.8; word-break: keep-all; }
+.detail-section p { margin: 8px 0 0; }
+.detail-section ol, .detail-section ul { padding-left: 24px; margin: 0; }
+.detail-section li + li { margin-top: 10px; }
+.detail-plan { list-style: decimal; }
+.detail-tips { list-style: disc; }
+.detail-plan-label { font-size: 14px; color: var(--muted); display: block; margin: -7px 0 14px; }
+.detail-source-list { display: grid; gap: 2px; }
+.detail-source-list a { display: flex; align-items: center; justify-content: space-between; gap: 12px; min-height: 44px; color: var(--muted); font-size: 14px; text-decoration: underline; text-underline-offset: 3px; }
+.detail-quick-actions { margin-bottom: 24px; }
+.detail-quick-actions > a:first-child { flex: 1; }
+.detail-source-date { font-size: 14px; color: var(--muted); line-height: 1.7; }
+@media (max-width: 1100px) and (min-width: 801px) {
+ .preparation-workspace { grid-template-columns: minmax(0,1fr) 300px; gap: 20px; }
+ .preparation-primary, .preparation-aside { padding: 24px; }
+}
+@media (max-width: 800px) {
+ .page-heading { margin-bottom: 24px; }
+ .page-heading h1 { font-size: 26px; }
+ .preparation-workspace { display: block; }
+ .preparation-primary, .preparation-aside { padding: 22px; }
+ .preparation-aside { margin-top: 24px; }
+ .preparation-aside .exchange-amount { justify-content: space-between; }
+}
+@media (max-width: 360px) {
+ .preparation-primary, .preparation-aside { padding: 18px; }
+ .page-heading h1 { font-size: 25px; }
+ .preparation-primary .section-heading h2 { font-size: 21px; }
+ .check-count { font-size: 24px; }
+ .section-heading { gap: 12px; }
+}
+
+/* Discovery uses the map workspace's panel geometry and interaction hierarchy. */
+
+/* Travel-day actions use the same compact controls as the itinerary. */
+select:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+/* Essentials: sticky title bar, dated booking rows, two action cards, a return-day timeline and an offline checklist. */
+
+/* Bounded previews keep the list readable on wide screens. Full views never resize the layout. */
+/* Visit guide: a bordered disclosure whose open panel separates steps, checks, the next move, the memo and sources. */
+
+/* Card media · Airbnb-style 4:3 frame (measured 2026-10-18). Only transform and opacity animate. */
+:root { --photo-ease: cubic-bezier(.2,0,0,1); }
+.sr-only { position:absolute; width:1px; height:1px; overflow:hidden; clip-path:inset(50%); white-space:nowrap; }
+
+/* Full photo dialog: enter via @starting-style, exit via .is-closing before unmount. */
+@starting-style { .theme-photo-dialog[open] { opacity:0; transform:translateY(8px) scale(.98); } .theme-photo-dialog[open]::backdrop { opacity:0; } }
+
+/* Card body · name and area first, trip-day closures as chips, one warning line. */
+
+/* Trip panel density (2026-10-18): give the stop list more height on desktop without hiding any section. */
+
+/* Every card renders the same seven slots; subgrid lines them up across a row so titles, hours and actions start at the same height. */
+.dialog-prev { left:12px; } .dialog-next { right:12px; }
+@keyframes photo-swap { from { opacity:.35; } to { opacity:1; } }
+/* Theme header rhythm: intro → caution → sort row → cards at 16/12/12px instead of 36/4/16px. */
+/* Card photo credit: a 32px row (≥24px target) instead of 44px so the title sits close to its photo. */
+/* Trip map frame (≥901px), measured from Google Maps desktop: the list is docked full-height at the left edge
+   and the map starts at its right edge, so no stop is ever hidden under the panel. Controls stay on the map's right. */
+/* Card tags stay on one line: relation and closure chips share a single nowrap row that scrolls sideways if it ever overflows. */
+/* Transit card: icon · time label (wraps inside its own column) · directions link, always one row; route toggle below. */
+/* 44px touch targets (project QA rule) for controls added in this round; spacing is recovered from surrounding margins instead. */
+/* Theme frame — identical for every theme: [title + 2-line description | 3:2 cover] → one fixed-height toolbar → optional panel → cards. */
+.screen-loading { margin:48px auto; max-width:var(--content-width); padding:0 24px; color:var(--muted); font-size:14px; }

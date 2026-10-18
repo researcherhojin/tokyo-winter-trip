@@ -1,0 +1,78 @@
+{
+  "views-akabanebashi": {
+    "src": "/photos/views-akabanebashi.jpg",
+    "alt": "아카바네바시 교차점에서 바라본 도쿄타워의 저녁 풍경",
+    "caption": "아카바네바시 교차점 실제 조망 · 2015년 사진",
+    "author": "Taichi Hiromatsu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_seen_from_Akabanebashi_intersection.JPG",
+    "viewEvidence": "사진 저자가 파일명·설명에서 아카바네바시 교차점 조망으로 명시. 도에이교통 공식 촬영 안내도 아카바네바시 일대 거리에서 타워 촬영 가능을 안내합니다. 2015-11-15 촬영이므로 현재 건물·조명과 다를 수 있습니다.",
+    "evidenceUrls": [
+      "https://www.kotsu.metro.tokyo.jp/sp/newsevent/pickup/1809photospot/index_en.html"
+    ],
+    "capturedAt": "2015-11-15",
+    "checkedAt": "2026-10-18",
+    "fit": "contain",
+    "focus": {
+      "x": 50,
+      "y": 50
+    },
+    "objectPosition": "50% 50%",
+    "modifications": "원본 다운로드 · 화면에서 비율 유지 축소 표시",
+    "spotId": "akabanebashi-photo",
+    "width": 3072,
+    "height": 2304
+  },
+  "views-shiba-seven": {
+    "src": "/photos/views-shiba-seven.jpg",
+    "alt": "세븐일레븐 간판과 타일 외벽 너머로 보이는 도쿄타워",
+    "caption": "시바3초메 편의점 앞 조망 후보 · 외관 대조, 정확한 촬영 위치 미확인",
+    "author": "Josip Ivanković",
+    "license": "Unsplash License",
+    "licenseUrl": "https://unsplash.com/license",
+    "source": "https://unsplash.com/photos/tokyo-tower-and-7-eleven-store-in-japan-4EKRfZI_xP4",
+    "viewEvidence": "사진 원문은 Tokyo Tower and 7-Eleven/Minato City만 명시합니다. 港区芝3丁目店으로 명시된 리바블 현장 외관 사진의 회색 타일·발코니·점포 전면과 대조해 이 지점의 조망 후보로 연결했습니다. 원본에 점포명·촬영 좌표가 없어 동일한 발 위치는 확정하지 않습니다.",
+    "evidenceUrls": [
+      "https://www.livable.co.jp/mansion/C13265L58/",
+      "https://ptj.sej.co.jp/arbeit/recruitment/jobfind-pc/job/All/76763/"
+    ],
+    "publishedAt": "2026-03-14",
+    "checkedAt": "2026-10-18",
+    "fit": "contain",
+    "focus": {
+      "x": 50,
+      "y": 50
+    },
+    "objectPosition": "50% 50%",
+    "modifications": "Unsplash CDN의 폭1400·품질85 축소본 다운로드 · 구도 재편집 없음",
+    "spotId": "shiba-seven-photo",
+    "width": 1280,
+    "height": 1920
+  },
+  "views-azabudai": {
+    "src": "/photos/views-azabudai.jpg",
+    "alt": "아자부다이 힐스 JP타워33층에서 내려다본 도쿄타워 전체",
+    "caption": "아자부다이 힐스33층 실제 조망 · 촬영일 미확인",
+    "author": "Syced",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://commons.wikimedia.org/wiki/File:Tokyo_Tower_seen_from_Azabudai_Hills_JP_Tower_33F.jpg",
+    "viewEvidence": "사진 저자가 제목·설명에 Azabudai Hills JP Tower 33F 조망으로 명시했습니다. Commons의 촬영일1970 표시는 시설 연혁과 맞지 않아 채택하지 않았습니다. 2024-01-12 업로드이며 당시 조망이 현재의 일반인 출입 가능성을 보장하지 않습니다.",
+    "evidenceUrls": [
+      "https://www.azabudai-hills.com/information/index.html"
+    ],
+    "uploadedAt": "2024-01-12",
+    "checkedAt": "2026-10-18",
+    "fit": "contain",
+    "focus": {
+      "x": 50,
+      "y": 50
+    },
+    "objectPosition": "50% 50%",
+    "modifications": "Wikimedia 제공 폭500 썸네일 다운로드 · 원래 세로 구도 유지",
+    "spotId": "azabudai-photo",
+    "width": 500,
+    "height": 1504
+  }
+}

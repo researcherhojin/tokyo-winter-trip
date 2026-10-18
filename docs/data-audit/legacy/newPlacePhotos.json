@@ -1,0 +1,40 @@
+{
+  "photos": {
+    "new-place-yoyogi-bridge": {
+      "src": "/photos/new-place-yoyogi-bridge.jpg",
+      "alt": "요요기역 인근 초록색 철교와 벽돌 교대 · 2020년 사진",
+      "caption": "요요기역 인근 철교 · 공유 촬영 지점과 동일 위치 미확인 · 2020년 사진",
+      "author": "Syced",
+      "license": "CC0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "source": "https://commons.wikimedia.org/wiki/File:Yamanote_line_bridge_near_Yoyogi_station.jpg",
+      "capturedAt": "2020-10-28",
+      "checkedAt": "2026-10-18",
+      "fit": "cover",
+      "focus": {
+        "x": 50,
+        "y": 50
+      },
+      "objectPosition": "50% 50%",
+      "width": 1280,
+      "height": 960,
+      "latitude": 35.682402,
+      "longitude": 139.702515,
+      "modifications": "Commons 제공 가로 축소본 · 사진 자체 재편집 없음",
+      "viewEvidence": "원문 파일명은 요요기역 인근 야마노테선 철교이며 Aoyama Kaidō Overpass 분류와 촬영 좌표를 확인했습니다. 내려받은 사진에서 초록색 철교와 벽돌 교대를 직접 시각 검토했습니다. 센다가야 4초메 편의점 주변 SNS 촬영 지점과 동일하다는 근거는 없으므로 철길 테마 대표 참고 사진으로만 사용합니다."
+    }
+  },
+  "spotPhotoIds": {},
+  "checkedAt": "2026-10-18",
+  "unavailable": {
+    "architecture-safu": "공식 카페 사진과 방문기 사진은 확인했으나 웹앱에 복제해 사용할 수 있는 공개 라이선스를 확인하지 못했습니다. 미술관의 다른 공간 사진으로 대체하지 않았습니다.",
+    "architecture-loops": "LOOPS의 실제 공간을 소개한 설계·조명 프로젝트 사진은 확인했으나 재사용 허용 조건을 확인하지 못했습니다. 건물 외관을 매장 내부 사진으로 표시하지 않았습니다.",
+    "subculture-chiikawa-tokyo": "도쿄역 점포 사진 원문은 확인했으나 공개 재사용 라이선스를 확인하지 못했습니다. 하라주쿠점·일반 캐릭터 상품 사진을 연결하지 않았습니다.",
+    "roppongi-seven-photo": "롯폰기 5초메 점포와 일치하는 조망 사진 중 공개 재사용 라이선스를 확인할 수 있는 사진은 이번 조사에서 확보하지 못했습니다. 시바 3초메 점포 사진을 재사용하지 않았습니다.",
+    "hamamatsu-parking-photo": "공유 좌표에 해당하는 정확한 주차시설과 촬영 공간이 아직 식별되지 않았습니다. 다른 주차장 계단이나 하마마쓰초 일반 조망 사진을 연결하지 않았습니다.",
+    "yoyogi-rail-photo": "요요기역 인근 철교의 CC0 사진은 확인·시각 검토했으나 공유된 센다가야 4초메 편의점 주변의 촬영 지점과 동일한지 확인되지 않아 연결하지 않았습니다."
+  },
+  "themeCoverIds": {
+    "rail-photo": "new-place-yoyogi-bridge"
+  }
+}

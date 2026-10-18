@@ -1,0 +1,74 @@
+{
+ "id": "food",
+ "title": "먹고 싶은 곳",
+ "description": "공유한 식당을 저장하고 메뉴·영업·예약을 확인하세요. 앱이 평점을 수집하거나 높은 순으로 정렬한 목록은 아닙니다.",
+ "day": 1,
+ "coverPhotoId": "theme-cover-food",
+ "spots": [
+  {
+   "id": "pizza-shinagawa",
+   "name": "400℃ 피자 시나가와",
+   "address": "도쿄도 미나토구 다카나와 4-22-11 · 빌리지 다카나와1층",
+   "query": "400℃ PIZZA SHINAGAWA",
+   "note": "공유된 FNT 피자를 먹어보고 싶은 후보. 3인 좌석·예약·주문 조건을 확인하세요.",
+   "verified": "TableCheck 조건 확인 · 2026.10.17",
+   "details": "매장 지정 예약 페이지는 방문7일 전13:00 예약 시작, 신용카드 필요(직불카드 불가), 1인 피자1판·음료1잔, 만6세 이상, 65분 이용을 안내합니다. 카운터1~4인·반개인실3~4인·테이블2인으로 좌석 조건이 다릅니다. 결제·취소 규정은 예약 직전 재확인하세요. 예약·결제는 하지 않았습니다.",
+   "references": [
+    {
+     "title": "매장 지정 · 한국어 TableCheck 예약 안내",
+     "url": "https://www.tablecheck.com/ko/shops/400-yonhyakudo-shinagawa/reserve"
+    }
+   ],
+   "evidence": {
+    "summary": "1인 피자 1판과 음료 1잔 기준으로 65분 이용하는 시나가와 피자 매장입니다. 공유된 관심 메뉴 FNT 피자는 3인 좌석·예약 조건을 먼저 확인하세요.",
+    "officialUrl": "https://www.tablecheck.com/ko/shops/400-yonhyakudo-shinagawa/reserve",
+    "photoPageUrl": "https://www.tablecheck.com/ja/400-yonhyakudo-shinagawa",
+    "checkedAt": "2026-10-18",
+    "photoNote": "매장 지정 예약 서비스의 개별 레스토랑 사진 페이지입니다. 특정 피자가FNT라는 확인 사진으로 표시하지 않습니다.",
+    "verificationNote": "TableCheck에서 다카나와4-22-11·7일전13시예약개시·신용카드·1인피자와음료·65분·6세이상 확인. 예약·결제미실행."
+   },
+   "visitorInfo": {
+    "hours": "예약 슬롯 11:00 / 12:30 / 14:00 / 15:30 / 17:00 · 각 65분",
+    "closed": "방문월 공식 영업 캘린더 확인 · 정기휴무 확정 불가",
+    "admission": "1인 피자 1판·음료 1잔 · 6세 이상 · 예약 조건 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://www.tablecheck.com/ko/shops/400-yonhyakudo-shinagawa/reserve",
+    "note": "매장 지정 TableCheck 원문 대조. 이번 달 휴무 없음이라는 문구를 12월에도 적용하지 않습니다. 7일 전 13시 예약 개시이며 예약·결제를 실행하지 않았습니다."
+   },
+   "referencePhotoId": "ref-neapolitan-pizza-2024"
+  },
+  {
+   "id": "ginza-oden",
+   "name": "가메코 · かめ幸 (긴자 오뎅)",
+   "address": "도쿄도 주오구 긴자 4-10-6 · 긴료 빌딩 지하 1층",
+   "query": "かめ幸 東京都中央区銀座4-10-6",
+   "note": "공유한 오뎅집 후보. 게시물에서 미역(와카메)과 오뎅 국물 우동을 추천했습니다.",
+   "details": "메뉴·재고·가격·방문일 영업과 3인 예약은 미확인입니다. 공식 LINE에 주소·전화·저녁 영업 안내가 있으나 최신 운영과 결제·흡연 조건은 직접 재확인하세요. 귀국일 긴자 낮 일정과 저녁 식당 방문은 분리해서 검토하세요. 평점과 최근 리뷰는 Google Maps에서 확인합니다.",
+   "officialUrl": "https://page.line.me/wfi6187d",
+   "evidence": {
+    "summary": "긴자4초메 지하의 오뎅집으로, 오뎅과 일본 요리를 함께 고를 수 있는 저녁 식사 후보입니다.",
+    "officialUrl": "https://page.line.me/wfi6187d",
+    "photoPageUrl": "https://page.line.me/wfi6187d",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 허가된 사진이 없어 공식 원문 링크로 사진을 보여줍니다.",
+    "verificationNote": "가게 공식 LINE에서 긴자4-10-6 긴료 빌딩 지하1층·영업시간·전화·결제·흡연 조건을 확인했습니다. 일요일 영업시간은 표기되지 않았습니다. 미역·우동 추천은 사용자 공유 후기입니다."
+   },
+   "visitorInfo": {
+    "hours": "월–금 17:00–01:00(L.O. 24:00) · 토·공휴일 17:00–23:00(L.O. 22:00)",
+    "closed": "공식 LINE에 일요일 영업시간 없음 · 방문 전 전화(03-3541-6261) 확인",
+    "admission": "음식·음료 메뉴별 유료",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": "https://page.line.me/wfi6187d",
+    "note": "공식 LINE 기준. 신용카드 불가, 전 좌석 흡연 가능, 1인부터 좌석 예약 가능(12인 반개인실 있음)."
+   },
+   "closures": [
+    {
+     "date": "12/13",
+     "label": "공식 영업시간에 일요일 없음",
+     "certainty": "official"
+    }
+   ],
+   "referencePhotoId": "ref-oden-2017"
+  }
+ ]
+}

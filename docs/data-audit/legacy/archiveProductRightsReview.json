@@ -1,0 +1,94 @@
+{
+  "photos": {},
+  "spotPhotoIds": {},
+  "unavailable": {
+    "seven-smoothie": {
+      "photoPageUrl": "https://prtimes.jp/main/html/rd/p/000000307.000155396.html",
+      "reason": "Openverse에서 카페라테 스무디 정확명 후보 없음. 공식 2025년 원문 사진의 재사용 허가는 확인하지 못함.",
+      "checkedAt": "2026-10-18"
+    },
+    "lawson-mochi": {
+      "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1530060_1996.html",
+      "reason": "일본어 정확명·가타카나·로마자 및 로손 조합 검색에서 정확한 상품 후보를 확인하지 못함.",
+      "checkedAt": "2026-10-18"
+    },
+    "lawson-pasta": {
+      "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1528746_1996.html",
+      "reason": "Openverse의 카르보나라 후보는 일반 요리 사진이며 로손의 공유 상품과 일치하지 않음.",
+      "checkedAt": "2026-10-18"
+    },
+    "seven-sweet-potato": {
+      "photoPageUrl": "https://www.sej.co.jp/company/news_release/news/2025/202509191000.html",
+      "reason": "세븐·대학이모 조합 검색에서 동일 포장 후보 없음. 공유 제품 자체도 미확정.",
+      "checkedAt": "2026-10-18"
+    },
+    "mcdonalds-burger": {
+      "photoPageUrl": null,
+      "reason": "상품명이 없어 특정 버거 사진을 연결할 수 없음.",
+      "checkedAt": "2026-10-18"
+    },
+    "cooler-bag": {
+      "photoPageUrl": "https://item.rakuten.co.jp/daiso-officialshop/sp0029/",
+      "reason": "공유 가방의 정확한 모델·규격 미확인. 다른 보냉백 사진으로 대체하지 않음.",
+      "checkedAt": "2026-10-18"
+    },
+    "rohto-premium": {
+      "photoPageUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+      "reason": "Vロート 검색 결과는 新V・ロート 대용량 타입으로 프리미엄과 다름. 로토 회사·경기장 사진도 제외.",
+      "checkedAt": "2026-10-18"
+    },
+    "taisho-patch": {
+      "photoPageUrl": "https://brand.taisho.co.jp/kounaien/product/",
+      "reason": "퀵케어·A 계열 미확정이며 口内炎パッチ 검색에서 정확 포장 후보 없음.",
+      "checkedAt": "2026-10-18"
+    },
+    "miyaflora": {
+      "photoPageUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+      "reason": "ミヤフローラ 검색에서 후보 없음. 공유 글 EX 규격 여부 미확정.",
+      "checkedAt": "2026-10-18"
+    },
+    "chlomy": {
+      "photoPageUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+      "reason": "クロマイ・クロマイN・Chlomyn 변형에서 정확한 상품 후보 없음.",
+      "checkedAt": "2026-10-18"
+    },
+    "nail-care": {
+      "photoPageUrl": null,
+      "reason": "정확한 일본어 제품명·제조사 미식별 상태 유지.",
+      "checkedAt": "2026-10-18"
+    },
+    "hepalize": {
+      "photoPageUrl": "https://www.zeria.co.jp/hepa/iyaku/product/",
+      "reason": "Flickr 원문 후보는 CC BY-NC-ND 2.0. 일반 재사용·변경 허용 자산으로 채택하지 않았고 공유 제품 라인도 미확정.",
+      "checkedAt": "2026-10-18",
+      "candidateUrl": "https://www.flickr.com/photos/tsukacyi/8254936024"
+    }
+  },
+  "review": {
+    "checkedAt": "2026-10-18",
+    "newPhotos": 0,
+    "biofermin": {
+      "photoId": "archive-product-biofermin-granules",
+      "decision": "관련 제형 보조자료만 사용 · 일반 품목 대표사진 연결 보류 권장",
+      "reason": "실제 포장은 신비오페르민 S 세립 45g이다. 공유 글의 제형이 미확정이므로 일반 S 정제 또는 공유자가 구매한 상품의 대표사진으로 안내할 수 없다.",
+      "sourceUrl": "https://www.flickr.com/photos/masahiko/7253738024"
+    },
+    "rights": [
+      {
+        "publisher": "로토제약",
+        "url": "https://www.rohto.co.jp/sitepolicy/",
+        "result": "사진 등의 무허가 복제·전용 제한. 자유 재사용 허가 미확인."
+      },
+      {
+        "publisher": "로손",
+        "url": "https://mldata.lawson.co.jp/kiyaku/rule.html",
+        "result": "제5조: 사적 이용 등 허용 범위 외 이미지 이용·전재·복제·배포·변경 제한."
+      },
+      {
+        "publisher": "다이이치산쿄 헬스케어",
+        "url": "https://www.daiichisankyo-hc.co.jp/terms/",
+        "result": "허가 없는 이미지 재사용·재게재·변형 제한. 일반 여행 카드용 복제 허가 아님."
+      }
+    ]
+  }
+}

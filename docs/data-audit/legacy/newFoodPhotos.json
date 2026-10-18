@@ -1,0 +1,68 @@
+{
+  "photos": {
+    "new-food-west-pancake": {
+      "src": "/photos/new-food-west-pancake.jpg",
+      "alt": "웨스트 아오야마 가든에서 촬영한 팬케이크와 버터",
+      "caption": "웨스트 아오야마 가든 팬케이크 · 2018년 촬영 · 수플레 사진 아님",
+      "author": "ddmacgre",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/ddmacgre/28127417077",
+      "sourceDescription": "Big Fluffy Pancake from West Aoyama Garden",
+      "viewEvidence": "원본 제목이 West Aoyama Garden을 명시합니다. 직접 확인한 사진은 버터를 올린 팬케이크와 크림·시럽이며, 공유된 수플레와 같은 메뉴로 표시하지 않습니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2018-05-11",
+      "width": 768,
+      "height": 1024,
+      "modification": "공개된 원본 미리보기 파일을 그대로 저장. 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    },
+    "new-food-nanaya-gelato": {
+      "src": "/photos/new-food-nanaya-gelato-plain.jpg",
+      "alt": "나나야의 말차 제라토를 담은 컵",
+      "caption": "나나야 말차 제라토 실제 상품 · 2015년 촬영 · 아오야마점 촬영 여부 미확인",
+      "author": "Kanesue",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/kanesue/22926505294",
+      "sourceDescription": "ななや 世界で一番濃い抹茶ジェラート",
+      "viewEvidence": "원본 제목이 나나야 말차 제라토를 명시합니다. 직접 사진에서 컵에 담긴 녹색 제라토와 스푼을 확인했습니다. 매장·농도 단계·현재 상품을 특정한 사진은 아닙니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2015-12-05",
+      "width": 1024,
+      "height": 1024,
+      "modification": "공개된 원본 미리보기 파일을 그대로 저장. 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    },
+    "new-food-nanaya-chocolate": {
+      "src": "/photos/new-food-nanaya-chocolate.jpg",
+      "alt": "농도가 다른 나나야 말차 초콜릿을 접시에 펼친 모습",
+      "caption": "나나야 말차 초콜릿 상품 자료 · 2022년 촬영 · 아오야마점 촬영 여부 미확인",
+      "author": "Kanesue",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "source": "https://www.flickr.com/photos/kanesue/52073680271",
+      "sourceDescription": "Matcha Chocolate",
+      "viewEvidence": "원본 제목은 Matcha Chocolate, 원본 키워드는 nanaya·chocolate·matcha입니다. 직접 사진에서 여덟 조각의 말차 초콜릿을 확인했습니다. 아오야마점 실내·현재 판매 구성을 보증하지 않습니다.",
+      "checkedAt": "2026-10-18",
+      "capturedAt": "2022-03-14",
+      "width": 1024,
+      "height": 768,
+      "modification": "공개된 원본 미리보기 파일을 그대로 저장. 자르기·합성·색상 보정 없음.",
+      "objectPosition": "center"
+    }
+  },
+  "spotPhotoIds": {
+    "west-aoyama": "new-food-west-pancake",
+    "nanaya-aoyama": "new-food-nanaya-gelato"
+  },
+  "spotPhotos": {
+    "west-aoyama": [
+      "new-food-west-pancake"
+    ],
+    "nanaya-aoyama": [
+      "new-food-nanaya-gelato",
+      "new-food-nanaya-chocolate"
+    ]
+  }
+}

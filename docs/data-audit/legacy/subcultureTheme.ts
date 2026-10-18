@@ -1,0 +1,103 @@
+// cspell:words harajuku chiikawa chiikawaland radiokaikan skytreetown megatokyo kiddyland
+import type { TravelTheme, ThemeSpot } from './themes'
+import type { ThemeEvidence } from './themeEvidence'
+import { starWarsEntryNotice } from './references'
+
+const checkedAt = '2026-10-18'
+const pokemon = (store:string) => `https://shop.pokemon.co.jp/ja/shop/pokemoncenter-${store}/`
+const nintendo = 'https://www.nintendo.com/jp/officialstore/index.html'
+const harajuku = 'https://www.kiddyland.co.jp/harajuku/'
+const tokyoStation = 'https://www.tokyoeki-1bangai.co.jp/shop/detail/?cd=000198'
+const animate = 'https://www.animate.co.jp/shop/akihabara/'
+const radio = 'https://akihabara-radiokaikan.co.jp/access/'
+const benelic = 'https://benelicstore.com/info/shop/'
+const evidence = (summary:string, officialUrl:string, photoPageUrl=officialUrl, verificationNote='공식 점포 안내의 주소·일반 운영 확인. 12월 임시 변경·재고·행사 조건은 방문 전 재확인하세요.'):ThemeEvidence => ({summary, officialUrl, photoPageUrl, checkedAt, photoNote:'공식 원문 사진을 확인하는 링크입니다. 앱 내 사진 재사용 허가를 뜻하지 않습니다.', verificationNote})
+const closed = '정기 휴무 미기재 · 시설 휴관·임시 변경 확인'
+const shopping = '일반 쇼핑 · 상품·유료 체험·이벤트 조건 별도'
+const spots:ThemeSpot[] = [
+ {
+  id:'subculture-shibuya-pokemon',name:'포켓몬센터 시부야',kind:'place',address:'도쿄도 시부야구 우다가와초 15-1 · 시부야 PARCO 6층',query:'ポケモンセンターシブヤ 渋谷PARCO 6F',
+  note:'시부야 PARCO에서 포켓몬 굿즈와 매장 연출을 살펴보는 곳입니다. 같은 층 Nintendo TOKYO와 묶어서 관심 상품을 골라볼 수 있습니다.',
+  details:'시부야역에서 도보 약 5분입니다. 일반 매장 안내는 매일 10:00–21:00. Pokémon Design Lab 등 별도 서비스는 운영일·접수·가격을 확인하고, 12월 이용 가능 여부나 한정 상품 재고를 미리 확정하지 마세요. 시부야는 기존 필수 일정에 없는 선택 후보입니다.',
+  officialUrl:pokemon('shibuya'),verified:'공식 주소·시간 확인 · 2026.10.18',
+  references:[{title:'포켓몬 공식 · 시부야 점포·공지',url:pokemon('shibuya')},{title:'시부야 PARCO 공식 · 시설 안내',url:'https://shibuya.parco.jp/'}],
+  visitorInfo:{hours:'매일 10:00–21:00',closed,admission:shopping,checkedAt,sourceUrl:pokemon('shibuya'),note:'커스텀 서비스·행사별 접수와 혼잡 공지는 별도 확인'},
+  evidence:evidence('시부야 PARCO 6층의 포켓몬 굿즈 매장입니다.',pokemon('shibuya')),
+ },
+ {
+  id:'subculture-nintendo',name:'닌텐도 TOKYO',kind:'place',address:'도쿄도 시부야구 우다가와초 15-1 · 시부야 PARCO 6층',query:'Nintendo TOKYO 渋谷PARCO 6F',
+  note:'닌텐도 게임과 캐릭터 굿즈를 둘러보는 직영 공식 매장입니다. 게임기·소프트웨어와 상품을 구분해 관심 있는 코너부터 살펴보세요.',
+  details:'입장료는 무료입니다. 공식 안내상 주말·공휴일 등 혼잡 예상일에는 1인 1장의 정리권으로 입점을 접수합니다. 개점 전 PARCO 1층, 개점 후 6층 외부 계단 입구 마리오상 앞이라는 현재 안내를 방문 전에 다시 확인하세요. 체험·이벤트 개최나 특정 상품 구매 가능성을 보장하지 않습니다.',
+  officialUrl:nintendo,verified:'공식 시간·무료 입장·정리권 안내 확인 · 2026.10.18',
+  references:[{title:'닌텐도 공식 · 운영·입장·정리권',url:nintendo},{title:'시부야 PARCO 공식 · Nintendo TOKYO',url:'https://shibuya.parco.jp/shop/detail/?cd=025793'}],
+  visitorInfo:{hours:'10:00–21:00',closed:'시부야 PARCO 영업일에 따름',admission:'입장 무료 · 혼잡 예상일 정리권',checkedAt,sourceUrl:'https://shibuya.parco.jp/shop/detail/?cd=025793',note:'영업시간은 시부야 PARCO 공식 기준. 주말·공휴일 정리권 접수 안내 있음. 12월 방문일 공지 재확인'},
+  evidence:evidence('포켓몬센터와 같은 층에서 닌텐도 캐릭터 상품을 만나는 매장입니다.',nintendo,'https://shibuya.parco.jp/shop/detail/?cd=025793'),
+ },
+ {
+  id:'subculture-chiikawa-harajuku',name:'치이카와랜드 하라주쿠',kind:'place',address:'도쿄도 시부야구 진구마에 6-1-9 · 키디랜드 하라주쿠점 1층',query:'ちいかわらんど 原宿店 神宮前6-1-9',
+  note:'치이카와 캐릭터 상품을 집중해서 둘러보는 공식 매장입니다. 키디랜드 하라주쿠점 1층에 있어 주변 하라주쿠 산책과 연결할 수 있습니다.',
+  details:'운영사 2025년 9월 발표에서 같은 해 10/10부터 1층 전체로 확장한 점포임을 확인했습니다. 현재 키디랜드 하라주쿠점 안내는 11:00–20:00이며 변경 가능성이 있습니다. 신상품일의 입점·구매 수량 제한과 재고를 최신 공지에서 확인하세요. 개점 당시 증정품·가격을 현재 혜택으로 안내하지 않습니다.',
+  officialUrl:'https://chiikawa-info.jp/chiikawaland/harajuku/',verified:'공식 점포·운영사 확장 발표 확인 · 2026.10.18',
+  references:[{title:'치이카와 공식 · 하라주쿠점',url:'https://chiikawa-info.jp/chiikawaland/harajuku/'},{title:'키디랜드 공식 · 시간·주소',url:harajuku},{title:'운영사 발표 · 1층 확장(2025)',url:'https://www.atpress.ne.jp/news/2884745'}],
+  visitorInfo:{hours:'11:00–20:00 · 변경 가능',closed,admission:shopping,checkedAt,sourceUrl:harajuku,note:'키디랜드 공식 표기이나 코로나 시기 단축 안내가 남아 있어 방문 전 재확인 · 신상품 판매일 입점·수량 제한과 12월 공지 확인'},
+  evidence:evidence('키디랜드 하라주쿠점 1층에 자리한 치이카와 공식 매장입니다.','https://chiikawa-info.jp/chiikawaland/harajuku/'),
+ },
+ {
+  id:'subculture-chiikawa-tokyo',name:'치이카와랜드 도쿄 스테이션',kind:'place',address:'도쿄도 지요다구 마루노우치 1-9-1 · 도쿄역 일번가 지하 1층 도쿄 캐릭터 스트리트',query:'ちいかわらんど TOKYO Station 東京駅一番街',
+  note:'도쿄역 캐릭터 스트리트에 있는 치이카와 공식 매장입니다. 다른 캐릭터 숍과 함께 짧게 둘러보고 싶은 후보입니다.',
+  details:'시설 공식 안내는 지하 1층, 10:00–20:30입니다. 도쿄역은 개찰구·통로가 복잡하므로 일번가 공식 지도로 점포 위치를 먼저 확인하세요. 신상품 발매·혼잡 시 입점과 구매 제한을 확인하고 공항 이동일에 추가 쇼핑 시간을 고정하지 마세요.',
+  officialUrl:'https://chiikawa-info.jp/chiikawaland/tokyo/',verified:'캐릭터·시설 공식 점포 안내 확인 · 2026.10.18',
+  references:[{title:'치이카와 공식 · 도쿄 스테이션점',url:'https://chiikawa-info.jp/chiikawaland/tokyo/'},{title:'도쿄역 일번가 공식 · 층수·시간·지도',url:tokyoStation}],
+  visitorInfo:{hours:'10:00–20:30',closed,admission:shopping,checkedAt,sourceUrl:tokyoStation,note:'역 구내 이동·혼잡을 고려하고 귀국일 공항 이동을 우선'},
+  evidence:evidence('도쿄역 지하 캐릭터 스트리트에서 치이카와 상품을 둘러보는 곳입니다.','https://chiikawa-info.jp/chiikawaland/tokyo/'),
+ },
+ {
+  id:'subculture-animate',name:'애니메이트 아키하바라',kind:'place',address:'도쿄도 지요다구 소토칸다 4-3-1 · 1호관 기준 / 2호관·별관 입구 별도',query:'アニメイト秋葉原 東京都千代田区外神田4-3-1',
+  note:'애니메이션·게임 캐릭터 굿즈를 작품별로 찾아보는 매장입니다. 건물이 여러 곳이므로 사고 싶은 상품·이벤트가 어느 건물인지 먼저 확인하세요.',
+  details:'공식 2026/8/8 리뉴얼 안내 기준 1호관 1–6층은 캐릭터 굿즈 중심, 별관은 캡슐토이·게임 캐릭터·공식 숍·행사 층으로 나뉩니다. 1·2호관은 매일 10:00–21:00, 별관은 평일 10:00–21:00 / 주말·공휴일 10:00–20:00입니다. 카페·행사는 다른 예약·운영 조건을 적용할 수 있습니다.',
+  officialUrl:animate,verified:'공식 리뉴얼·건물별 시간 확인 · 2026.10.18',
+  references:[{title:'애니메이트 공식 · 건물·운영시간',url:animate},{title:'공식 · 건물별 접근·사진',url:animate+'access/'}],
+  visitorInfo:{hours:'1·2호관 매일 10:00–21:00 / 별관 평일 10:00–21:00·주말·공휴일 20:00까지',closed,admission:shopping,checkedAt,sourceUrl:animate,note:'별관·카페·행사장 시간과 입점 조건 구분'},
+  evidence:evidence('아키하바라의 여러 건물에서 작품별 굿즈를 찾는 매장입니다.',animate,animate+'access/'),
+ },
+ {
+  id:'subculture-radiokaikan',name:'아키하바라 라디오회관',kind:'place',address:'도쿄도 지요다구 소토칸다 1-15-16',query:'秋葉原ラジオ会館 東京都千代田区外神田1-15-16',
+  note:'피규어·카드·취미 상품을 취급하는 여러 점포가 모인 건물입니다. 한 매장처럼 보기보다 층별 점포를 정해 방문하세요.',
+  details:'공식 건물 일반 영업은 10:00–20:00이며 개별 매장의 개점 시각·휴무는 다를 수 있습니다. 지하 식당 시간과 쇼핑층 시간을 혼동하지 마세요. JR 아키하바라역 전자상가 출구 부근이며, 공식 층별 안내에서 관심 매장을 고른 뒤 재고·구매 제한을 확인하세요.',
+  officialUrl:radio,verified:'공식 주소·건물 시간 확인 · 2026.10.18',
+  references:[{title:'라디오회관 공식 · 시간·주소·층별 안내',url:radio},{title:'지요다구 관광협회 · 라디오회관',url:'https://visit-chiyoda.tokyo/app/spot/detail/441'}],
+  visitorInfo:{hours:'건물 일반 10:00–20:00 · 매장별 상이',closed:'매장별 휴무·건물 임시 변경 확인',admission:shopping,checkedAt,sourceUrl:radio,note:'식당·개별 매장 운영은 쇼핑층 일반 시간과 다를 수 있음'},
+  evidence:evidence('아키하바라역 가까이에서 피규어와 카드 매장을 골라 보는 건물입니다.',radio,'https://visit-chiyoda.tokyo/app/spot/detail/441'),
+ },
+ {
+  id:'subculture-starwars',name:'스타워즈 스토어 by BENELIC',kind:'place',placeId:'starwars',address:'도쿄도 도시마구 미나미이케부쿠로 1-28-2 · 이케부쿠로 PARCO 본관 6층',query:'STAR WARS STORE by BENELIC 池袋PARCO 本館6F',
+  note:'스타워즈 공식 굿즈와 커스텀 상품을 살펴보는 매장입니다. 일부 상품을 원하는 디자인으로 꾸미는 체험형 굿즈 코너(유료)는 대상 상품·조건을 확인하세요.',
+  details:'일반 영업은 11:00–21:00입니다. 2026/10/13 공식 공지에서 일반 입점 예약제가 종료되었음을 확인했습니다. 혼잡 시 입점 정리권과 대기가 있을 수 있습니다. 공유 게시물의 “사전 예약 필요” 문구를 현재 일반 입장 규칙으로 적용하지 않으며, 별도 체험·행사 조건은 방문 전 다시 확인합니다.',
+  officialUrl:benelic,verified:'공식 시간·주소·예약제 종료 확인 · 2026.10.18',
+  references:[{title:'BENELIC 공식 · 점포·영업시간',url:benelic},{title:'공식 · 2026/10/13 일반 입점 예약제 종료',url:starWarsEntryNotice}],
+  visitorInfo:{hours:'11:00–21:00',closed:'PARCO 휴관·임시 변경 확인',admission:'일반 입점 예약제 종료 · 혼잡 시 정리권 / 상품·체험 유료',checkedAt,sourceUrl:benelic,note:'10/13 이후 예약 없이 일반 입점. 12/13 재공지·별도 행사 조건 확인'},
+  evidence:evidence('이케부쿠로 PARCO 본관 6층의 스타워즈 공식 매장입니다.',benelic,benelic,'2026/10/13 일반 입점 예약제 종료 공지 확인. 혼잡 시 정리권과 별도 체험·행사는 구분합니다.'),
+ },
+ {
+  id:'subculture-mega',name:'포켓몬센터 MEGA TOKYO',kind:'place',placeId:'mega',address:'도쿄도 도시마구 히가시이케부쿠로 3-1-2 · 선샤인시티 alpa 2층',query:'ポケモンセンターメガトウキョー サンシャインシティ alpa 2F',
+  note:'선샤인시티에서 포켓몬 굿즈를 고르고 매장 연출을 보는 곳입니다. 스타워즈 스토어와는 다른 건물이라 이케부쿠로 내 도보 이동 시간을 확보하세요.',
+  details:'현재 공식 점포 페이지는 매일 10:00–20:00와 2026년 10월 공지를 안내합니다. 히가시이케부쿠로역 도보 약 3분, 이케부쿠로역 약 8분이라는 공식 접근 기준입니다. 피카츄 스위츠·카드 스테이션·Pokémon GO Lab은 공식 매장 페이지에 함께 안내되지만 각 시설의 현재 운영은 미확인이며 주문·참가 조건도 다릅니다. 과거 임시휴업 자료보다 방문일 최신 공지를 우선하세요.',
+  officialUrl:pokemon('megatokyo'),verified:'현재 공식 점포·가을 공지 확인 · 2026.10.18',
+  references:[{title:'포켓몬 공식 · MEGA TOKYO 시간·현재 공지',url:pokemon('megatokyo')},{title:'선샤인시티 공식 · 시설·접근',url:'https://sunshinecity.jp/'}],
+  visitorInfo:{hours:'매일 10:00–20:00',closed,admission:shopping,checkedAt,sourceUrl:pokemon('megatokyo'),note:'별도 카페·카드 행사 조건 및 12/13 임시 변경 확인'},
+  evidence:evidence('선샤인시티 alpa 2층의 포켓몬 매장과 관련 공간을 둘러보는 후보입니다.',pokemon('megatokyo'),pokemon('megatokyo'),'현재 점포 운영시간과 10월 공지를 확인했습니다. 과거 임시휴업의 정확한 재개일은 이번 조사에서 공식 원문으로 재검증하지 않아 날짜를 단정하지 않습니다.'),
+ },
+ {
+  id:'subculture-skypokemon',name:'포켓몬센터 SKYTREE TOWN',kind:'place',placeId:'skypokemon',address:'도쿄도 스미다구 오시아게 1-1-2 · 도쿄 소라마치 이스트야드 4층',query:'ポケモンセンタースカイツリータウン ソラマチ イーストヤード4F',
+  note:'스카이트리 옆 소라마치에서 포켓몬 굿즈와 매장 연출을 만나는 곳입니다. 전망대와 매장은 별도 시설입니다.',
+  details:'공식 일반 안내는 매일 10:00–21:00, 이스트야드 4층입니다. 도쿄스카이트리역 또는 오시아게역에서 시설 내 안내를 따라 이동하세요. 스카이트리 전망대 티켓이 매장 이용권을 뜻하지 않으며, 한정 상품·행사·혼잡 입점 조건은 최신 공지에서 확인합니다. 기존 4일차 방문 계획과 별도 저장할 수 있는 탐색 항목입니다.',
+  officialUrl:pokemon('skytreetown'),verified:'공식 주소·층수·시간 확인 · 2026.10.18',
+  references:[{title:'포켓몬 공식 · SKYTREE TOWN',url:pokemon('skytreetown')},{title:'소라마치 공식 · 시설·접근',url:'https://www.tokyo-solamachi.jp/'}],
+  visitorInfo:{hours:'매일 10:00–21:00',closed,admission:shopping,checkedAt,sourceUrl:pokemon('skytreetown'),note:'전망대 티켓·운영시간과 매장 이용은 별도'},
+  evidence:evidence('소라마치 이스트야드 4층에서 만나는 포켓몬 굿즈 매장입니다.',pokemon('skytreetown')),
+ },
+]
+export const subcultureTheme:TravelTheme = {
+ id:'subculture',title:'서브컬처·굿즈',description:'포켓몬, 닌텐도, 치이카와와 스타워즈. 매장의 층수·입점 조건을 확인하고 관심 있는 곳을 골라보세요.',
+ caution:'기존 날짜별 일정에 자동 추가하지 않은 탐색 후보입니다. 12월 임시 운영·신상품 재고·혼잡 정리권과 체험 접수는 방문 전에 공식 공지를 확인하세요.',spots,
+}

@@ -1,0 +1,277 @@
+{
+ "id": "pharmacy",
+ "title": "약국 관심 품목",
+ "description": "공유된 제품 이름을 기억하기 위한 목록입니다. 개인별 치료·구매·복용 추천이 아니며, 약사 상담과 공식 설명서 확인을 먼저 하세요.",
+ "references": [
+  {
+   "title": "PMDA · 일반의약품 설명서 검색",
+   "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+   "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+  },
+  {
+   "title": "공유 게시자 프로필 · 게시물 원문 URL 미제공",
+   "url": "https://www.instagram.com/beige_yaksa/",
+   "note": "사용자가 제공한 본문을 한국어로 요약했습니다. 이 링크는 게시물 원문이 아닌 게시자 프로필이며 공식 검증 근거와 구분합니다."
+  }
+ ],
+ "coverPhotoId": "theme-cover-pharmacy",
+ "spots": [
+  {
+   "id": "taisho-patch",
+   "name": "다이쇼 구내염 패치 · クイックケア(현행)",
+   "address": "大正製薬 · 지정 제2류",
+   "query": "다이쇼 구내염 패치 · クイックケア(현행)",
+   "kind": "product",
+   "note": "패치 종류에 따라 성분과 사용 조건이 달라 정확한 제품명 확인이 필요합니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://brand.taisho.co.jp/kounaien/product/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "다이쇼제약 口内炎パッチ大正クイックケア(지정 제2류 의약품)는 트리암시놀론아세토니드를 넣은 지름 10mm 구내염 패치입니다. 5세 미만은 사용하지 않습니다.",
+    "officialUrl": "https://www.catalog-taisho.com/category/11/002/01950/",
+    "photoPageUrl": "https://www.catalog-taisho.com/category/11/002/01950/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이쇼제약 공식 카탈로그: 10매 1,742엔(희망소매가). 口内炎パッチ大正A는 2023년 자율 회수 후 공식 목록에 없습니다. 공유 제품과 같은지는 미확정입니다.",
+    "verification": "partial"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   },
+   "photoGap": "product"
+  },
+  {
+   "id": "rohto-premium",
+   "name": "로토 V 프리미엄 · Vロートプレミアム",
+   "address": "ロート製薬 · 제2류 15mL",
+   "query": "로토 V 프리미엄 · Vロートプレミアム",
+   "kind": "product",
+   "note": "제품 라인과 콘택트렌즈·사용 조건 확인이 필요한 관심 품목입니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://jp.rohto.com/vrohto-premium-series/premium/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "로토제약 Vロートプレミアム(제2류 의약품, 15mL)는 유효성분 12종을 넣은 눈 피로·충혈용 점안약입니다. 콘택트렌즈용은 별도 제품(Vロートコンタクトプレミアム)입니다.",
+    "officialUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+    "photoPageUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "로토 공식 제품 페이지와 공식 보도자료(2022): 15mL 1,650엔(세금 포함).",
+    "verification": "confirmed",
+    "name": "V로토 프리미엄 점안액"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   }
+  },
+  {
+   "id": "miyaflora",
+   "name": "미야플로라 · ミヤフローラEX",
+   "address": "ミヤリサン製薬 · 지정 의약부외품",
+   "query": "미야플로라 · ミヤフローラEX",
+   "kind": "product",
+   "note": "공유된 제품명입니다. 제조사 목록에서 제품·등급을 확인하세요. 다른 유산균보다 낫다는 비교는 검증하지 않았습니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://www.miyarisan.com/product/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "미야리산제약 ミヤフローラEX(지정 의약부외품)는 낙산균(미야이리균)과 우르소데옥시콜산을 넣은 소화·정장약입니다. 8세 미만은 복용하지 않습니다.",
+    "officialUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+    "photoPageUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "미야리산제약 공식 제품 페이지: 84/230/420정, 공식 가격 미표기. 제조사 사이트는 사진 무단 복제를 금지합니다.",
+    "verification": "partial"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   }
+  },
+  {
+   "id": "biofermin",
+   "name": "신비오페르민S · 錠/細粒",
+   "address": "大正製薬(ビオフェルミン) · 지정 의약부외품",
+   "query": "신비오페르민S · 錠/細粒",
+   "kind": "product",
+   "note": "공유 글에서 비교 대상으로 언급한 제품입니다. 비추천·제품 간 우열은 그대로 반영하지 않고 공식 제품 정보만 연결합니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://brand.taisho.co.jp/biofermin/product/s/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "新ビオフェルミンS(지정 의약부외품)는 사람 유래 유산균 2종과 비피두스균 1종을 넣은 정장제입니다. 정제는 5세 이상, 세립은 생후 3개월부터 복용합니다.",
+    "officialUrl": "https://brand.taisho.co.jp/biofermin/product/s/",
+    "photoPageUrl": "https://brand.taisho.co.jp/biofermin/product/s/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이쇼제약 공식 브랜드 페이지와 카탈로그: 정제 48정 578엔~540정 4,002엔, 세립 45g 1,245엔(희망소매가).",
+    "verification": "partial"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   },
+   "photoGap": "product"
+  },
+  {
+   "id": "nail-care",
+   "name": "츠메큐어 · チュメキュア",
+   "address": "小林製薬 · 제3류 의약품",
+   "query": "츠메큐어 · チュメキュア",
+   "kind": "product",
+   "note": "공유명과 가장 가까운 공식 제품입니다. 외용 의약품이며 단순 손톱 영양제로 분류하지 않습니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://www.kobayashi.co.jp/seihin/chmc/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "고바야시제약 チュメキュア(제3류 의약품, 5g)는 손톱 주변의 하얗고 딱딱한 각질을 부드럽게 하고 혈행을 돕는 크림형 외용약입니다.",
+    "officialUrl": "https://www.kobayashi.co.jp/seihin/chmc/",
+    "photoPageUrl": "https://www.kobayashi.co.jp/seihin/chmc/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "고바야시제약 공식 제품 페이지: 5g 1,000엔(희망소매가, 세금 제외). 공유명 「츠메큐어」가 이 제품인지는 미확정입니다.",
+    "verification": "identified"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   }
+  },
+  {
+   "id": "chlomy",
+   "name": "크로마이-N 연고 · クロマイ-N軟膏",
+   "address": "第一三共ヘルスケア · 제2류",
+   "query": "크로마이-N 연고 · クロマイ-N軟膏",
+   "kind": "product",
+   "note": "항생제·항진균 성분을 포함하는 의약품입니다. 모호한 피부 증상에 임의로 사용하도록 안내하지 않습니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "다이이치산쿄헬스케어 クロマイ-N軟膏는 항생물질 2종과 항진균 성분을 넣은 비스테로이드 연고입니다. 효능은 화농성 피부질환(전염성 농가진·면정·모낭염)입니다.",
+    "officialUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+    "photoPageUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이이치산쿄헬스케어 공식 제품 페이지: 12g 1,705엔(세금 포함).",
+    "verification": "confirmed",
+    "name": "크로마이-N 연고"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   }
+  },
+  {
+   "id": "hepalize",
+   "name": "헤파리제 · 라인 확인 필요",
+   "address": "ゼリア新薬 · 의약품/청량음료 구분",
+   "query": "헤파리제 · 라인 확인 필요",
+   "kind": "product",
+   "note": "라인별 분류와 성분을 확인하세요. 음주·피로를 이유로 복용하거나 선물하도록 추천하지 않습니다.",
+   "details": "공유된 제품 관심 목록입니다. 치료·복용 추천이 아닙니다. 정확한 제품과 사용 가능 여부·상호작용·연령 조건은 약사와 설명서로 확인하세요. SNS의 효능·제품 간 우열 주장은 검증된 안내로 옮기지 않았습니다.",
+   "references": [
+    {
+     "title": "제품·설명서 확인",
+     "url": "https://www.zeria.co.jp/hepa/"
+    },
+    {
+     "title": "PMDA · 일반의약품 설명서 검색",
+     "url": "https://www.pmda.go.jp/PmdaSearch/otcSearch/",
+     "note": "정확한 제품·성분·사용상 주의와 복용 중인 약을 약사에게 확인하세요."
+    }
+   ],
+   "evidence": {
+    "summary": "제리아신약 ヘパリーゼプラスII(제3류 의약품)는 자양강장 정제이며 15세 미만은 복용하지 않습니다. 의약품 라인과 음료 라인은 이름이 비슷해 포장으로 구분해야 합니다.",
+    "officialUrl": "https://www.zeria.co.jp/hepa/iyaku/product/plus2/",
+    "photoPageUrl": "https://www.zeria.co.jp/hepa/iyaku/product/plus2/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "제리아신약 공식 제품 페이지: 6정 363엔·60정 2,178엔·180정 5,445엔(희망소매가). 공유 제품의 라인은 미확정입니다.",
+    "verification": "partial"
+   },
+   "visitorInfo": {
+    "hours": "판매점별 영업시간·상품 재고 확인",
+    "closed": "판매점별 휴무 확인",
+    "admission": "가격·판매 기간은 제품별 확인",
+    "checkedAt": "2026-10-18",
+    "sourceUrl": null
+   },
+   "photoGap": "product"
+  }
+ ]
+}

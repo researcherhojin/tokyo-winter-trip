@@ -1,0 +1,133 @@
+{
+  "seven-noodle": {
+    "summary": "세븐프리미엄 컵라면 蒙古タンメン中本 辛旨味噌(122g)입니다. 일부 점포는 취급하지 않습니다.",
+    "officialUrl": "https://7premium.jp/product/search/detail?id=5038",
+    "photoPageUrl": "https://7premium.jp/product/search/detail?id=5038",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "세븐프리미엄 공식 상품 페이지: 122g · 259엔(세금 포함) · 일부 점포 미취급. 공유 후기의 장조림·노른자 조합은 개인 레시피입니다.",
+    "verification": "partial"
+  },
+  "seven-smoothie": {
+    "summary": "세븐카페 カフェラテスムージー는 2025년 8월 12일 수량 한정으로 나온 상품입니다. 2026년 재판매는 발표되지 않았습니다.",
+    "officialUrl": "https://prtimes.jp/main/html/rd/p/000000307.000155396.html",
+    "photoPageUrl": "https://prtimes.jp/main/html/rd/p/000000307.000155396.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "세븐-일레븐 재팬 공식 보도자료(2025): 278엔(세금 포함 300.24엔), 8/12부터 수량 한정. 2026년 세븐카페 스무디 발표 9건에 카페라테는 없습니다.",
+    "verification": "partial",
+    "name": "세븐카페 카페라테 스무디",
+    "highlight": "2025년 한정 상품 발표 · 2026년 12월 판매 미확인"
+  },
+  "lawson-mochi": {
+    "summary": "로손 もちぷよ(홋카이도산 생크림이 든 우유 크림)는 쫀득한 반죽에 부드럽게 녹는 크림을 넣은 한 손 디저트입니다. 오키나와 로손에서는 팔지 않습니다.",
+    "officialUrl": "https://www.lawson.co.jp/recommend/original/detail/1530060_1996.html",
+    "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1530060_1996.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "로손 공식 상품 페이지: 127엔(세금 포함), 오키나와 미취급, 지역에 따라 예고 없이 판매 종료 가능.",
+    "verification": "confirmed",
+    "name": "로손 모찌푸요 · 우유 크림"
+  },
+  "lawson-pasta": {
+    "summary": "로손 ソースたっぷり生パスタ カルボナーラ는 크림 맛이 진한 카르보나라 소스에 쫄깃한 페투치네를 쓴 생파스타입니다.",
+    "officialUrl": "https://www.lawson.co.jp/recommend/original/detail/1528746_1996.html",
+    "photoPageUrl": "https://www.lawson.co.jp/recommend/original/detail/1528746_1996.html",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "로손 공식 상품 페이지: 646엔(세금 포함), 지역에 따라 예고 없이 판매 종료 가능. 공유 후기의 상품과 같은지는 미확정입니다.",
+    "verification": "partial"
+  },
+  "seven-sweet-potato": {
+    "summary": "세븐프리미엄 냉동 カリッと大学いも(90g)는 국산 고구마를 바삭하게 마무리한 고구마맛탕입니다.",
+    "officialUrl": "https://7premium.jp/product/search/detail?id=3396",
+    "photoPageUrl": "https://7premium.jp/product/search/detail?id=3396",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "세븐프리미엄 공식 상품 페이지(90g, 가격은 점포 확인)와 세븐-일레븐 공식 보도자료(2025-09, 198엔·세금 포함 213.84엔). 12월 점포 재고는 미확인입니다.",
+    "verification": "partial"
+  },
+  "mcdonalds-burger": {
+    "summary": "일본 맥도날드 겨울 한정 グラコロ는 2025년 11월 26일부터 12월 하순(예정)까지 판매됐습니다. 2026년 판매 일정은 아직 발표되지 않았습니다.",
+    "officialUrl": "https://www.mcdonalds.co.jp/company/news/2025/1118a/",
+    "photoPageUrl": null,
+    "checkedAt": "2026-10-18",
+    "photoNote": "상품 사진을 확인하지 못했습니다. 다른 제품 사진으로 대신하지 않습니다.",
+    "verificationNote": "일본 맥도날드 공식 뉴스(2025): グラコロ 440엔~, 11/26~12월 하순. 2026년 뉴스 목록(10/15 기준)에는 발표가 없습니다. 공유 글에 메뉴명이 없어 グラコロ로 특정하지 않았습니다.",
+    "verification": "unresolved"
+  },
+  "cooler-bag": {
+    "summary": "Standard Products 保温トートバッグ(21×21×17cm)는 안감에 발포 폴리에틸렌과 알루미늄 증착 필름을 쓴 보온·보냉 토트입니다.",
+    "officialUrl": "https://item.rakuten.co.jp/daiso-officialshop/sp0029/",
+    "photoPageUrl": "https://item.rakuten.co.jp/daiso-officialshop/sp0029/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "Standard Products 공식 라쿠텐점: 330엔, 21×21×17cm, 온라인 GY 색상 품절. 공유 글의 가방과 같은 모델인지는 미확정입니다.",
+    "verification": "partial"
+  },
+  "rohto-premium": {
+    "summary": "로토제약 Vロートプレミアム(제2류 의약품, 15mL)는 유효성분 12종을 넣은 눈 피로·충혈용 점안약입니다. 콘택트렌즈용은 별도 제품(Vロートコンタクトプレミアム)입니다.",
+    "officialUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+    "photoPageUrl": "https://jp.rohto.com/vrohto-premium-series/premium/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "로토 공식 제품 페이지와 공식 보도자료(2022): 15mL 1,650엔(세금 포함).",
+    "verification": "confirmed",
+    "name": "V로토 프리미엄 점안액"
+  },
+  "taisho-patch": {
+    "summary": "다이쇼제약 口内炎パッチ大正クイックケア(지정 제2류 의약품)는 트리암시놀론아세토니드를 넣은 지름 10mm 구내염 패치입니다. 5세 미만은 사용하지 않습니다.",
+    "officialUrl": "https://www.catalog-taisho.com/category/11/002/01950/",
+    "photoPageUrl": "https://www.catalog-taisho.com/category/11/002/01950/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이쇼제약 공식 카탈로그: 10매 1,742엔(희망소매가). 口内炎パッチ大正A는 2023년 자율 회수 후 공식 목록에 없습니다. 공유 제품과 같은지는 미확정입니다.",
+    "verification": "partial"
+  },
+  "miyaflora": {
+    "summary": "미야리산제약 ミヤフローラEX(지정 의약부외품)는 낙산균(미야이리균)과 우르소데옥시콜산을 넣은 소화·정장약입니다. 8세 미만은 복용하지 않습니다.",
+    "officialUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+    "photoPageUrl": "https://www.miyarisan.com/product/ミヤフローラⓡex/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "미야리산제약 공식 제품 페이지: 84/230/420정, 공식 가격 미표기. 제조사 사이트는 사진 무단 복제를 금지합니다.",
+    "verification": "partial"
+  },
+  "biofermin": {
+    "summary": "新ビオフェルミンS(지정 의약부외품)는 사람 유래 유산균 2종과 비피두스균 1종을 넣은 정장제입니다. 정제는 5세 이상, 세립은 생후 3개월부터 복용합니다.",
+    "officialUrl": "https://brand.taisho.co.jp/biofermin/product/s/",
+    "photoPageUrl": "https://brand.taisho.co.jp/biofermin/product/s/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이쇼제약 공식 브랜드 페이지와 카탈로그: 정제 48정 578엔~540정 4,002엔, 세립 45g 1,245엔(희망소매가).",
+    "verification": "partial"
+  },
+  "chlomy": {
+    "summary": "다이이치산쿄헬스케어 クロマイ-N軟膏는 항생물질 2종과 항진균 성분을 넣은 비스테로이드 연고입니다. 효능은 화농성 피부질환(전염성 농가진·면정·모낭염)입니다.",
+    "officialUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+    "photoPageUrl": "https://www.daiichisankyo-hc.co.jp/site_chlomyn/product/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "다이이치산쿄헬스케어 공식 제품 페이지: 12g 1,705엔(세금 포함).",
+    "verification": "confirmed",
+    "name": "크로마이-N 연고"
+  },
+  "nail-care": {
+    "summary": "고바야시제약 チュメキュア(제3류 의약품, 5g)는 손톱 주변의 하얗고 딱딱한 각질을 부드럽게 하고 혈행을 돕는 크림형 외용약입니다.",
+    "officialUrl": "https://www.kobayashi.co.jp/seihin/chmc/",
+    "photoPageUrl": "https://www.kobayashi.co.jp/seihin/chmc/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "고바야시제약 공식 제품 페이지: 5g 1,000엔(희망소매가, 세금 제외). 공유명 「츠메큐어」가 이 제품인지는 미확정입니다.",
+    "verification": "identified"
+  },
+  "hepalize": {
+    "summary": "제리아신약 ヘパリーゼプラスII(제3류 의약품)는 자양강장 정제이며 15세 미만은 복용하지 않습니다. 의약품 라인과 음료 라인은 이름이 비슷해 포장으로 구분해야 합니다.",
+    "officialUrl": "https://www.zeria.co.jp/hepa/iyaku/product/plus2/",
+    "photoPageUrl": "https://www.zeria.co.jp/hepa/iyaku/product/plus2/",
+    "checkedAt": "2026-10-18",
+    "photoNote": "재사용 가능한 실제 상품 사진이 없어 공식 상품 페이지의 사진을 원문 링크로 보여줍니다.",
+    "verificationNote": "제리아신약 공식 제품 페이지: 6정 363엔·60정 2,178엔·180정 5,445엔(희망소매가). 공유 제품의 라인은 미확정입니다.",
+    "verification": "partial"
+  }
+}
